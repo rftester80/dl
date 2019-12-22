@@ -1,200 +1,486 @@
 #EXTM3U
-#EXTINF:0,CA : A&E
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/727
-#EXTINF:0,CA : ABC HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
-#EXTINF:0,CA : ABC SPARK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
-#EXTINF:0,CA : ABC WEST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/725
-#EXTINF:0,CA : ACTION
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
-#EXTINF:0,CA : AHC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
-#EXTINF:0,CA : AMC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
-#EXTINF:0,CA : ANIMAL PLANET
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
-#EXTINF:0,CA : BBC CANADA
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
-#EXTINF:0,CA : BBC WORLD NEWS
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/570
-#EXTINF:0,CA : BNN
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/752
-#EXTINF:0,CA : BRAVO
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/717
-#EXTINF:0,CA : CANAL SAVOIR
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/716
-#EXTINF:0,CA : CBC NEWS
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/575
-#EXTINF:0,CA : CBS EAST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
-#EXTINF:0,CA : CBS WEST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/572
-#EXTINF:0,CA : CHCH HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/545
-#EXTINF:0,CA : CINÉPOP
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/710
-#EXTINF:0,CA : CITY VANCOUVER
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/708
-#EXTINF:0,CA : CMT
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
-#EXTINF:0,CA : CNBC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/571
-#EXTINF:0,CA : COMEDY EAST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
-#EXTINF:0,CA : COOKING CHANNEL
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/704
-#EXTINF:0,CA : CRIME INVESTIGATION
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
-#EXTINF:0,CA : CTV NEWS NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
-#EXTINF:0,CA : DAYSTAR TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
-#EXTINF:0,CA : DISCOVERY CANADA
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
-#EXTINF:0,CA : DISCOVERY SCIENCE
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
-#EXTINF:0,CA : DISNEY CANADA
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
-#EXTINF:0,CA : DOCUMENTARY CHANNEL
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
-#EXTINF:0,CA : E!
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/687
-#EXTINF:0,CA : FAMILY EAST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/684
-#EXTINF:0,CA : FAMILY JR
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/683
-#EXTINF:0,CA : FIGHT NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
-#EXTINF:0,CA : FOOD NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/681
-#EXTINF:0,CA : FOX
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/569
-#EXTINF:0,CA : FOX EAST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
-#EXTINF:0,CA : FOX NEWS
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/679
-#EXTINF:0,CA : FX
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
-#EXTINF:0,CA : FXX
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
-#EXTINF:0,CA : GAME TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/676
-#EXTINF:0,CA : GINX ESPORTS TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
-#EXTINF:0,CA : HBO
-http://media ptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
-#EXTINF:0,CA : HBO 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671
-#EXTINF:0,CA : HGTV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
-#EXTINF:0,CA : HISTORY 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
-#EXTINF:0,CA : HISTORY CHANNEL
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
-#EXTINF:0,CA : HUNT CHANNEL
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/745
-#EXTINF:0,CA : ID
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
-#EXTINF:0,CA : LIFETIME
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
-#EXTINF:0,CA : M ENCORE 1
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
-#EXTINF:0,CA : M ENCORE 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/685
-#EXTINF:0,CA : MAX
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
-#EXTINF:0,CA : MLB NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
-#EXTINF:0,CA : MOI CIE
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
-#EXTINF:0,CA : MOVIE TIME
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
-#EXTINF:0,CA : MTV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/657
-#EXTINF:0,CA : MTV 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
-#EXTINF:0,CA : MUSIQUE PLUS
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
-#EXTINF:0,CA : NATIONAL GEOGRAPHIC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
-#EXTINF:0,CA : NBA TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
-#EXTINF:0,CA : NBC HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/559
-#EXTINF:0,CA : NBC WEST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/651
-#EXTINF:0,CA : NTV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
-#EXTINF:0,CA : OLN
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
-#EXTINF:0,CA : OWN
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
-#EXTINF:0,CA : RDI
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
-#EXTINF:0,CA : RDS
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
-#EXTINF:0,CA : RDS 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
-#EXTINF:0,CA : SPACE CHANNEL
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/750
-#EXTINF:0,CA : SPIKE TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
-#EXTINF:0,CA : SPORTSNET 360 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
-#EXTINF:0,CA : SPORTSNET EAST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
-#EXTINF:0,CA : SPORTSNET ONE HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
-#EXTINF:0,CA : SPORTSNET PACIFIC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/635
-#EXTINF:0,CA : SPORTSNET WEST HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/547
-#EXTINF:0,CA : SPORTSNET WORLD HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/546
-#EXTINF:0,CA : SUPER ECRAN 1
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
-#EXTINF:0,CA : SUPER ECRAN 2
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
-#EXTINF:0,CA : SUPER ECRAN 3
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
-#EXTINF:0,CA : SUPER ECRAN 4
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
-#EXTINF:0,CA : TELETOON FRENCH
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
-#EXTINF:0,CA : THE SHOPPING CHANNEL
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/638
-#EXTINF:0,CA : TLC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/628
-#EXTINF:0,CA : TREEHOUSE
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
-#EXTINF:0,CA : TSN 1 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/554
-#EXTINF:0,CA : TSN 2 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
-#EXTINF:0,CA : TSN 3 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
-#EXTINF:0,CA : TSN 4 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
-#EXTINF:0,CA : TSN 5 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
-#EXTINF:0,CA : TV5 QUEBEC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
-#EXTINF:0,CA : TVA OTTAWA
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
-#EXTINF:0,CA : TVA SPORTS
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
-#EXTINF:0,CA : VISION TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
-#EXTINF:0,CA : W NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/618
-#EXTINF:0,CA : YES TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/615
-#EXTINF:0,CA : YTV WEST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
-#EXTINF:0,CA : The Weather Network
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/555
+#EXTINF:0,CA: ZTELE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542948
+#EXTINF:0,CA: ZESTE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542947
+#EXTINF:0,CA: YTV West
+http://tv.sigma-iptv.com:7000/45905/13543107/575542946
+#EXTINF:0,CA: YTV E
+http://tv.sigma-iptv.com:7000/45905/13543107/575542945
+#EXTINF:0,CA: YOOPA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542944
+#EXTINF:0,CA: YES TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542943
+#EXTINF:0,CA: WWE HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542942
+#EXTINF:0,CA: WSBK
+http://tv.sigma-iptv.com:7000/45905/13543107/575542941
+#EXTINF:0,CA: WORLD FISHING NET
+http://tv.sigma-iptv.com:7000/45905/13543107/575542940
+#EXTINF:0,CA: Wild TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542939
+#EXTINF:0,CA: WFN
+http://tv.sigma-iptv.com:7000/45905/13543107/575542938
+#EXTINF:0,CA: W NETWORK
+http://tv.sigma-iptv.com:7000/45905/13543107/575542937
+#EXTINF:0,CA: VTELE HD
+http://tv.sigma-iptv.com:7000/45905/13543107/505
+#EXTINF:0,CA: VRAK TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542936
+#EXTINF:0,CA: VISION
+http://tv.sigma-iptv.com:7000/45905/13543107/575542935
+#EXTINF:0,CA: UNIS TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542934
+#EXTINF:0,CA: TVO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542933
+#EXTINF:0,CA: TVA SPORTS HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542932
+#EXTINF:0,CA: TVA SPORTS 1 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542931
+#EXTINF:0,CA: TVA GATINEAU
+http://tv.sigma-iptv.com:7000/45905/13543107/575542930
+#EXTINF:0,CA: TV5 QUEBEC
+http://tv.sigma-iptv.com:7000/45905/13543107/575542929
+#EXTINF:0,CA: TSN 5HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542928
+#EXTINF:0,CA: TSN 4HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542927
+#EXTINF:0,CA: TSN 1HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542926
+#EXTINF:0,CA: TSN  3HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542925
+#EXTINF:0,CA: TREEHOUSE HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542924
+#EXTINF:0,CA: TREEHOUSE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542923
+#EXTINF:0,CA: TRAVEL
+http://tv.sigma-iptv.com:7000/45905/13543107/575542922
+#EXTINF:0,CA: TMN 4
+http://tv.sigma-iptv.com:7000/45905/13543107/575542921
+#EXTINF:0,CA: TMN 3
+http://tv.sigma-iptv.com:7000/45905/13543107/575542920
+#EXTINF:0,CA: TMN 2
+http://tv.sigma-iptv.com:7000/45905/13543107/575542919
+#EXTINF:0,CA: TMN 1
+http://tv.sigma-iptv.com:7000/45905/13543107/575542918
+#EXTINF:0,CA: TLC HD CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542917
+#EXTINF:0,CA: THE WEATHER NETWORK
+http://tv.sigma-iptv.com:7000/45905/13543107/575542916
+#EXTINF:0,CA: THE WEATHER CHANNEL HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542915
+#EXTINF:0,CA: TFO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542914
+#EXTINF:0,CA: TELETOON
+http://tv.sigma-iptv.com:7000/45905/13543107/575542913
+#EXTINF:0,CA: TELEMAGINO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542912
+#EXTINF:0,CA: TELE TOON WEST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542911
+#EXTINF:0,CA: TELE TOON FRENCH
+http://tv.sigma-iptv.com:7000/45905/13543107/575542910
+#EXTINF:0,CA: TELE TOON EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542909
+#EXTINF:0,CA: TELE TOON
+http://tv.sigma-iptv.com:7000/45905/13543107/575542908
+#EXTINF:0,CA: TELE QUEBEC
+http://tv.sigma-iptv.com:7000/45905/13543107/575542907
+#EXTINF:0,CA: TELE LATINO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542906
+#EXTINF:0,CA: TCM
+http://tv.sigma-iptv.com:7000/45905/13543107/575542905
+#EXTINF:0,CA: SUPER ECRAN 4
+http://tv.sigma-iptv.com:7000/45905/13543107/575542904
+#EXTINF:0,CA: SUPER ECRAN 3
+http://tv.sigma-iptv.com:7000/45905/13543107/575542903
+#EXTINF:0,CA: SUPER ECRAN 2
+http://tv.sigma-iptv.com:7000/45905/13543107/575542902
+#EXTINF:0,CA: SUPER ECRAN 1
+http://tv.sigma-iptv.com:7000/45905/13543107/575542901
+#EXTINF:0,CA: SUPER CHANNEL HEART & HOME
+http://tv.sigma-iptv.com:7000/45905/13543107/575542899
+#EXTINF:0,CA: SUPER CHANNEL FUSE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542898
+#EXTINF:0,CA: SPORTSNET WORLD HD.
+http://tv.sigma-iptv.com:7000/45905/13543107/575542896
+#EXTINF:0,CA: SPORTSNET WORLD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542895
+#EXTINF:0,CA: SPORTSNET WEST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542894
+#EXTINF:0,CA: SPORTSNET PACIFIC HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542893
+#EXTINF:0,CA: SPORTSNET PACIFIC
+http://tv.sigma-iptv.com:7000/45905/13543107/575542892
+#EXTINF:0,CA: SPORTSNET ONTARIO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542891
+#EXTINF:0,CA: SPORTSNET ONE HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542890
+#EXTINF:0,CA: SPORTSNET ONE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542889
+#EXTINF:0,CA: SPORTSNET EAST HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542888
+#EXTINF:0,CA: SPORTSNET EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542887
+#EXTINF:0,CA: SPORTSNET 360 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542886
+#EXTINF:0,CA: SPORTSNET 360
+http://tv.sigma-iptv.com:7000/45905/13543107/575542885
+#EXTINF:0,CA: SPORTSMAN CHANNEL CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542884
+#EXTINF:0,CA: SPORTS NET WORLD HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542883
+#EXTINF:0,CA: SPORTS NET ONTARIO HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542881
+#EXTINF:0,CA: SPORTS NET ONE HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542880
+#EXTINF:0,CA: SPORTS NET EAST HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542879
+#EXTINF:0,CA: SPORTNET ONTARIO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542878
+#EXTINF:0,CA: SPORTNET 360
+http://tv.sigma-iptv.com:7000/45905/13543107/575542876
+#EXTINF:0,CA: SPIKE TV / PARAMOUNT CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542875
+#EXTINF:0,CA: SPIKE TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542874
+#EXTINF:0,CA: SPACE HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542873
+#EXTINF:0,CA: SPACE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542872
+#EXTINF:0,CA: SMITHSONIAN HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542871
+#EXTINF:0,CA: SLICE HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542870
+#EXTINF:0,CA: SLICE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542869
+#EXTINF:0,CA: SILVER SCREEN CLASSICS
+http://tv.sigma-iptv.com:7000/45905/13543107/575542868
+#EXTINF:0,CA: SHOWCASE HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542867
+#EXTINF:0,CA: SHOWCASE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542866
+#EXTINF:0,CA: SHOPPING
+http://tv.sigma-iptv.com:7000/45905/13543107/575542865
+#EXTINF:0,CA: SERIES
+http://tv.sigma-iptv.com:7000/45905/13543107/575542864
+#EXTINF:0,CA: RT AMERICA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542863
+#EXTINF:0,CA: RDS INFO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542862
+#EXTINF:0,CA: RDS 2
+http://tv.sigma-iptv.com:7000/45905/13543107/575542861
+#EXTINF:0,CA: RDS
+http://tv.sigma-iptv.com:7000/45905/13543107/575542860
+#EXTINF:0,CA: RDI
+http://tv.sigma-iptv.com:7000/45905/13543107/575542859
+#EXTINF:0,CA: PRISE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542858
+#EXTINF:0,CA: PORTSNET WEST HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542857
+#EXTINF:0,CA: PEACH TREE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542856
+#EXTINF:0,CA: PBS WEST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542855
+#EXTINF:0,CA: PBS EAST HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542854
+#EXTINF:0,CA: OWN HD (OPRAH WINFRY NETWORK)
+http://tv.sigma-iptv.com:7000/45905/13543107/575542853
+#EXTINF:0,CA: OWN HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542852
+#EXTINF:0,CA: OWN
+http://tv.sigma-iptv.com:7000/45905/13543107/575542851
+#EXTINF:0,CA: OUTTV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542850
+#EXTINF:0,CA: ONE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542849
+#EXTINF:0,CA: OMNI EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542848
+#EXTINF:0,CA: OMNI BC
+http://tv.sigma-iptv.com:7000/45905/13543107/575542847
+#EXTINF:0,CA: OMNI 2
+http://tv.sigma-iptv.com:7000/45905/13543107/575542846
+#EXTINF:0,CA: Omni 1 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542845
+#EXTINF:0,CA: OLN HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542844
+#EXTINF:0,CA: OLN
+http://tv.sigma-iptv.com:7000/45905/13543107/575542843
+#EXTINF:0,CA: NTV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542842
+#EXTINF:0,CA: NICK
+http://tv.sigma-iptv.com:7000/45905/13543107/575542841
+#EXTINF:0,CA: NFL NETWORK
+http://tv.sigma-iptv.com:7000/45905/13543107/575542840
+#EXTINF:0,CA: NBC WEST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542839
+#EXTINF:0,CA: NBC EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542838
+#EXTINF:0,CA: NBA TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542837
+#EXTINF:0,CA: NAT GEO WILD HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542836
+#EXTINF:0,CA: NAT GEO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542835
+#EXTINF:0,CA: MUSIQUE PLUS
+http://tv.sigma-iptv.com:7000/45905/13543107/575542834
+#EXTINF:0,CA: MUCH MUSIC
+http://tv.sigma-iptv.com:7000/45905/13543107/575542833
+#EXTINF:0,CA: MUCH
+http://tv.sigma-iptv.com:7000/45905/13543107/575542832
+#EXTINF:0,CA: MTV2
+http://tv.sigma-iptv.com:7000/45905/13543107/575542831
+#EXTINF:0,CA: MTV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542830
+#EXTINF:0,CA: MTIME
+http://tv.sigma-iptv.com:7000/45905/13543107/575542829
+#EXTINF:0,CA: MSNBC HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542828
+#EXTINF:0,CA: MSNBC
+http://tv.sigma-iptv.com:7000/45905/13543107/575542827
+#EXTINF:0,CA: MONTREAL  3 / TVA WEST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542826
+#EXTINF:0,CA: MOI  CIE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542825
+#EXTINF:0,CA: MLB NETWORK
+http://tv.sigma-iptv.com:7000/45905/13543107/575542824
+#EXTINF:0,CA: MIRACLE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542823
+#EXTINF:0,CA: METEO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542822
+#EXTINF:0,CA: MEDIASET ITALIA CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542821
+#EXTINF:0,CA: MAX
+http://tv.sigma-iptv.com:7000/45905/13543107/575542820
+#EXTINF:0,CA: MAVTV CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542819
+#EXTINF:0,CA: MAKEFUL
+http://tv.sigma-iptv.com:7000/45905/13543107/575542818
+#EXTINF:0,CA: LIFETIME
+http://tv.sigma-iptv.com:7000/45905/13543107/575542817
+#EXTINF:0,CA: LCN HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542816
+#EXTINF:0,CA: LCN
+http://tv.sigma-iptv.com:7000/45905/13543107/575542815
+#EXTINF:0,CA: KTLA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542814
+#EXTINF:0,CA: KNOWLEDGE KIDS
+http://tv.sigma-iptv.com:7000/45905/13543107/575542813
+#EXTINF:0,CA: JOY
+http://tv.sigma-iptv.com:7000/45905/13543107/575542812
+#EXTINF:0,CA: IFC
+http://tv.sigma-iptv.com:7000/45905/13543107/575542811
+#EXTINF:0,CA: ID HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542810
+#EXTINF:0,CA: ID CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542809
+#EXTINF:0,CA: ICI VANCOUVER
+http://tv.sigma-iptv.com:7000/45905/13543107/575542808
+#EXTINF:0,CA: ICI MONTREAL
+http://tv.sigma-iptv.com:7000/45905/13543107/575542807
+#EXTINF:0,CA: HOPE TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542806
+#EXTINF:0,CA: HISTORY HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542804
+#EXTINF:0,CA: HISTORIA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542803
+#EXTINF:0,CA: HGTV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542802
+#EXTINF:0,CA: HBO EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542801
+#EXTINF:0,CA: HBO 2
+http://tv.sigma-iptv.com:7000/45905/13543107/575542800
+#EXTINF:0,CA: HBO 1
+http://tv.sigma-iptv.com:7000/45905/13543107/575542799
+#EXTINF:0,CA: GSN
+http://tv.sigma-iptv.com:7000/45905/13543107/575542796
+#EXTINF:0,CA: GLOBAL TORONTO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542794
+#EXTINF:0,CA: GLOBAL HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542793
+#EXTINF:0,CA: GLOBAL HALIFAX
+http://tv.sigma-iptv.com:7000/45905/13543107/575542792
+#EXTINF:0,CA: GLOBAL EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542791
+#EXTINF:0,CA: GLOBAL CALGARY
+http://tv.sigma-iptv.com:7000/45905/13543107/575542790
+#EXTINF:0,CA: GINX ESPORTS TV CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542789
+#EXTINF:0,CA: Game TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542788
+#EXTINF:0,CA: FXX HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542786
+#EXTINF:0,CA: FTV CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542785
+#EXTINF:0,CA: FRISSON
+http://tv.sigma-iptv.com:7000/45905/13543107/575542784
+#EXTINF:0,CA: FOOD NETWORK
+http://tv.sigma-iptv.com:7000/45905/13543107/575542778
+#EXTINF:0,CA: FIGHT NETWORK
+http://tv.sigma-iptv.com:7000/45905/13543107/575542777
+#EXTINF:0,CA: FAMILY WEST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542776
+#EXTINF:0,CA: FAMILY JR
+http://tv.sigma-iptv.com:7000/45905/13543107/575542775
+#EXTINF:0,CA: FAMILY CHRGD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542773
+#EXTINF:0,CA: EVASION
+http://tv.sigma-iptv.com:7000/45905/13543107/575542772
+#EXTINF:0,CA: ENCORE 1 EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542770
+#EXTINF:0,CA: E! CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542769
+#EXTINF:0,CA: DTOUR
+http://tv.sigma-iptv.com:7000/45905/13543107/575542768
+#EXTINF:0,CA: DIY NETWORK HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542766
+#EXTINF:0,CA: DIY NETWORK
+http://tv.sigma-iptv.com:7000/45905/13543107/575542765
+#EXTINF:0,CA: DISNEY JR HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542764
+#EXTINF:0,CA: DISNEY JR
+http://tv.sigma-iptv.com:7000/45905/13543107/575542763
+#EXTINF:0,CA: DISNEY FRENCH
+http://tv.sigma-iptv.com:7000/45905/13543107/575542762
+#EXTINF:0,CA: DISNEY CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542761
+#EXTINF:0,CA: DISCOVERY SCIENCE CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542760
+#EXTINF:0,CA: DISCOVERY CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542759
+#EXTINF:0,CA: DEJAVIEW
+http://tv.sigma-iptv.com:7000/45905/13543107/575542758
+#EXTINF:0,CA: DAYSTAR TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542757
+#EXTINF:0,CA: CW 11 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542756
+#EXTINF:0,CA: CTV VANCOUVER
+http://tv.sigma-iptv.com:7000/45905/13543107/575542754
+#EXTINF:0,CA: CTV TORONTO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542753
+#EXTINF:0,CA: CTV OTTAWA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542752
+#EXTINF:0,CA: CTV NEWS HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542750
+#EXTINF:0,CA: CTV MONTREAL
+http://tv.sigma-iptv.com:7000/45905/13543107/575542748
+#EXTINF:0,CA: CTV HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542747
+#EXTINF:0,CA: CTV HALIFAX
+http://tv.sigma-iptv.com:7000/45905/13543107/575542746
+#EXTINF:0,CA: CTV EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542745
+#EXTINF:0,CA: CTV CALGARY
+http://tv.sigma-iptv.com:7000/45905/13543107/575542744
+#EXTINF:0,CA: CTV BARRIE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542743
+#EXTINF:0,CA: CTV 2 VANCOUVER
+http://tv.sigma-iptv.com:7000/45905/13543107/575542742
+#EXTINF:0,CA: CRIME   INVEST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542741
+#EXTINF:0,CA: CREATE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542740
+#EXTINF:0,CA: CPAC FRENCH
+http://tv.sigma-iptv.com:7000/45905/13543107/575542739
+#EXTINF:0,CA: CP 24 HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542735
+#EXTINF:0,CA: Cottage Life HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542734
+#EXTINF:0,CA: COTTAGE LIFE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542733
+#EXTINF:0,CA: COSMO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542732
+#EXTINF:0,CA: COOKING CHANNEL
+http://tv.sigma-iptv.com:7000/45905/13543107/575542731
+#EXTINF:0,CA: COMEDY WEST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542730
+#EXTINF:0,CA: COMEDY HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542729
+#EXTINF:0,CA: COMEDY GOLD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542728
+#EXTINF:0,CA: COMEDY EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542727
+#EXTINF:0,CA: CNN HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542726
+#EXTINF:0,CA: CNN
+http://tv.sigma-iptv.com:7000/45905/13543107/575542725
+#EXTINF:0,CA: CNBC HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542724
+#EXTINF:0,CA: CMT CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542723
+#EXTINF:0,CA: CITY WINNIPEG
+http://tv.sigma-iptv.com:7000/45905/13543107/575542722
+#EXTINF:0,CA: City Vancouver HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542721
+#EXTINF:0,CA: CITY VANCOUVER
+http://tv.sigma-iptv.com:7000/45905/13543107/575542720
+#EXTINF:0,CA: City Toronto HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542719
+#EXTINF:0,CA: CINEPOP
+http://tv.sigma-iptv.com:7000/45905/13543107/575542714
+#EXTINF:0,CA: CHCH
+http://tv.sigma-iptv.com:7000/45905/13543107/575542712
+#EXTINF:0,CA: CBS WEST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542711
+#EXTINF:0,CA: CBS EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542710
+#EXTINF:0,CA: CBC VANCOUVER
+http://tv.sigma-iptv.com:7000/45905/13543107/575542709
+#EXTINF:0,CA: CBC Toronto HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542708
+#EXTINF:0,CA: CBC TORONTO
+http://tv.sigma-iptv.com:7000/45905/13543107/575542707
+#EXTINF:0,CA: CBC OTTAWA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542706
+#EXTINF:0,CA: CBC NOVA SCOTIA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542705
+#EXTINF:0,CA: CBC NEWS
+http://tv.sigma-iptv.com:7000/45905/13543107/575542703
+#EXTINF:0,CA: CBC Montreal HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542702
+#EXTINF:0,CA: CASA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542699
+#EXTINF:0,CA: CANAL VIE
+http://tv.sigma-iptv.com:7000/45905/13543107/575542696
+#EXTINF:0,CA: CANAL D HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542694
+#EXTINF:0,CA: BOOK TV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542692
+#EXTINF:0,CA: BNN
+http://tv.sigma-iptv.com:7000/45905/13543107/575542690
+#EXTINF:0,CA: BET
+http://tv.sigma-iptv.com:7000/45905/13543107/575542689
+#EXTINF:0,CA: BBC WORLD NEWS
+http://tv.sigma-iptv.com:7000/45905/13543107/575542688
+#EXTINF:0,CA: BBC KIDS
+http://tv.sigma-iptv.com:7000/45905/13543107/575542687
+#EXTINF:0,CA: BBC CANADA
+http://tv.sigma-iptv.com:7000/45905/13543107/575542686
+#EXTINF:0,CA: ARTV
+http://tv.sigma-iptv.com:7000/45905/13543107/575542684
+#EXTINF:0,CA: APTN HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542683
+#EXTINF:0,CA: Animal Planet HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542682
+#EXTINF:0,CA: ANIMAL PLANET
+http://tv.sigma-iptv.com:7000/45905/13543107/575542681
+#EXTINF:0,CA: AMC
+http://tv.sigma-iptv.com:7000/45905/13543107/575542679
+#EXTINF:0,CA: AE HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542677
+#EXTINF:0,CA: ACTION
+http://tv.sigma-iptv.com:7000/45905/13543107/575542675
+#EXTINF:0,CA: ABC SPARK HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542673
+#EXTINF:0,CA: ABC SPARK
+http://tv.sigma-iptv.com:7000/45905/13543107/575542672
+#EXTINF:0,CA: ABC HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542671
+#EXTINF:0,CA: ABC EAST
+http://tv.sigma-iptv.com:7000/45905/13543107/575542670
+#EXTINF:0,CA:  FAMILY HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542668
+#EXTINF:0,CA:  BRAVO HD
+http://tv.sigma-iptv.com:7000/45905/13543107/575542666
 #EXTINF:-1,USA : A&E HD
 http://tv2iptv.com:8000/Janel/janel123/37755
 #EXTINF:-1,USA : COMEDY CENTRAL HD
