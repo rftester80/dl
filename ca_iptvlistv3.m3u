@@ -1205,6 +1205,9 @@ http://209.222.97.118:25461/live/Dave123/dave123/2724.ts
 #EXTINF:0,SPORTS CA: SPORTSNET ONE
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2725.ts
+#EXTINF:0,SPORTS CA: SPORTSNET ONE 2
+#EXTVLCOPT:network-caching=1000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
 #EXTINF:0,SPORTS CA: SPORTSNET ONTARIO
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2726.ts
