@@ -1,51 +1,57 @@
 #EXTM3U
-#EXTINF:0,CA : TVA SPORTS
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/6441.ts
 #EXTINF:0,CA: A&E
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/727
-#EXTINF:0,CA: A&E
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/727
 #EXTINF:0,CA: ABC HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
-#EXTINF:0,CA: ABC HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
 #EXTINF:0,CA: ABC SPARK
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2650.ts
-#EXTINF:0,CA: ABC SPARK
+#EXTINF:0,CA: ABC SPARK 2
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
 #EXTINF:0,CA: ABC WEST
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/725
 #EXTINF:0,CA: ACTION
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
 #EXTINF:0,CA: AHC
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
 #EXTINF:0,CA: AMC
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/2651.ts
-#EXTINF:0,CA: AMC
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
+#EXTINF:0,CA: AMC 2
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2651.ts
 #EXTINF:0,CA: ANIMAL PLANET
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
 #EXTINF:0,CA: BBC CANADA
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
 #EXTINF:0,CA: BBC WORLD NEWS
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/570
 #EXTINF:0,CA: BEIN SPORTS
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2652.ts
 #EXTINF:0,CA: BNN
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/752
-#EXTINF:0,CA: BNN
+#EXTINF:0,CA: BNN 2
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2654.ts
 #EXTINF:0,CA: BRAVO
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/717
-#EXTINF:0,CA: BRAVO
+#EXTINF:0,CA: BRAVO 2
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2656.ts
 #EXTINF:0,CA: CANAL SAVOIR
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/716
 #EXTINF:0,CA: CBC
 #EXTVLCOPT:network-caching=1000
@@ -54,23 +60,28 @@ http://209.222.97.118:25461/live/Dave123/dave123/2657.ts
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2663.ts
 #EXTINF:0,CA: CBC NEWS
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/575
 #EXTINF:0,CA: CBC NEWS NETWORK
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2740.ts
 #EXTINF:0,CA: CBC OTTAWA
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/712
 #EXTINF:0,CA: CBC TORONTO
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2667.ts
 #EXTINF:0,CA: CBC VANCOUVER
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/573
 #EXTINF:0,CA: CBS
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2673.ts
 #EXTINF:0,CA: CBS EAST
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
 #EXTINF:0,CA: CBS WEST
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/572
 #EXTINF:0,CA: CHCH
 #EXTVLCOPT:network-caching=1000
@@ -81,24 +92,28 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/545
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2675.ts
 #EXTINF:0,CA: CITY VANCOUVER
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/708
 #EXTINF:0,CA: CMT
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
 #EXTINF:0,CA: CNBC
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/571
 #EXTINF:0,CA: CNN
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
-#EXTINF:0,CA: CNN
+#EXTINF:0,CA: CNN 2
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2676.ts
 #EXTINF:0,CA: COMEDY
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2677.ts
 #EXTINF:0,CA: COMEDY EAST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
-#EXTINF:0,CA: COMEDY EAST
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
 #EXTINF:0,CA: COOKING CHANNEL
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/704
 #EXTINF:0,CA: CP24
 #EXTVLCOPT:network-caching=1000
@@ -107,6 +122,7 @@ http://209.222.97.118:25461/live/Dave123/dave123/2678.ts
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2679.ts
 #EXTINF:0,CA: CPAC FRENCH
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/701
 #EXTINF:0,CA: CRAVE 1
 #EXTVLCOPT:network-caching=1000
@@ -118,112 +134,146 @@ http://209.222.97.118:25461/live/Dave123/dave123/2681.ts
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2682.ts
 #EXTINF:0,CA: CRIME INVESTIGATION
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
-#EXTINF:0,CA: CRIME INVESTIGATION
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
 #EXTINF:0,CA: CTV
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2685.ts
 #EXTINF:0,CA: CTV 2 VANCOUVER
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/576
 #EXTINF:0,CA: CTV NEWS
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2686.ts
 #EXTINF:0,CA: CTV NEWS NETWORK
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
 #EXTINF:0,CA: CTV OTTAWA
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/697
 #EXTINF:0,CA: CTV VANCOUVER
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/577
 #EXTINF:0,CA: CTV2 OTTAWA
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
 #EXTINF:0,CA: CW
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2687.ts
 #EXTINF:0,CA: CW 11
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/695
 #EXTINF:0,CA: DAYSTAR TV
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
 #EXTINF:0,CA: DISCOVERY CANADA
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
 #EXTINF:0,CA: DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
+#EXTINF:0,CA: DISNEY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2688.ts
+#EXTINF:0,CA: DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2689.ts
+#EXTINF:0,CA: DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2690.ts
 #EXTINF:0,CA: DOCUMENTARY CHANNEL
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
 #EXTINF:0,CA: E!
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/687
 #EXTINF:0,CA: FAMILY EAST
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/684
 #EXTINF:0,CA: FAMILY JR
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/683
 #EXTINF:0,CA: FANTASY SPORTS
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2692.ts
 #EXTINF:0,CA: FIGHT NETWORK
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
-#EXTINF:0,CA: FIGHT NETWORK
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2693.ts
+#EXTINF:0,CA: FIGHT NETWORK
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
 #EXTINF:0,CA: FOOD NETWORK
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/681
-#EXTINF:0,CA: FOOD NETWORK
+#EXTINF:0,CA: FOOD NETWORK 2
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2694.ts
 #EXTINF:0,CA: FOX
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/569
-#EXTINF:0,CA: FOX
+#EXTINF:0,CA: FOX 2
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2695.ts
 #EXTINF:0,CA: FOX EAST
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
 #EXTINF:0,CA: FOX NEWS
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/679
 #EXTINF:0,CA: FX
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2696.ts
-#EXTINF:0,CA: FX
+#EXTINF:0,CA: FX 2
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
 #EXTINF:0,CA: FXX
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
-#EXTINF:0,CA: FXX
+#EXTINF:0,CA: FXX 2
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2697.ts
 #EXTINF:0,CA: FYI
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/677
 #EXTINF:0,CA: GAME TV
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/676
 #EXTINF:0,CA: GINX ESPORTS TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
-#EXTINF:0,CA: GINX ETV
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
 #EXTINF:0,CA: GLOBAL
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2698.ts
 #EXTINF:0,CA: GLOBAL HALIFAX
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/674
 #EXTINF:0,CA: GLOBAL TORONTO
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2700.ts
 #EXTINF:0,CA: GLOBAL VANCOUVER
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/578
 #EXTINF:0,CA: GOLF
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/673
 #EXTINF:0,CA: GSN
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2703.ts
 #EXTINF:0,CA: HBO
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2705.ts
-#EXTINF:0,CA: HBO
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
 #EXTINF:0,CA: HBO 2
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671
-#EXTINF:0,CA: HBO 2
+#EXTINF:0,CA: HBO 2 [Alternate Channel]
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2704.ts
+#EXTINF:0,CA: HBO [Alternate Channel]
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
 #EXTINF:0,CA: HGTV
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
-#EXTINF:0,CA: HGTV
+#EXTINF:0,CA: HGTV [Alternate Channel]
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2706.ts
 #EXTINF:0,CA: HISTORY
@@ -244,83 +294,101 @@ http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2750.ts
 #EXTINF:0,CA: ICI VANCOUVER
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/665
 #EXTINF:0,CA: ID
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
-#EXTINF:0,CA: ID
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
 #EXTINF:0,CA: LEAFS TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/751
-#EXTINF:0,CA: LEAFS TV
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/751
 #EXTINF:0,CA: LIFETIME
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
-#EXTINF:0,CA: LIFETIME
+#EXTINF:0,CA: LIFETIME 2
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2709.ts
 #EXTINF:0,CA: M ENCORE 1
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
 #EXTINF:0,CA: M ENCORE 2
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/685
 #EXTINF:0,CA: MAX
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
 #EXTINF:0,CA: MLB NETWORK
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
-#EXTINF:0,CA: MOVIE TIME
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
 #EXTINF:0,CA: MOVIETIME
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
+#EXTINF:0,CA: MOVIETIME [Alternate Channel]
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2711.ts
 #EXTINF:0,CA: MSNBC
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2712.ts
 #EXTINF:0,CA: MTV
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/657
 #EXTINF:0,CA: MTV 2
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
 #EXTINF:0,CA: NAT GEO
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2714.ts
 #EXTINF:0,CA: NAT GEO WILD
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2715.ts
 #EXTINF:0,CA: NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
 #EXTINF:0,CA: NBA TV
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
-#EXTINF:0,CA: NBA TV
+#EXTINF:0,CA: NBA TV 2
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2713.ts
 #EXTINF:0,CA: NBC
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2716.ts
 #EXTINF:0,CA: NBC HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/559
 #EXTINF:0,CA: NBC WEST
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/651
 #EXTINF:0,CA: NTV
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
-#EXTINF:0,CA: NTV 
+#EXTINF:0,CA: NTV 2
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/5559.ts
 #EXTINF:0,CA: OLN
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2702.ts
-#EXTINF:0,CA: OLN
+#EXTINF:0,CA: OLN 2
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
 #EXTINF:0,CA: OMNI BC
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/646
 #EXTINF:0,CA: OMNI EAST
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/645
 #EXTINF:0,CA: ONE
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/644
 #EXTINF:0,CA: OUTTV
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/643
+#EXTINF:0,CA: OWN
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
 #EXTINF:0,CA: OWN
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2717.ts
-#EXTINF:0,CA: OWN
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
 #EXTINF:0,CA: PBS
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2718.ts
@@ -349,125 +417,131 @@ http://209.222.97.118:25461/live/Dave123/dave123/2722.ts
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/750
 #EXTINF:0,CA: SPIKE TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
-#EXTINF:0,CA: SPIKE TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
 #EXTINF:0,CA: SPORTSNET 360
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2723.ts
 #EXTINF:0,CA: SPORTSNET 360 HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
 #EXTINF:0,CA: SPORTSNET EAST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
-#EXTINF:0,CA: SPORTSNET EAST
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2724.ts
+#EXTINF:0,CA: SPORTSNET EAST
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
 #EXTINF:0,CA: SPORTSNET ONE
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2725.ts
-#EXTINF:0,CA: SPORTSNET ONE 2
-#EXTVLCOPT:network-caching=1000
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
 #EXTINF:0,CA: SPORTSNET ONE HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
 #EXTINF:0,CA: SPORTSNET ONTARIO
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2726.ts
 #EXTINF:0,CA: SPORTSNET PACIFIC
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2727.ts
-#EXTINF:0,CA: SPORTSNET PACIFIC
+#EXTINF:0,CA: SPORTSNET PACIFIC 2
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/635
 #EXTINF:0,CA: SPORTSNET WEST
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2728.ts
 #EXTINF:0,CA: SPORTSNET WEST HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/547
 #EXTINF:0,CA: SPORTSNET WORLD
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2729.ts
 #EXTINF:0,CA: SPORTSNET WORLD HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/546
 #EXTINF:0,CA: SUPER ECRAN 1
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
 #EXTINF:0,CA: SUPER ECRAN 2
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
 #EXTINF:0,CA: SUPER ECRAN 3
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
 #EXTINF:0,CA: SUPER ECRAN 4
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
 #EXTINF:0,CA: TELE LATINO
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/749
+#EXTINF:0,CA: TELETOON
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6448.ts
 #EXTINF:0,CA: TELETOON FRENCH
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
 #EXTINF:0,CA: TLC
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/628
-#EXTINF:0,CA: TLC
-#EXTVLCOPT:network-caching=1000
+#EXTINF:0,CA: TLC 2
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2730.ts
 #EXTINF:0,CA: TMN 1
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/627
 #EXTINF:0,CA: TMN 2
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/626
 #EXTINF:0,CA: TMN 3
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/625
 #EXTINF:0,CA: TMN 4
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/624
 #EXTINF:0,CA: TREEHOUSE
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
 #EXTINF:0,CA: TREEHOUSE
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
-#EXTINF:0,CA: TSN  1
 #EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6445.ts
+#EXTINF:0,CA: TSN  1
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2731.ts
 #EXTINF:0,CA: TSN  2
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2732.ts
 #EXTINF:0,CA: TSN  3
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2733.ts
 #EXTINF:0,CA: TSN  4
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2734.ts
 #EXTINF:0,CA: TSN 1 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/554
-#EXTINF:0,CA: TSN 1 HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/554
 #EXTINF:0,CA: TSN 2 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
-#EXTINF:0,CA: TSN 2 HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
 #EXTINF:0,CA: TSN 3 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
-#EXTINF:0,CA: TSN 3 HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
 #EXTINF:0,CA: TSN 4 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
-#EXTINF:0,CA: TSN 4 HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
 #EXTINF:0,CA: TSN 5
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=5000
 http://209.222.97.118:25461/live/Dave123/dave123/2735.ts
 #EXTINF:0,CA: TSN 5 HD
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
-#EXTINF:0,CA: TSN 5 HD
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
-#EXTINF:0,CA: TV5 QUEBEC
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
 #EXTINF:0,CA: TV5 QUEBEC
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
 #EXTINF:0,CA: TVA OTTAWA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
-#EXTINF:0,CA: TVA OTTAWA
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
 #EXTINF:0,CA: TVA SPORTS
+#EXTVLCOPT:network-caching=5000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
 #EXTINF:0,CA: TVA SPORTS
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6441.ts
 #EXTINF:0,CA: UNIVISION
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2759.ts
-#EXTINF:0,CA: VISION TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
 #EXTINF:0,CA: VISION TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
 #EXTINF:0,CA: VRAK TV
@@ -481,19 +555,16 @@ http://209.222.97.118:25461/live/Dave123/dave123/2736.ts
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/617
 #EXTINF:0,CA: WGN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/616
-#EXTINF:0,CA: WGN
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/616
 #EXTINF:0,CA: WILD TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/746
-#EXTINF:0,CA: WILD TV 
+#EXTINF:0,CA: WILD TV 2
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/6442.ts
 #EXTINF:0,CA: YES TV
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/615
-#EXTINF:0,CA: YES TV
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/615
-#EXTINF:0,CA: YTV WEST
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
+#EXTINF:0,CA: YTV EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6447.ts
 #EXTINF:0,CA: YTV WEST
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
 #EXTINF:0,CBC
@@ -583,8 +654,6 @@ http://209.222.97.118:25461/live/Dave123/dave123/2768.ts
 http://209.222.97.118:25461/live/Dave123/dave123/2769.ts
 #EXTINF:0,EWTN CANADA
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/755
-#EXTINF:0,EWTN CANADA
-http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/755
 #EXTINF:0,EWTN SPAIN
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/753
 #EXTINF:0,EWTN UK
@@ -617,72 +686,6 @@ http://209.222.97.118:25461/live/Dave123/dave123/2774.ts
 #EXTINF:0,HD NET MOVIES
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/4057.ts
-#EXTINF:0,KIDS CA: DISNEY
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/2688.ts
-#EXTINF:0,KIDS CA: DISNEY JR
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/2689.ts
-#EXTINF:0,KIDS CA: DISNEY XD
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/2690.ts
-#EXTINF:0,KIDS CA: TELETOON
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/6448.ts
-#EXTINF:0,KIDS CA: TREEHOUSE
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/6445.ts
-#EXTINF:0,KIDS CA: YTV EAST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/6447.ts
-#EXTINF:0,KIDS US: BABY TV
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1470.ts
-#EXTINF:0,KIDS US: BOOMERANG
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1271.ts
-#EXTINF:0,KIDS US: CARTOON NETWORK
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1274.ts
-#EXTINF:0,KIDS US: CARTOON NETWORK WEST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/4041.ts
-#EXTINF:0,KIDS US: DISNEY CHANNEL EAST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1472.ts
-#EXTINF:0,KIDS US: DISNEY CHANNEL WEST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1471.ts
-#EXTINF:0,KIDS US: DISNEY JR EAST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1473.ts
-#EXTINF:0,KIDS US: DISNEY JR WEST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1474.ts
-#EXTINF:0,KIDS US: DISNEY XD EAST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1475.ts
-#EXTINF:0,KIDS US: DISNEY XD WEST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1476.ts
-#EXTINF:0,KIDS US: NICK JR EAST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1479.ts
-#EXTINF:0,KIDS US: NICKELODEON EAST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/7866.ts
-#EXTINF:0,KIDS US: NICKELODEON WEST
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1477.ts
-#EXTINF:0,KIDS US: NICKTOONS
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/1481.ts
-#EXTINF:0,KIDS US: PBS KIDS
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/6446.ts
-#EXTINF:0,KIDS US: UNIVERSAL KIDS (SPROUT)
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/4054.ts
 #EXTINF:0,MGM
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2776.ts
@@ -807,6 +810,9 @@ http://209.222.97.118:25461/live/Dave123/dave123/2781.ts
 #EXTINF:0,STARZ
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/2782.ts
+#EXTINF:0,STARZ & FAMILY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2786.ts
 #EXTINF:0,STARZ CINEMA
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/5653.ts
@@ -843,9 +849,6 @@ http://209.222.97.118:25461/live/Dave123/dave123/5553.ts
 #EXTINF:0,STARZ IN BLACK
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/5646.ts
-#EXTINF:0,STARZ KIDS & FAMILY
-#EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/2786.ts
 #EXTINF:0,TELE HD
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/81
 #EXTINF:0,THE MOVIE CHANNEL
@@ -1392,6 +1395,9 @@ http://209.222.97.118:25461/live/Dave123/dave123/7870.ts
 #EXTINF:0,US: AXS TV
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/1264.ts
+#EXTINF:0,US: BABY TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1470.ts
 #EXTINF:0,US: BBC AMERICA
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/1265.ts
@@ -1431,6 +1437,9 @@ http://209.222.97.118:25461/live/Dave123/dave123/5554.ts
 #EXTINF:0,US: BLOOMBERG POLITICS LIVE EVENT
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/7872.ts
+#EXTINF:0,US: BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1271.ts
 #EXTINF:0,US: BOUNCE TV
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/4040.ts
@@ -1449,6 +1458,12 @@ http://209.222.97.118:25461/live/Dave123/dave123/7874.ts
 #EXTINF:0,US: C-SPLAND
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/7875.ts
+#EXTINF:0,US: CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1274.ts
+#EXTINF:0,US: CARTOON NETWORK WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4041.ts
 #EXTINF:0,US: CBS
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/7877.ts
@@ -1566,6 +1581,24 @@ http://209.222.97.118:25461/live/Dave123/dave123/7881.ts
 #EXTINF:0,US: DISCOVERY WEST
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/1290.ts
+#EXTINF:0,US: DISNEY CHANNEL EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1472.ts
+#EXTINF:0,US: DISNEY CHANNEL WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1471.ts
+#EXTINF:0,US: DISNEY JR EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1473.ts
+#EXTINF:0,US: DISNEY JR WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1474.ts
+#EXTINF:0,US: DISNEY XD EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1475.ts
+#EXTINF:0,US: DISNEY XD WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1476.ts
 #EXTINF:0,US: DIY NETWORK
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/1294.ts
@@ -1926,6 +1959,18 @@ http://209.222.97.118:25461/live/Dave123/dave123/1489.ts
 #EXTINF:0,US: NHL NETWORK
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/1485.ts
+#EXTINF:0,US: NICK JR EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1479.ts
+#EXTINF:0,US: NICKELODEON EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7866.ts
+#EXTINF:0,US: NICKELODEON WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1477.ts
+#EXTINF:0,US: NICKTOONS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1481.ts
 #EXTINF:0,US: OLYMPIC CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/1422.ts
@@ -1956,6 +2001,9 @@ http://209.222.97.118:25461/live/Dave123/dave123/1427.ts
 #EXTINF:0,US: PBS
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/4050.ts
+#EXTINF:0,US: PBS KIDS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6446.ts
 #EXTINF:0,US: PEOPLE TV
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/1428.ts
@@ -2003,10 +2051,10 @@ http://209.222.97.118:25461/live/Dave123/dave123/5953.ts
 http://209.222.97.118:25461/live/Dave123/dave123/5954.ts
 #EXTINF:0,US: SD BABY TV
 #EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/5956.ts
+http://209.222.97.118:25461/live/Dave123/dave123/5955.ts
 #EXTINF:0,US: SD BABY TV
 #EXTVLCOPT:network-caching=1000
-http://209.222.97.118:25461/live/Dave123/dave123/5955.ts
+http://209.222.97.118:25461/live/Dave123/dave123/5956.ts
 #EXTINF:0,US: SD BBC WORLD NEWS
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/5957.ts
@@ -2388,6 +2436,9 @@ http://209.222.97.118:25461/live/Dave123/dave123/7909.ts
 #EXTINF:0,US: UFC FIGHT PASS
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/1484.ts
+#EXTINF:0,US: UNIVERSAL (SPROUT)
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4054.ts
 #EXTINF:0,US: UNIVISION
 #EXTVLCOPT:network-caching=1000
 http://209.222.97.118:25461/live/Dave123/dave123/6439.ts
