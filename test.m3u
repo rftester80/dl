@@ -1,0 +1,2709 @@
+#EXTM3U
+#EXTINF:0,CA: A&E
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/727
+#EXTINF:0,CA: ABC HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
+#EXTINF:0,CA: ABC SPARK
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2650.ts
+#EXTINF:0,CA: ABC SPARK 2
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
+#EXTINF:0,CA: ABC WEST
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/725
+#EXTINF:0,CA: ACTION
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
+#EXTINF:0,CA: AHC
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
+#EXTINF:0,CA: AMC
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
+#EXTINF:0,CA: AMC 2
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2651.ts
+#EXTINF:0,CA: ANIMAL PLANET
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
+#EXTINF:0,CA: BBC CANADA
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
+#EXTINF:0,CA: BBC WORLD NEWS
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/570
+#EXTINF:0,CA: BEIN SPORTS
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2652.ts
+#EXTINF:0,CA: BNN
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/752
+#EXTINF:0,CA: BNN 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2654.ts
+#EXTINF:0,CA: BRAVO
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/717
+#EXTINF:0,CA: BRAVO 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2656.ts
+#EXTINF:0,CA: CANAL SAVOIR
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/716
+#EXTINF:0,CA: CBC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2657.ts
+#EXTINF:0,CA: CBC NATIONAL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2663.ts
+#EXTINF:0,CA: CBC NEWS
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/575
+#EXTINF:0,CA: CBC NEWS NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2740.ts
+#EXTINF:0,CA: CBC OTTAWA
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/712
+#EXTINF:0,CA: CBC TORONTO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2667.ts
+#EXTINF:0,CA: CBC VANCOUVER
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/573
+#EXTINF:0,CA: CBS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2673.ts
+#EXTINF:0,CA: CBS EAST
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
+#EXTINF:0,CA: CBS WEST
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/572
+#EXTINF:0,CA: CHCH
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2674.ts
+#EXTINF:0,CA: CHCH HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/545
+#EXTINF:0,CA: CITY TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2675.ts
+#EXTINF:0,CA: CITY VANCOUVER
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/708
+#EXTINF:0,CA: CMT
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
+#EXTINF:0,CA: CNBC
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/571
+#EXTINF:0,CA: CNN
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
+#EXTINF:0,CA: CNN 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2676.ts
+#EXTINF:0,CA: COMEDY
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2677.ts
+#EXTINF:0,CA: COMEDY EAST
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
+#EXTINF:0,CA: COOKING CHANNEL
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/704
+#EXTINF:0,CA: CP24
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2678.ts
+#EXTINF:0,CA: CPAC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2679.ts
+#EXTINF:0,CA: CPAC FRENCH
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/701
+#EXTINF:0,CA: CRAVE 1
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2680.ts
+#EXTINF:0,CA: CRAVE 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2681.ts
+#EXTINF:0,CA: CRAVE 3
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2682.ts
+#EXTINF:0,CA: CRIME INVESTIGATION
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
+#EXTINF:0,CA: CTV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2685.ts
+#EXTINF:0,CA: CTV 2 VANCOUVER
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/576
+#EXTINF:0,CA: CTV NEWS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2686.ts
+#EXTINF:0,CA: CTV NEWS NETWORK
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
+#EXTINF:0,CA: CTV OTTAWA
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/697
+#EXTINF:0,CA: CTV VANCOUVER
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/577
+#EXTINF:0,CA: CTV2 OTTAWA
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
+#EXTINF:0,CA: CW
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2687.ts
+#EXTINF:0,CA: CW 11
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/695
+#EXTINF:0,CA: DAYSTAR TV
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
+#EXTINF:0,CA: DISCOVERY CANADA
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
+#EXTINF:0,CA: DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
+#EXTINF:0,CA: DISNEY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2688.ts
+#EXTINF:0,CA: DISNEY JR
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2689.ts
+#EXTINF:0,CA: DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2690.ts
+#EXTINF:0,CA: DOCUMENTARY CHANNEL
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
+#EXTINF:0,CA: E!
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/687
+#EXTINF:0,CA: FAMILY EAST
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/684
+#EXTINF:0,CA: FAMILY JR
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/683
+#EXTINF:0,CA: FANTASY SPORTS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2692.ts
+#EXTINF:0,CA: FIGHT NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2693.ts
+#EXTINF:0,CA: FIGHT NETWORK
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
+#EXTINF:0,CA: FOOD NETWORK
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/681
+#EXTINF:0,CA: FOOD NETWORK 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2694.ts
+#EXTINF:0,CA: FOX
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/569
+#EXTINF:0,CA: FOX 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2695.ts
+#EXTINF:0,CA: FOX EAST
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
+#EXTINF:0,CA: FOX NEWS
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/679
+#EXTINF:0,CA: FX
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2696.ts
+#EXTINF:0,CA: FX 2
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
+#EXTINF:0,CA: FXX
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
+#EXTINF:0,CA: FXX 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2697.ts
+#EXTINF:0,CA: FYI
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/677
+#EXTINF:0,CA: GAME TV
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/676
+#EXTINF:0,CA: GINX ESPORTS TV
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
+#EXTINF:0,CA: GLOBAL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2698.ts
+#EXTINF:0,CA: GLOBAL HALIFAX
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/674
+#EXTINF:0,CA: GLOBAL TORONTO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2700.ts
+#EXTINF:0,CA: GLOBAL VANCOUVER
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/578
+#EXTINF:0,CA: GOLF
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/673
+#EXTINF:0,CA: GSN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2703.ts
+#EXTINF:0,CA: HBO
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2705.ts
+#EXTINF:0,CA: HBO 2
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671
+#EXTINF:0,CA: HBO 2 [Alternate Channel]
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2704.ts
+#EXTINF:0,CA: HBO [Alternate Channel]
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
+#EXTINF:0,CA: HGTV
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
+#EXTINF:0,CA: HGTV [Alternate Channel]
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2706.ts
+#EXTINF:0,CA: HISTORY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2707.ts
+#EXTINF:0,CA: HISTORY 2
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
+#EXTINF:0,CA: HISTORY CHANNEL
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
+#EXTINF:0,CA: HLN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2708.ts
+#EXTINF:0,CA: HUNT CHANNEL
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/745
+#EXTINF:0,CA: ICI MONTREAL
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
+#EXTINF:0,CA: ICI TELE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2750.ts
+#EXTINF:0,CA: ICI VANCOUVER
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/665
+#EXTINF:0,CA: ID
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
+#EXTINF:0,CA: LEAFS TV
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/751
+#EXTINF:0,CA: LIFETIME
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
+#EXTINF:0,CA: LIFETIME 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2709.ts
+#EXTINF:0,CA: M ENCORE 1
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
+#EXTINF:0,CA: M ENCORE 2
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/685
+#EXTINF:0,CA: MAX
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
+#EXTINF:0,CA: MLB NETWORK
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
+#EXTINF:0,CA: MOVIETIME
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
+#EXTINF:0,CA: MOVIETIME [Alternate Channel]
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2711.ts
+#EXTINF:0,CA: MSNBC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2712.ts
+#EXTINF:0,CA: MTV
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/657
+#EXTINF:0,CA: MTV 2
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
+#EXTINF:0,CA: NAT GEO
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2714.ts
+#EXTINF:0,CA: NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2715.ts
+#EXTINF:0,CA: NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
+#EXTINF:0,CA: NBA TV
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
+#EXTINF:0,CA: NBA TV 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2713.ts
+#EXTINF:0,CA: NBC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2716.ts
+#EXTINF:0,CA: NBC HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/559
+#EXTINF:0,CA: NBC WEST
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/651
+#EXTINF:0,CA: NTV
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
+#EXTINF:0,CA: NTV 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5559.ts
+#EXTINF:0,CA: OLN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2702.ts
+#EXTINF:0,CA: OLN 2
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
+#EXTINF:0,CA: OMNI BC
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/646
+#EXTINF:0,CA: OMNI EAST
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/645
+#EXTINF:0,CA: ONE
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/644
+#EXTINF:0,CA: OUTTV
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/643
+#EXTINF:0,CA: OWN
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
+#EXTINF:0,CA: OWN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2717.ts
+#EXTINF:0,CA: PBS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2718.ts
+#EXTINF:0,CA: PEACHTREE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2719.ts
+#EXTINF:0,CA: RDI
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
+#EXTINF:0,CA: RDS
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
+#EXTINF:0,CA: RDS 2
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
+#EXTINF:0,CA: SHOWCASE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2720.ts
+#EXTINF:0,CA: SILVER SCREEN CLASSICS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6438.ts
+#EXTINF:0,CA: SLICE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2721.ts
+#EXTINF:0,CA: SPACE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2722.ts
+#EXTINF:0,CA: SPACE CHANNEL
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/750
+#EXTINF:0,CA: SPIKE TV
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
+#EXTINF:0,CA: SPORTSNET 360
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2723.ts
+#EXTINF:0,CA: SPORTSNET 360 HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
+#EXTINF:0,CA: SPORTSNET EAST
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2724.ts
+#EXTINF:0,CA: SPORTSNET EAST
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
+#EXTINF:0,CA: SPORTSNET ONE
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2725.ts
+#EXTINF:0,CA: SPORTSNET ONE HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
+#EXTINF:0,CA: SPORTSNET ONTARIO
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2726.ts
+#EXTINF:0,CA: SPORTSNET PACIFIC
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2727.ts
+#EXTINF:0,CA: SPORTSNET PACIFIC 2
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/635
+#EXTINF:0,CA: SPORTSNET WEST
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2728.ts
+#EXTINF:0,CA: SPORTSNET WEST HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/547
+#EXTINF:0,CA: SPORTSNET WORLD
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2729.ts
+#EXTINF:0,CA: SPORTSNET WORLD HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/546
+#EXTINF:0,CA: SUPER ECRAN 1
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
+#EXTINF:0,CA: SUPER ECRAN 2
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
+#EXTINF:0,CA: SUPER ECRAN 3
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
+#EXTINF:0,CA: SUPER ECRAN 4
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
+#EXTINF:0,CA: TELE LATINO
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/749
+#EXTINF:0,CA: TELETOON
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6448.ts
+#EXTINF:0,CA: TELETOON FRENCH
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
+#EXTINF:0,CA: TLC
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/628
+#EXTINF:0,CA: TLC 2
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2730.ts
+#EXTINF:0,CA: TMN 1
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/627
+#EXTINF:0,CA: TMN 2
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/626
+#EXTINF:0,CA: TMN 3
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/625
+#EXTINF:0,CA: TMN 4
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/624
+#EXTINF:0,CA: TREEHOUSE
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
+#EXTINF:0,CA: TREEHOUSE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6445.ts
+#EXTINF:0,CA: TSN  1
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2731.ts
+#EXTINF:0,CA: TSN  2
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2732.ts
+#EXTINF:0,CA: TSN  3
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2733.ts
+#EXTINF:0,CA: TSN  4
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2734.ts
+#EXTINF:0,CA: TSN 1 HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/554
+#EXTINF:0,CA: TSN 2 HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
+#EXTINF:0,CA: TSN 3 HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
+#EXTINF:0,CA: TSN 4 HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
+#EXTINF:0,CA: TSN 5
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/2735.ts
+#EXTINF:0,CA: TSN 5 HD
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
+#EXTINF:0,CA: TV5 QUEBEC
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
+#EXTINF:0,CA: TVA OTTAWA
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
+#EXTINF:0,CA: TVA SPORTS
+#EXTVLCOPT:network-caching=5000
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
+#EXTINF:0,CA: TVA SPORTS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6441.ts
+#EXTINF:0,CA: UNIVISION
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2759.ts
+#EXTINF:0,CA: VISION TV
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
+#EXTINF:0,CA: VRAK TV
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/619
+#EXTINF:0,CA: W NETWORK
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/618
+#EXTINF:0,CA: WEATHER NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2736.ts
+#EXTINF:0,CA: WFN
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/617
+#EXTINF:0,CA: WGN
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/616
+#EXTINF:0,CA: WILD TV
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/746
+#EXTINF:0,CA: WILD TV 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6442.ts
+#EXTINF:0,CA: YES TV
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/615
+#EXTINF:0,CA: YTV EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6447.ts
+#EXTINF:0,CA: YTV WEST
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
+#EXTINF:0,CBC
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/87
+#EXTINF:0,CINEMAX 5STARMAX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5638.ts
+#EXTINF:0,CINEMAX ACTIONMAX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2763.ts
+#EXTINF:0,CINEMAX EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2764.ts
+#EXTINF:0,CINEMAX OUTERMAX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5639.ts
+#EXTINF:0,CINEMAX THRILLERMAX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2766.ts
+#EXTINF:0,CINEMAX WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2765.ts
+#EXTINF:0,CITY TV
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/86
+#EXTINF:0,CP24
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/760
+#EXTINF:0,CP24 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/72
+#EXTINF:0,CTV
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/85
+#EXTINF:0,ELEVEN 1
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/607
+#EXTINF:0,ELEVEN 1 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/606
+#EXTINF:0,ELEVEN 2
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/605
+#EXTINF:0,ELEVEN 2 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/604
+#EXTINF:0,ELEVEN 3
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/614
+#EXTINF:0,ELEVEN 3 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/603
+#EXTINF:0,ELEVEN 4
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/613
+#EXTINF:0,ELEVEN 4 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/612
+#EXTINF:0,ELEVEN 5
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/611
+#EXTINF:0,ELEVEN 5 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/610
+#EXTINF:0,ELEVEN 6
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/609
+#EXTINF:0,ELEVEN 6 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/608
+#EXTINF:0,ELEVEN SPORTS 1
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/607
+#EXTINF:0,ELEVEN SPORTS 1 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/606
+#EXTINF:0,ELEVEN SPORTS 2
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/605
+#EXTINF:0,ELEVEN SPORTS 2 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/604
+#EXTINF:0,ELEVEN SPORTS 3
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/614
+#EXTINF:0,ELEVEN SPORTS 3 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/603
+#EXTINF:0,ELEVEN SPORTS 4
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/613
+#EXTINF:0,ELEVEN SPORTS 4 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/612
+#EXTINF:0,ELEVEN SPORTS 5
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/611
+#EXTINF:0,ELEVEN SPORTS 5 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/610
+#EXTINF:0,ELEVEN SPORTS 6
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/609
+#EXTINF:0,ELEVEN SPORTS 6 HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/608
+#EXTINF:0,EPIX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2767.ts
+#EXTINF:0,EPIX 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2768.ts
+#EXTINF:0,EPIX HITS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2769.ts
+#EXTINF:0,EWTN CANADA
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/755
+#EXTINF:0,EWTN SPAIN
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/753
+#EXTINF:0,EWTN UK
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/756
+#EXTINF:0,EWTN USA
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/754
+#EXTINF:0,FOX NEWS (AUSTRALIA)
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4384.ts
+#EXTINF:0,GLOBAL TORONTO
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/84
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2770.ts
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2772.ts
+#EXTINF:0,HBO COMEDY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2775.ts
+#EXTINF:0,HBO FAMILY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2773.ts
+#EXTINF:0,HBO WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2771.ts
+#EXTINF:0,HBO ZONE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2774.ts
+#EXTINF:0,HD NET MOVIES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4057.ts
+#EXTINF:0,MGM
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2776.ts
+#EXTINF:0,MOVIEPLEX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5641.ts
+#EXTINF:0,MOVIES-LAT: CINEMAX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4677.ts
+#EXTINF:0,MOVIES-LAT: CINEMAX WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4676.ts
+#EXTINF:0,MOVIES-LAT: HBO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4675.ts
+#EXTINF:0,NFL NETWORK 
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1487.ts
+#EXTINF:0,NFL REDZONE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1486.ts
+#EXTINF:0,OMNI 1
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/83
+#EXTINF:0,OMNI 2
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/82
+#EXTINF:0,VOD: 45 | JOHN WICK 3 - PARABELLUM
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7767.ts
+#EXTINF:0,SHOWTIME 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2779.ts
+#EXTINF:0,SHOWTIME BEYOND
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5645.ts
+#EXTINF:0,SHOWTIME EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2777.ts
+#EXTINF:0,SHOWTIME EXTREME
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4059.ts
+#EXTINF:0,SHOWTIME FAMILY ZONE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4060.ts
+#EXTINF:0,SHOWTIME NEXT
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5644.ts
+#EXTINF:0,SHOWTIME SHOWCASE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2780.ts
+#EXTINF:0,SHOWTIME WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2778.ts
+#EXTINF:0,SHOWTIME WOMEN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5643.ts
+#EXTINF:0,SKY ACTION FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4084.ts
+#EXTINF:0,SKY ARENA FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4085.ts
+#EXTINF:0,SKY CINEMA ACTION & ADVENTURE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4023.ts
+#EXTINF:0,SKY CINEMA COMEDY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4021.ts
+#EXTINF:0,SKY CINEMA DISNEY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4020.ts
+#EXTINF:0,SKY CINEMA DRAMA & ROMANCE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4022.ts
+#EXTINF:0,SKY CINEMA FAMILY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4019.ts
+#EXTINF:0,SKY CINEMA GREATS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4018.ts
+#EXTINF:0,SKY CINEMA HITS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4017.ts
+#EXTINF:0,SKY CINEMA PREMIER
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4016.ts
+#EXTINF:0,SKY CINEMA SCIFI & HORROR
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4015.ts
+#EXTINF:0,SKY CINEMA THRILLER
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4013.ts
+#EXTINF:0,SKY CRICKET FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4081.ts
+#EXTINF:0,SKY F1 FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4083.ts
+#EXTINF:0,SKY FOOTBALL FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4080.ts
+#EXTINF:0,SKY GOLF FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4082.ts
+#EXTINF:0,SKY MAIN EVENT FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4078.ts
+#EXTINF:0,SKY MIX FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4086.ts
+#EXTINF:0,SKY NEWS FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4088.ts
+#EXTINF:0,SKY PREMIER LEAGUE FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4079.ts
+#EXTINF:0,SKY RACING FHD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4087.ts
+#EXTINF:0,SONY MOVIE CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2781.ts
+#EXTINF:0,STARZ
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2782.ts
+#EXTINF:0,STARZ & FAMILY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2786.ts
+#EXTINF:0,STARZ CINEMA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5653.ts
+#EXTINF:0,STARZ COMEDY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2783.ts
+#EXTINF:0,STARZ EDGE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2784.ts
+#EXTINF:0,STARZ ENCORE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2785.ts
+#EXTINF:0,STARZ ENCORE ACTION
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5652.ts
+#EXTINF:0,STARZ ENCORE BLACK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5651.ts
+#EXTINF:0,STARZ ENCORE CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5650.ts
+#EXTINF:0,STARZ ENCORE FAMILY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5649.ts
+#EXTINF:0,STARZ ENCORE SUSPENSE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5648.ts
+#EXTINF:0,STARZ ENCORE WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5647.ts
+#EXTINF:0,STARZ ENCORE WESTERNS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5553.ts
+#EXTINF:0,STARZ IN BLACK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5646.ts
+#EXTINF:0,TELE HD
+http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/81
+#EXTINF:0,THE MOVIE CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4061.ts
+#EXTINF:0,THE MOVIE CHANNEL XTRA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5654.ts
+#EXTINF:0,TV Series: (KIDS) PINKY AND THE BRAIN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6055.ts
+#EXTINF:0,TV Series: 13 REASONS WHY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6058.ts
+#EXTINF:0,TV Series: 2 BROKE GIRLS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6059.ts
+#EXTINF:0,TV Series: 30 FOR 30
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6060.ts
+#EXTINF:0,TV Series: AFTER LIFE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6061.ts
+#EXTINF:0,TV Series: AIRWOLF
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6062.ts
+#EXTINF:0,TV Series: ALIAS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6064.ts
+#EXTINF:0,TV Series: ALTERED CARBON
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6067.ts
+#EXTINF:0,TV Series: AMERICAN CRIME STORY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6068.ts
+#EXTINF:0,TV Series: AMERICAN DAD!
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6069.ts
+#EXTINF:0,TV Series: AMERICAN GREED
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6070.ts
+#EXTINF:0,TV Series: AMERICAN HORROR STORY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6071.ts
+#EXTINF:0,TV Series: AMERICAN VANDAL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6073.ts
+#EXTINF:0,TV Series: ANCIENT ALIENS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6074.ts
+#EXTINF:0,TV Series: ASH VS EVIL DEAD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6077.ts
+#EXTINF:0,TV Series: ATLANTA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6078.ts
+#EXTINF:0,TV Series: AVATAR THE LAST AIR BENDER
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6079.ts
+#EXTINF:0,TV Series: AWKWARD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6081.ts
+#EXTINF:0,TV Series: BABYLON BERLIN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6082.ts
+#EXTINF:0,TV Series: BARRY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6083.ts
+#EXTINF:0,TV Series: BASKETBALL WIVES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6084.ts
+#EXTINF:0,TV Series: BATES MOTEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6085.ts
+#EXTINF:0,TV Series: BAYWATCH
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6087.ts
+#EXTINF:0,TV Series: BBQ CHAMP
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6088.ts
+#EXTINF:0,TV Series: BEAT SHAZAM
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6090.ts
+#EXTINF:0,TV Series: BEING HUMAN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6092.ts
+#EXTINF:0,TV Series: BETTER CALL SAUL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6093.ts
+#EXTINF:0,TV Series: BETTER THINGS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6094.ts
+#EXTINF:0,TV Series: BIG BROTHER
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6095.ts
+#EXTINF:0,TV Series: BIG LITTLE LIES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6096.ts
+#EXTINF:0,TV Series: BLACK JESUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6097.ts
+#EXTINF:0,TV Series: BLACK MIRROR
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6098.ts
+#EXTINF:0,TV Series: BLACK SAILS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6099.ts
+#EXTINF:0,TV Series: BLINDSPOT
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6100.ts
+#EXTINF:0,TV Series: BLOODLINE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6101.ts
+#EXTINF:0,TV Series: BOJACK HORSEMAN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6104.ts
+#EXTINF:0,TV Series: BONES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6105.ts
+#EXTINF:0,TV Series: BOSTON LEGAL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6253.ts
+#EXTINF:0,TV Series: CHEWING GUM
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6106.ts
+#EXTINF:0,TV Series: CHILLING ADVENTURES OF SABRINA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6107.ts
+#EXTINF:0,TV Series: COLONY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6108.ts
+#EXTINF:0,TV Series: CRAZY HEAD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6109.ts
+#EXTINF:0,TV Series: CRAZYHEAD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6110.ts
+#EXTINF:0,TV Series: CURB YOUR ENTHUSIASM
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6111.ts
+#EXTINF:0,TV Series: DA VINCI'S DEMONS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6112.ts
+#EXTINF:0,TV Series: DARK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6114.ts
+#EXTINF:0,TV Series: DATING AROUND
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6115.ts
+#EXTINF:0,TV Series: DEAD LIKE ME
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6116.ts
+#EXTINF:0,TV Series: DEADLIEST CATCH
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6118.ts
+#EXTINF:0,TV Series: DEFIANCE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6121.ts
+#EXTINF:0,TV Series: DEXTER
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6122.ts
+#EXTINF:0,TV Series: DOCTOR WHO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6124.ts
+#EXTINF:0,TV Series: DOLLHOUSE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6125.ts
+#EXTINF:0,TV Series: DOMINION
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6126.ts
+#EXTINF:0,TV Series: DON'T TRUST THE B- IN APARTMENT 23
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6127.ts
+#EXTINF:0,TV Series: DOPE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6128.ts
+#EXTINF:0,TV Series: DYNASTY (2017)
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6131.ts
+#EXTINF:0,TV Series: EASY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6132.ts
+#EXTINF:0,TV Series: EL CHAPO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6133.ts
+#EXTINF:0,TV Series: EVERYBODY LOVES RAYMOND
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6135.ts
+#EXTINF:0,TV Series: EVIL GENIUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6136.ts
+#EXTINF:0,TV Series: EXTANT
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6137.ts
+#EXTINF:0,TV Series: FALLING SKIES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6138.ts
+#EXTINF:0,TV Series: FAMILY GUY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6139.ts
+#EXTINF:0,TV Series: FAMILY TIES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6140.ts
+#EXTINF:0,TV Series: FARGO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6141.ts
+#EXTINF:0,TV Series: FAWLTY TOWERS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6142.ts
+#EXTINF:0,TV Series: FBI
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6143.ts
+#EXTINF:0,TV Series: FIREFLY
+http://209.222.97.118:25461/live/Dave123/dave123/6145.ts
+#EXTINF:0,TV Series: FORGED IN FIRE
+http://209.222.97.118:25461/live/Dave123/dave123/6147.ts
+#EXTINF:0,TV Series: FRASIER
+http://209.222.97.118:25461/live/Dave123/dave123/6148.ts
+#EXTINF:0,TV Series: FREAKS AND GEEKS
+http://209.222.97.118:25461/live/Dave123/dave123/6149.ts
+#EXTINF:0,TV Series: FRINGE
+http://209.222.97.118:25461/live/Dave123/dave123/6150.ts
+#EXTINF:0,TV Series: FUTURAMA
+http://209.222.97.118:25461/live/Dave123/dave123/6151.ts
+#EXTINF:0,TV Series: GAME OF THRONES
+http://209.222.97.118:25461/live/Dave123/dave123/6152.ts
+#EXTINF:0,TV Series: GILMORE GIRLS
+http://209.222.97.118:25461/live/Dave123/dave123/6154.ts
+#EXTINF:0,TV Series: GIRLS
+http://209.222.97.118:25461/live/Dave123/dave123/6155.ts
+#EXTINF:0,TV Series: GLOW
+http://209.222.97.118:25461/live/Dave123/dave123/6156.ts
+#EXTINF:0,TV Series: GOSSIP GIRL
+http://209.222.97.118:25461/live/Dave123/dave123/6158.ts
+#EXTINF:0,TV Series: GRACE AND FRANKIE
+http://209.222.97.118:25461/live/Dave123/dave123/6159.ts
+#EXTINF:0,TV Series: GRAVITY FALLS
+http://209.222.97.118:25461/live/Dave123/dave123/6160.ts
+#EXTINF:0,TV Series: GREENLEAF
+http://209.222.97.118:25461/live/Dave123/dave123/6161.ts
+#EXTINF:0,TV Series: GREY'S ANATOMY
+http://209.222.97.118:25461/live/Dave123/dave123/6162.ts
+#EXTINF:0,TV Series: GROWN-ISH
+http://209.222.97.118:25461/live/Dave123/dave123/6163.ts
+#EXTINF:0,TV Series: HANNIBAL
+http://209.222.97.118:25461/live/Dave123/dave123/6164.ts
+#EXTINF:0,TV Series: HAPPY ENDINGS
+http://209.222.97.118:25461/live/Dave123/dave123/6165.ts
+#EXTINF:0,TV Series: HAPPY VALLEY
+http://209.222.97.118:25461/live/Dave123/dave123/6166.ts
+#EXTINF:0,TV Series: HART OF DIXIE
+http://209.222.97.118:25461/live/Dave123/dave123/6167.ts
+#EXTINF:0,TV Series: HAVEN
+http://209.222.97.118:25461/live/Dave123/dave123/6168.ts
+#EXTINF:0,TV Series: HAWAII FIVE-0
+http://209.222.97.118:25461/live/Dave123/dave123/6169.ts
+#EXTINF:0,TV Series: HEMLOCK GROVE
+http://209.222.97.118:25461/live/Dave123/dave123/6171.ts
+#EXTINF:0,TV Series: HERCULES: THE LEGENDARY JOURNEYS
+http://209.222.97.118:25461/live/Dave123/dave123/6172.ts
+#EXTINF:0,TV Series: HEROES
+http://209.222.97.118:25461/live/Dave123/dave123/6174.ts
+#EXTINF:0,TV Series: HEROES REBORN
+http://209.222.97.118:25461/live/Dave123/dave123/6173.ts
+#EXTINF:0,TV Series: HOLLYWOOD MEDIUM WITH TYLER HENRY
+http://209.222.97.118:25461/live/Dave123/dave123/6175.ts
+#EXTINF:0,TV Series: HOMECOMING
+http://209.222.97.118:25461/live/Dave123/dave123/6176.ts
+#EXTINF:0,TV Series: HOUSE
+http://209.222.97.118:25461/live/Dave123/dave123/6179.ts
+#EXTINF:0,TV Series: HOUSE OF CARDS
+http://209.222.97.118:25461/live/Dave123/dave123/6177.ts
+#EXTINF:0,TV Series: HOUSE OF LIES
+http://209.222.97.118:25461/live/Dave123/dave123/6178.ts
+#EXTINF:0,TV Series: HOW IT'S MADE
+http://209.222.97.118:25461/live/Dave123/dave123/6181.ts
+#EXTINF:0,TV Series: HUMANS
+http://209.222.97.118:25461/live/Dave123/dave123/6182.ts
+#EXTINF:0,TV Series: I THINK YOU SHOULD LEAVE WITH TIM ROBINSON
+http://209.222.97.118:25461/live/Dave123/dave123/6183.ts
+#EXTINF:0,TV Series: IF I HADN'T MET YOU
+http://209.222.97.118:25461/live/Dave123/dave123/6184.ts
+#EXTINF:0,TV Series: INTO THE BADLANDS
+http://209.222.97.118:25461/live/Dave123/dave123/6186.ts
+#EXTINF:0,TV Series: ISLAND HUNTERS
+http://209.222.97.118:25461/live/Dave123/dave123/6187.ts
+#EXTINF:0,TV Series: IT'S ALWAYS SUNNY IN PHILADELPHIA
+http://209.222.97.118:25461/live/Dave123/dave123/6188.ts
+#EXTINF:0,TV Series: JUSTIFIED
+http://209.222.97.118:25461/live/Dave123/dave123/6189.ts
+#EXTINF:0,TV Series: KING OF THE HILL
+http://209.222.97.118:25461/live/Dave123/dave123/6190.ts
+#EXTINF:0,TV Series: KNIGHT RIDER
+http://209.222.97.118:25461/live/Dave123/dave123/6191.ts
+#EXTINF:0,TV Series: LAS VEGAS
+http://209.222.97.118:25461/live/Dave123/dave123/6193.ts
+#EXTINF:0,TV Series: LAW & ORDER
+http://209.222.97.118:25461/live/Dave123/dave123/6194.ts
+#EXTINF:0,TV Series: LAW & ORDER- LOS ANGELES
+http://209.222.97.118:25461/live/Dave123/dave123/6195.ts
+#EXTINF:0,TV Series: LAW & ORDER- SPECIAL VICTIMS UNIT
+http://209.222.97.118:25461/live/Dave123/dave123/6196.ts
+#EXTINF:0,TV Series: LEGEND OF THE SEEKER
+http://209.222.97.118:25461/live/Dave123/dave123/6198.ts
+#EXTINF:0,TV Series: LETHAL WEAPON
+http://209.222.97.118:25461/live/Dave123/dave123/6199.ts
+#EXTINF:0,TV Series: LIFE OF KYLIE
+http://209.222.97.118:25461/live/Dave123/dave123/6200.ts
+#EXTINF:0,TV Series: LILYHAMMER
+http://209.222.97.118:25461/live/Dave123/dave123/6201.ts
+#EXTINF:0,TV Series: LIMITLESS
+http://209.222.97.118:25461/live/Dave123/dave123/6202.ts
+#EXTINF:0,TV Series: LIVE PD
+http://209.222.97.118:25461/live/Dave123/dave123/6203.ts
+#EXTINF:0,TV Series: LIVING SINGLE
+http://209.222.97.118:25461/live/Dave123/dave123/6204.ts
+#EXTINF:0,TV Series: LIVING WITH YOURSELF
+http://209.222.97.118:25461/live/Dave123/dave123/6205.ts
+#EXTINF:0,TV Series: LONDON SPY
+http://209.222.97.118:25461/live/Dave123/dave123/6206.ts
+#EXTINF:0,TV Series: LONGMIRE
+http://209.222.97.118:25461/live/Dave123/dave123/6207.ts
+#EXTINF:0,TV Series: LOST
+http://209.222.97.118:25461/live/Dave123/dave123/6211.ts
+#EXTINF:0,TV Series: LOST IN SPACE
+http://209.222.97.118:25461/live/Dave123/dave123/6210.ts
+#EXTINF:0,TV Series: LOST IN SPACE (2018)
+http://209.222.97.118:25461/live/Dave123/dave123/6209.ts
+#EXTINF:0,TV Series: LOVE & HIP HOP: ATLANTA
+http://209.222.97.118:25461/live/Dave123/dave123/6212.ts
+#EXTINF:0,TV Series: LUCIFER
+http://209.222.97.118:25461/live/Dave123/dave123/6214.ts
+#EXTINF:0,TV Series: LUTHER
+http://209.222.97.118:25461/live/Dave123/dave123/6215.ts
+#EXTINF:0,TV Series: M-A-S-H
+http://209.222.97.118:25461/live/Dave123/dave123/6216.ts
+#EXTINF:0,TV Series: MAKING A MURDERER
+http://209.222.97.118:25461/live/Dave123/dave123/6217.ts
+#EXTINF:0,TV Series: MALCOLM IN THE MIDDLE
+http://209.222.97.118:25461/live/Dave123/dave123/6218.ts
+#EXTINF:0,TV Series: MARCO POLO
+http://209.222.97.118:25461/live/Dave123/dave123/6220.ts
+#EXTINF:0,TV Series: MARRIED TO MEDICINE
+http://209.222.97.118:25461/live/Dave123/dave123/6221.ts
+#EXTINF:0,TV Series: MARVEL'S AGENT CARTER
+http://209.222.97.118:25461/live/Dave123/dave123/6222.ts
+#EXTINF:0,TV Series: MARVEL'S CLOAK & DAGGER
+http://209.222.97.118:25461/live/Dave123/dave123/6223.ts
+#EXTINF:0,TV Series: MARVEL'S DAREDEVIL
+http://209.222.97.118:25461/live/Dave123/dave123/6224.ts
+#EXTINF:0,TV Series: MARVEL'S INHUMANS
+http://209.222.97.118:25461/live/Dave123/dave123/6225.ts
+#EXTINF:0,TV Series: MARVEL'S IRON FIST
+http://209.222.97.118:25461/live/Dave123/dave123/6226.ts
+#EXTINF:0,TV Series: MARVEL'S JESSICA JONES
+http://209.222.97.118:25461/live/Dave123/dave123/6227.ts
+#EXTINF:0,TV Series: MARVEL'S THE DEFENDERS
+http://209.222.97.118:25461/live/Dave123/dave123/6229.ts
+#EXTINF:0,TV Series: MASH
+http://209.222.97.118:25461/live/Dave123/dave123/6230.ts
+#EXTINF:0,TV Series: MASTER OF NONE
+http://209.222.97.118:25461/live/Dave123/dave123/6231.ts
+#EXTINF:0,TV Series: MASTER OF SEX
+http://209.222.97.118:25461/live/Dave123/dave123/6232.ts
+#EXTINF:0,TV Series: MASTERS OF SEX
+http://209.222.97.118:25461/live/Dave123/dave123/6233.ts
+#EXTINF:0,TV Series: MERLIN
+http://209.222.97.118:25461/live/Dave123/dave123/6234.ts
+#EXTINF:0,TV Series: MINDHUNTER
+http://209.222.97.118:25461/live/Dave123/dave123/6235.ts
+#EXTINF:0,TV Series: MISFITS
+http://209.222.97.118:25461/live/Dave123/dave123/6236.ts
+#EXTINF:0,TV Series: MODERN FAMILY
+http://209.222.97.118:25461/live/Dave123/dave123/6237.ts
+#EXTINF:0,TV Series: MONEY HEIST
+http://209.222.97.118:25461/live/Dave123/dave123/6238.ts
+#EXTINF:0,TV Series: MR INBETWEEN
+http://209.222.97.118:25461/live/Dave123/dave123/6239.ts
+#EXTINF:0,TV Series: MY GHOST STORY
+http://209.222.97.118:25461/live/Dave123/dave123/6240.ts
+#EXTINF:0,TV Series: MYSTERY SCIENCE THEATER 3000: THE RETURN
+http://209.222.97.118:25461/live/Dave123/dave123/6242.ts
+#EXTINF:0,TV Series: MYTHBUSTERS
+http://209.222.97.118:25461/live/Dave123/dave123/6243.ts
+#EXTINF:0,TV Series: NARCOS
+http://209.222.97.118:25461/live/Dave123/dave123/6244.ts
+#EXTINF:0,TV Series: NIKITA
+http://209.222.97.118:25461/live/Dave123/dave123/6247.ts
+#EXTINF:0,TV Series: ONE TREE HILL
+http://209.222.97.118:25461/live/Dave123/dave123/6250.ts
+#EXTINF:0,TV Series: ORANGE IS THE NEW BLACK
+http://209.222.97.118:25461/live/Dave123/dave123/6251.ts
+#EXTINF:0,TV Series: ORPHAN BLACK
+http://209.222.97.118:25461/live/Dave123/dave123/6252.ts
+#EXTINF:0,TV Series: OUR PLANET
+http://209.222.97.118:25461/live/Dave123/dave123/6254.ts
+#EXTINF:0,TV Series: PEAKY BLINDERS
+http://209.222.97.118:25461/live/Dave123/dave123/6256.ts
+#EXTINF:0,TV Series: PERSON OF INTEREST
+http://209.222.97.118:25461/live/Dave123/dave123/6257.ts
+#EXTINF:0,TV Series: PRISON BREAK
+http://209.222.97.118:25461/live/Dave123/dave123/6259.ts
+#EXTINF:0,TV Series: PROPERTY BROTHERS
+http://209.222.97.118:25461/live/Dave123/dave123/6260.ts
+#EXTINF:0,TV Series: PSYCH
+http://209.222.97.118:25461/live/Dave123/dave123/6261.ts
+#EXTINF:0,TV Series: QUANTICO
+http://209.222.97.118:25461/live/Dave123/dave123/6263.ts
+#EXTINF:0,TV Series: QUEER EYE
+http://209.222.97.118:25461/live/Dave123/dave123/6264.ts
+#EXTINF:0,TV Series: RAY DONOVAN
+http://209.222.97.118:25461/live/Dave123/dave123/6266.ts
+#EXTINF:0,TV Series: REIGN
+http://209.222.97.118:25461/live/Dave123/dave123/6267.ts
+#EXTINF:0,TV Series: REVENGE
+http://209.222.97.118:25461/live/Dave123/dave123/6268.ts
+#EXTINF:0,TV Series: ROSEANNE
+http://209.222.97.118:25461/live/Dave123/dave123/6271.ts
+#EXTINF:0,TV Series: RUSSIAN DOLL
+http://209.222.97.118:25461/live/Dave123/dave123/6272.ts
+#EXTINF:0,TV Series: SACRED GAMES
+http://209.222.97.118:25461/live/Dave123/dave123/6273.ts
+#EXTINF:0,TV Series: SANTA CLARITA DIET
+http://209.222.97.118:25461/live/Dave123/dave123/6275.ts
+#EXTINF:0,TV Series: SCORPION
+http://209.222.97.118:25461/live/Dave123/dave123/6276.ts
+#EXTINF:0,TV Series: SCREAM QUEENS
+http://209.222.97.118:25461/live/Dave123/dave123/6277.ts
+#EXTINF:0,TV Series: SEAL TEAM
+http://209.222.97.118:25461/live/Dave123/dave123/6278.ts
+#EXTINF:0,TV Series: SENSE8
+http://209.222.97.118:25461/live/Dave123/dave123/6280.ts
+#EXTINF:0,TV Series: SEX EDUCATION
+http://209.222.97.118:25461/live/Dave123/dave123/6281.ts
+#EXTINF:0,TV Series: SHARK TANK
+http://209.222.97.118:25461/live/Dave123/dave123/6282.ts
+#EXTINF:0,TV Series: SILICON VALLEY
+http://209.222.97.118:25461/live/Dave123/dave123/6284.ts
+#EXTINF:0,TV Series: SKINS
+http://209.222.97.118:25461/live/Dave123/dave123/6285.ts
+#EXTINF:0,TV Series: SMALLVILLE
+http://209.222.97.118:25461/live/Dave123/dave123/6287.ts
+#EXTINF:0,TV Series: SONS OF ANARCHY
+http://209.222.97.118:25461/live/Dave123/dave123/6288.ts
+#EXTINF:0,TV Series: SOUTH PARK
+http://209.222.97.118:25461/live/Dave123/dave123/6289.ts
+#EXTINF:0,TV Series: SPARTACUS
+http://209.222.97.118:25461/live/Dave123/dave123/6290.ts
+#EXTINF:0,TV Series: STAR TREK
+http://209.222.97.118:25461/live/Dave123/dave123/6291.ts
+#EXTINF:0,TV Series: STAR TREK- ENTERPRISE
+http://209.222.97.118:25461/live/Dave123/dave123/6292.ts
+#EXTINF:0,TV Series: TEEN WOLF
+http://209.222.97.118:25461/live/Dave123/dave123/6296.ts
+#EXTINF:0,TV Series: THE 100
+http://209.222.97.118:25461/live/Dave123/dave123/6297.ts
+#EXTINF:0,TV Series: THE FALL
+http://209.222.97.118:25461/live/Dave123/dave123/6298.ts
+#EXTINF:0,TV Series: THE GOOD PLACE
+http://209.222.97.118:25461/live/Dave123/dave123/6299.ts
+#EXTINF:0,TV Series: THE HOOK UP PLAN
+http://209.222.97.118:25461/live/Dave123/dave123/6300.ts
+#EXTINF:0,TV Series: THE I-LAND
+http://209.222.97.118:25461/live/Dave123/dave123/6301.ts
+#EXTINF:0,TV Series: THE KEEPERS
+http://209.222.97.118:25461/live/Dave123/dave123/6302.ts
+#EXTINF:0,TV Series: THE LAST KINGDOM
+http://209.222.97.118:25461/live/Dave123/dave123/6303.ts
+#EXTINF:0,TV Series: THE LEFTOVERS
+http://209.222.97.118:25461/live/Dave123/dave123/6304.ts
+#EXTINF:0,TV Series: THE MENTALIST
+http://209.222.97.118:25461/live/Dave123/dave123/6306.ts
+#EXTINF:0,TV Series: THE MIDDLE
+http://209.222.97.118:25461/live/Dave123/dave123/6307.ts
+#EXTINF:0,TV Series: THE MINDY PROJECT
+http://209.222.97.118:25461/live/Dave123/dave123/6308.ts
+#EXTINF:0,TV Series: THE MIST
+http://209.222.97.118:25461/live/Dave123/dave123/6309.ts
+#EXTINF:0,TV Series: THE OA
+http://209.222.97.118:25461/live/Dave123/dave123/6310.ts
+#EXTINF:0,TV Series: THE ORIGINALS
+http://209.222.97.118:25461/live/Dave123/dave123/6311.ts
+#EXTINF:0,TV Series: THE PROTECTOR
+http://209.222.97.118:25461/live/Dave123/dave123/6312.ts
+#EXTINF:0,TV Series: THE RAIN
+http://209.222.97.118:25461/live/Dave123/dave123/6313.ts
+#EXTINF:0,TV Series: TIDYING UP WITH MARIE KONDO
+http://209.222.97.118:25461/live/Dave123/dave123/6314.ts
+#EXTINF:0,TV Series: UGLY DELICIOUS
+http://209.222.97.118:25461/live/Dave123/dave123/6316.ts
+#EXTINF:0,TV Series: UNBELIEVABLE
+http://209.222.97.118:25461/live/Dave123/dave123/6317.ts
+#EXTINF:0,TV Series: UNBREAKABLE KIMMY SCHMIDT
+http://209.222.97.118:25461/live/Dave123/dave123/6318.ts
+#EXTINF:0,TV Series: VIKINGS
+http://209.222.97.118:25461/live/Dave123/dave123/6319.ts
+#EXTINF:0,TV Series: WHEN THEY SEE US
+http://209.222.97.118:25461/live/Dave123/dave123/6320.ts
+#EXTINF:0,TV Series: WORMWOOD
+http://209.222.97.118:25461/live/Dave123/dave123/6321.ts
+#EXTINF:0,TV Series: WU ASSASINS
+http://209.222.97.118:25461/live/Dave123/dave123/6322.ts
+#EXTINF:0,TV Series: YOU
+http://209.222.97.118:25461/live/Dave123/dave123/6323.ts
+#EXTINF:0,US: A&E
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1256.ts
+#EXTINF:0,US: ABC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7869.ts
+#EXTINF:0,US: ABC NEWS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7868.ts
+#EXTINF:0,US: ABC NEWS LIVE EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7867.ts
+#EXTINF:0,US: ACC NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1570.ts
+#EXTINF:0,US: ADULT SWIM
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1257.ts
+#EXTINF:0,US: AMC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1258.ts
+#EXTINF:0,US: AMERICAN HEROES CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1259.ts
+#EXTINF:0,US: ANIMAL PLANET EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1260.ts
+#EXTINF:0,US: ANIMAL PLANET WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1261.ts
+#EXTINF:0,US: ANTENNA TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1262.ts
+#EXTINF:0,US: ASPIRE TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1263.ts
+#EXTINF:0,US: AUDIENCE NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7870.ts
+#EXTINF:0,US: AXS TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1264.ts
+#EXTINF:0,US: BABY TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1470.ts
+#EXTINF:0,US: BBC AMERICA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1265.ts
+#EXTINF:0,US: BBC WORLD NEWS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1266.ts
+#EXTINF:0,US: BEIN EN ESPANOL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1568.ts
+#EXTINF:0,US: BEIN SPORTS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1569.ts
+#EXTINF:0,US: BET (WEST)
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7871.ts
+#EXTINF:0,US: BET GOSPEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4039.ts
+#EXTINF:0,US: BET HER
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1268.ts
+#EXTINF:0,US: BET JAMS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1269.ts
+#EXTINF:0,US: BET SOUL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1270.ts
+#EXTINF:0,US: BET |+|
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1267.ts
+#EXTINF:0,US: BIG TEN NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4450.ts
+#EXTINF:0,US: BLOOMBERG
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5554.ts
+#EXTINF:0,US: BLOOMBERG POLITICS LIVE EVENT
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7872.ts
+#EXTINF:0,US: BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1271.ts
+#EXTINF:0,US: BOUNCE TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4040.ts
+#EXTINF:0,US: BRAVO EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1272.ts
+#EXTINF:0,US: BRAVO WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1273.ts
+#EXTINF:0,US: BUZZR
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7873.ts
+#EXTINF:0,US: C-SPAN 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7874.ts
+#EXTINF:0,US: C-SPLAND
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7875.ts
+#EXTINF:0,US: CARTOON NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1274.ts
+#EXTINF:0,US: CARTOON NETWORK WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4041.ts
+#EXTINF:0,US: CBS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7877.ts
+#EXTINF:0,US: CBS NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7523.ts
+#EXTINF:0,US: CBS NEWS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7876.ts
+#EXTINF:0,US: CHEDDAR BUSINESS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1276.ts
+#EXTINF:0,US: CHEDDAR NEWS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1275.ts
+#EXTINF:0,US: CLEO TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7878.ts
+#EXTINF:0,US: CMT
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4483.ts
+#EXTINF:0,US: CNBC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1278.ts
+#EXTINF:0,US: CNBC WORLD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1277.ts
+#EXTINF:0,US: CNN INTERNATIONAL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7879.ts
+#EXTINF:0,US: CNN |+|
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1279.ts
+#EXTINF:0,US: COMEDY CENTRAL EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1405.ts
+#EXTINF:0,US: COMET TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1282.ts
+#EXTINF:0,US: COOKING CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1281.ts
+#EXTINF:0,US: COWBOY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7880.ts
+#EXTINF:0,US: COZI TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1285.ts
+#EXTINF:0,US: CRIME INVESTIGATION
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1287.ts
+#EXTINF:0,US: CSN BAY AREA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1566.ts
+#EXTINF:0,US: CSN BAY AREA PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1567.ts
+#EXTINF:0,US: CSN BOSTON
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1565.ts
+#EXTINF:0,US: CSN CALIFORNIA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1563.ts
+#EXTINF:0,US: CSN CALIFORNIA PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1564.ts
+#EXTINF:0,US: CSN CHICAGO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1562.ts
+#EXTINF:0,US: CSN CHICAGO PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1561.ts
+#EXTINF:0,US: CSN MID ATLANTIC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1560.ts
+#EXTINF:0,US: CSN NEW ENGLAND
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1559.ts
+#EXTINF:0,US: CSN NORTHWEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1558.ts
+#EXTINF:0,US: CSN PHILADELPHIA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1556.ts
+#EXTINF:0,US: CSN PHILADELPHIA PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1557.ts
+#EXTINF:0,US: CSN WASHINGTON
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1554.ts
+#EXTINF:0,US: CSN WASHINGTON PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1555.ts
+#EXTINF:0,US: CW
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1286.ts
+#EXTINF:0,US: DESTINATION AMERICA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1288.ts
+#EXTINF:0,US: DISCOVERY EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1289.ts
+#EXTINF:0,US: DISCOVERY FAMILY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1291.ts
+#EXTINF:0,US: DISCOVERY LIFE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1292.ts
+#EXTINF:0,US: DISCOVERY SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1293.ts
+#EXTINF:0,US: DISCOVERY TURBO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7881.ts
+#EXTINF:0,US: DISCOVERY WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1290.ts
+#EXTINF:0,US: DISNEY CHANNEL EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1472.ts
+#EXTINF:0,US: DISNEY CHANNEL WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1471.ts
+#EXTINF:0,US: DISNEY JR EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1473.ts
+#EXTINF:0,US: DISNEY JR WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1474.ts
+#EXTINF:0,US: DISNEY XD EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1475.ts
+#EXTINF:0,US: DISNEY XD WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1476.ts
+#EXTINF:0,US: DIY NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1294.ts
+#EXTINF:0,US: DOG TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7883.ts
+#EXTINF:0,US: DUCK TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7884.ts
+#EXTINF:0,US: E! EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1295.ts
+#EXTINF:0,US: E! WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1296.ts
+#EXTINF:0,US: EL REY NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1297.ts
+#EXTINF:0,US: ESCAPE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7885.ts
+#EXTINF:0,US: ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1552.ts
+#EXTINF:0,US: ESPN COLLEGE EXTRA 1
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1551.ts
+#EXTINF:0,US: ESPN COLLEGE EXTRA 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1550.ts
+#EXTINF:0,US: ESPN COLLEGE EXTRA 3
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1549.ts
+#EXTINF:0,US: ESPN COLLEGE EXTRA 4
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1548.ts
+#EXTINF:0,US: ESPN COLLEGE EXTRA 5
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1547.ts
+#EXTINF:0,US: ESPN COLLEGE EXTRA 6
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1546.ts
+#EXTINF:0,US: ESPN COLLEGE EXTRA 7
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1545.ts
+#EXTINF:0,US: ESPN COLLEGE EXTRA 8
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1544.ts
+#EXTINF:0,US: ESPN DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1543.ts
+#EXTINF:0,US: ESPN GOAL LINE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1542.ts
+#EXTINF:0,US: ESPN NEWS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1541.ts
+#EXTINF:0,US: ESPN SEC NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1536.ts
+#EXTINF:0,US: ESPN U
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1539.ts
+#EXTINF:0,US: ESPN |+|
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1553.ts
+#EXTINF:0,US: FIGHT NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1535.ts
+#EXTINF:0,US: FOOD NETWORK EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1377.ts
+#EXTINF:0,US: FOOD NETWORK WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1378.ts
+#EXTINF:0,US: FOX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7886.ts
+#EXTINF:0,US: FOX 1 |+|
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1529.ts
+#EXTINF:0,US: FOX 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1528.ts
+#EXTINF:0,US: FOX ARIZONA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1527.ts
+#EXTINF:0,US: FOX BUSINESS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1379.ts
+#EXTINF:0,US: FOX CAROLINAS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1525.ts
+#EXTINF:0,US: FOX CINCINNATI
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1523.ts
+#EXTINF:0,US: FOX DEPORTES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1522.ts
+#EXTINF:0,US: FOX DETROIT
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1521.ts
+#EXTINF:0,US: FOX FLORIDA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1520.ts
+#EXTINF:0,US: FOX INDIANA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1518.ts
+#EXTINF:0,US: FOX KANSAS CITY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1517.ts
+#EXTINF:0,US: FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1380.ts
+#EXTINF:0,US: FOX MIDWEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1516.ts
+#EXTINF:0,US: FOX NET BASE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1514.ts
+#EXTINF:0,US: FOX NEW ORLEANS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1515.ts
+#EXTINF:0,US: FOX NEWS |+|
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1381.ts
+#EXTINF:0,US: FOX NORTH
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1509.ts
+#EXTINF:0,US: FOX NORTH PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1508.ts
+#EXTINF:0,US: FOX OHIO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1503.ts
+#EXTINF:0,US: FOX OHIO PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1502.ts
+#EXTINF:0,US: FOX PRIME TICKET
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1501.ts
+#EXTINF:0,US: FOX SAN DIEGO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1500.ts
+#EXTINF:0,US: FOX SOUTH
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1499.ts
+#EXTINF:0,US: FOX SOUTHEAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1506.ts
+#EXTINF:0,US: FOX SOUTHWEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1498.ts
+#EXTINF:0,US: FOX SOUTHWEST PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1505.ts
+#EXTINF:0,US: FOX SUN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1497.ts
+#EXTINF:0,US: FOX TENNESSEE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1504.ts
+#EXTINF:0,US: FOX WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1496.ts
+#EXTINF:0,US: FOX WISCONSIN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1495.ts
+#EXTINF:0,US: FOX YES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4476.ts
+#EXTINF:0,US: FREE SPEECH TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7887.ts
+#EXTINF:0,US: FREEFORM EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1382.ts
+#EXTINF:0,US: FREEFORM WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1383.ts
+#EXTINF:0,US: FUSE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1384.ts
+#EXTINF:0,US: FUSION
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1385.ts
+#EXTINF:0,US: FX EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1387.ts
+#EXTINF:0,US: FX WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1388.ts
+#EXTINF:0,US: FXM
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1389.ts
+#EXTINF:0,US: FXX EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1390.ts
+#EXTINF:0,US: FXX WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1391.ts
+#EXTINF:0,US: FYI
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1386.ts
+#EXTINF:0,US: GAMESHOW NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1392.ts
+#EXTINF:0,US: GINX TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4042.ts
+#EXTINF:0,US: GOL TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1393.ts
+#EXTINF:0,US: GOLF CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1494.ts
+#EXTINF:0,US: GREAT AMERICAN COUNTRY (GAC)
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4043.ts
+#EXTINF:0,US: GRIT
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4044.ts
+#EXTINF:0,US: HALLMARK CHANNEL |+|
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1394.ts
+#EXTINF:0,US: HALLMARK DRAMA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1395.ts
+#EXTINF:0,US: HALLMARK MOVIES & MYSTERIES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1396.ts
+#EXTINF:0,US: HDNET MOVIES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7888.ts
+#EXTINF:0,US: HGTV EAST |+|
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1397.ts
+#EXTINF:0,US: HGTV WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1398.ts
+#EXTINF:0,US: HISTORY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1400.ts
+#EXTINF:0,US: HLN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1399.ts
+#EXTINF:0,US: IFC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1401.ts
+#EXTINF:0,US: INSP
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7889.ts
+#EXTINF:0,US: INVESTIGATION DISCOVERY EAST |+|
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1402.ts
+#EXTINF:0,US: INVESTIGATION DISCOVERY WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1403.ts
+#EXTINF:0,US: ION
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4045.ts
+#EXTINF:0,US: JUSTICE CENTRAL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7890.ts
+#EXTINF:0,US: LAW & CRIME
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1407.ts
+#EXTINF:0,US: LIFETIME
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1408.ts
+#EXTINF:0,US: LIFETIME MOVIES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1409.ts
+#EXTINF:0,US: LOGO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5557.ts
+#EXTINF:0,US: LONGHORN NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1493.ts
+#EXTINF:0,US: MAV TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7892.ts
+#EXTINF:0,US: ME TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1410.ts
+#EXTINF:0,US: MILITARY HISTORY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4046.ts
+#EXTINF:0,US: MLB NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1492.ts
+#EXTINF:0,US: MLBN STRIKEZONE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1491.ts
+#EXTINF:0,US: MOTORTREND
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1412.ts
+#EXTINF:0,US: MOVIE PLEX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7893.ts
+#EXTINF:0,US: MSG
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4480.ts
+#EXTINF:0,US: MSG 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6431.ts
+#EXTINF:0,US: MSG 2 PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6432.ts
+#EXTINF:0,US: MSG PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6430.ts
+#EXTINF:0,US: MSNBC |+|
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1411.ts
+#EXTINF:0,US: MTV 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1415.ts
+#EXTINF:0,US: MTV CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1416.ts
+#EXTINF:0,US: MTV EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1413.ts
+#EXTINF:0,US: MTV LIVE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1417.ts
+#EXTINF:0,US: NAT GEO MUNDO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4047.ts
+#EXTINF:0,US: NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1420.ts
+#EXTINF:0,US: NATIONAL GEOGRAPHIC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1419.ts
+#EXTINF:0,US: NAUTICAL CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7894.ts
+#EXTINF:0,US: NBA TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1490.ts
+#EXTINF:0,US: NBCSN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/2623.ts
+#EXTINF:0,US: NE CABLE NEWS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7895.ts
+#EXTINF:0,US: NECN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7896.ts
+#EXTINF:0,US: NESN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1488.ts
+#EXTINF:0,US: NESN PLUS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1489.ts
+#EXTINF:0,US: NHL NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1485.ts
+#EXTINF:0,US: NICK JR EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1479.ts
+#EXTINF:0,US: NICKELODEON EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7866.ts
+#EXTINF:0,US: NICKELODEON WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1477.ts
+#EXTINF:0,US: NICKTOONS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1481.ts
+#EXTINF:0,US: OLYMPIC CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1422.ts
+#EXTINF:0,US: ONE AMERICA NEWS NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7898.ts
+#EXTINF:0,US: OUTDOOR CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1423.ts
+#EXTINF:0,US: OUTSIDE TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1424.ts
+#EXTINF:0,US: OWN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1425.ts
+#EXTINF:0,US: OXYGEN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1426.ts
+#EXTINF:0,US: OXYGEN WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4048.ts
+#EXTINF:0,US: PAC-12 NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5560.ts
+#EXTINF:0,US: PARAMOUNT NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1427.ts
+#EXTINF:0,US: PBS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4050.ts
+#EXTINF:0,US: PBS KIDS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6446.ts
+#EXTINF:0,US: PEOPLE TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1428.ts
+#EXTINF:0,US: POP
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4049.ts
+#EXTINF:0,US: PURSUIT CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6444.ts
+#EXTINF:0,US: QVC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4051.ts
+#EXTINF:0,US: REELZ
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4245.ts
+#EXTINF:0,US: REVOLT
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1430.ts
+#EXTINF:0,US: RFD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6435.ts
+#EXTINF:0,US: RIDE TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7899.ts
+#EXTINF:0,US: RT NEWS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7900.ts
+#EXTINF:0,US: SD A&E
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5949.ts
+#EXTINF:0,US: SD ACC NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5950.ts
+#EXTINF:0,US: SD AMC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5951.ts
+#EXTINF:0,US: SD AMERICAN HEROES CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5952.ts
+#EXTINF:0,US: SD ANIMAL PLANET
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5953.ts
+#EXTINF:0,US: SD ANTENNA TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5954.ts
+#EXTINF:0,US: SD BABY TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5955.ts
+#EXTINF:0,US: SD BABY TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5956.ts
+#EXTINF:0,US: SD BBC WORLD NEWS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5957.ts
+#EXTINF:0,US: SD BOOMERANG
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5958.ts
+#EXTINF:0,US: SD BRAVO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5959.ts
+#EXTINF:0,US: SD C-SPAN 3
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5960.ts
+#EXTINF:0,US: SD CARTOON NETWORK EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5961.ts
+#EXTINF:0,US: SD CARTOON NETWORK EAST*
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5962.ts
+#EXTINF:0,US: SD CHEDDAR BUSINESS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5963.ts
+#EXTINF:0,US: SD CHEDDAR NEWS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5964.ts
+#EXTINF:0,US: SD CINE SONY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5965.ts
+#EXTINF:0,US: SD CINEMAX EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5966.ts
+#EXTINF:0,US: SD CINEMAX WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5967.ts
+#EXTINF:0,US: SD CLEO TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5968.ts
+#EXTINF:0,US: SD CNBC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5969.ts
+#EXTINF:0,US: SD CNBC WORLD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5970.ts
+#EXTINF:0,US: SD CNN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5971.ts
+#EXTINF:0,US: SD CNN EN ESPANOL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5972.ts
+#EXTINF:0,US: SD COMET
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5973.ts
+#EXTINF:0,US: SD COOKING CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5974.ts
+#EXTINF:0,US: SD COZI TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5975.ts
+#EXTINF:0,US: SD DESTINATION AMERICA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5976.ts
+#EXTINF:0,US: SD DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5977.ts
+#EXTINF:0,US: SD DISCOVERY EN ESPANOL HD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5978.ts
+#EXTINF:0,US: SD DISCOVERY FAMILIA HD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5979.ts
+#EXTINF:0,US: SD DISCOVERY LIFE CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5980.ts
+#EXTINF:0,US: SD DISNEY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5981.ts
+#EXTINF:0,US: SD DISNEY JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5982.ts
+#EXTINF:0,US: SD DISNEY XD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5983.ts
+#EXTINF:0,US: SD DIY NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5984.ts
+#EXTINF:0,US: SD DUCK TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5985.ts
+#EXTINF:0,US: SD E! EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5986.ts
+#EXTINF:0,US: SD EPIX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5987.ts
+#EXTINF:0,US: SD EPIX 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5988.ts
+#EXTINF:0,US: SD EPIX HITS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5989.ts
+#EXTINF:0,US: SD ESPN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5990.ts
+#EXTINF:0,US: SD FOOD NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5991.ts
+#EXTINF:0,US: SD FOX BUSINESS NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5992.ts
+#EXTINF:0,US: SD FOX LIFE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5993.ts
+#EXTINF:0,US: SD FOX NEWS CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5994.ts
+#EXTINF:0,US: SD FREEFORM
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5995.ts
+#EXTINF:0,US: SD FREEFORM WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5996.ts
+#EXTINF:0,US: SD FUSION
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5997.ts
+#EXTINF:0,US: SD FX EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5998.ts
+#EXTINF:0,US: SD FXM
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5999.ts
+#EXTINF:0,US: SD FXX EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6000.ts
+#EXTINF:0,US: SD GALAVISION
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6001.ts
+#EXTINF:0,US: SD GEM SHOPPING NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6002.ts
+#EXTINF:0,US: SD GRIT TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6003.ts
+#EXTINF:0,US: SD HALLMARK CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6004.ts
+#EXTINF:0,US: SD HALLMARK DRAMA
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6005.ts
+#EXTINF:0,US: SD HALLMARK MOVIES & MYSTERIES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6006.ts
+#EXTINF:0,US: SD HBO EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6007.ts
+#EXTINF:0,US: SD HBO WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6008.ts
+#EXTINF:0,US: SD HGTV EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6009.ts
+#EXTINF:0,US: SD HLN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6010.ts
+#EXTINF:0,US: SD IFC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6011.ts
+#EXTINF:0,US: SD INVESTIGATION DISCOVERY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6012.ts
+#EXTINF:0,US: SD LAW AND CRIME
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6013.ts
+#EXTINF:0,US: SD MOTORTREND
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6014.ts
+#EXTINF:0,US: SD MSNBC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6015.ts
+#EXTINF:0,US: SD MTV CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6016.ts
+#EXTINF:0,US: SD NAT GEO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6017.ts
+#EXTINF:0,US: SD NAT GEO MUNDO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6018.ts
+#EXTINF:0,US: SD NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6019.ts
+#EXTINF:0,US: SD NBC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6021.ts
+#EXTINF:0,US: SD NBC 4
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6020.ts
+#EXTINF:0,US: SD NHL NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6022.ts
+#EXTINF:0,US: SD NICKTOONS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6023.ts
+#EXTINF:0,US: SD OUTSIDE TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6024.ts
+#EXTINF:0,US: SD OWN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6025.ts
+#EXTINF:0,US: SD OXYGEN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6026.ts
+#EXTINF:0,US: SD SCIENCE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6027.ts
+#EXTINF:0,US: SD SHOWTIME EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6028.ts
+#EXTINF:0,US: SD SHOWTIME PACIFIC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6029.ts
+#EXTINF:0,US: SD SHOWTIME WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6030.ts
+#EXTINF:0,US: SD SMITHSONIAN CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6031.ts
+#EXTINF:0,US: SD STARZ ENCORE EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6032.ts
+#EXTINF:0,US: SD STARZ WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6033.ts
+#EXTINF:0,US: SD SUNDANCETV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6034.ts
+#EXTINF:0,US: SD SYFY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6035.ts
+#EXTINF:0,US: SD TASTEMADE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6036.ts
+#EXTINF:0,US: SD TBS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6037.ts
+#EXTINF:0,US: SD TEEN NICK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6038.ts
+#EXTINF:0,US: SD TELEMUNDO
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6039.ts
+#EXTINF:0,US: SD TENNIS CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6040.ts
+#EXTINF:0,US: SD THE COUNTRY NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6041.ts
+#EXTINF:0,US: SD TLC
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6042.ts
+#EXTINF:0,US: SD TNT
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6043.ts
+#EXTINF:0,US: SD TRAVEL CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6044.ts
+#EXTINF:0,US: SD TRUTV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6045.ts
+#EXTINF:0,US: SD TURNER CLASSIC MOVIES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6046.ts
+#EXTINF:0,US: SD TVG NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6047.ts
+#EXTINF:0,US: SD UNIVERSAL KIDS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6048.ts
+#EXTINF:0,US: SD USA NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6049.ts
+#EXTINF:0,US: SD WE TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6050.ts
+#EXTINF:0,US: SD WPIX
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6051.ts
+#EXTINF:0,US: SD YES NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6052.ts
+#EXTINF:0,US: SMITHSONIAN
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1431.ts
+#EXTINF:0,US: SNY
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7901.ts
+#EXTINF:0,US: SPORTSMAN CHANNEL 
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6443.ts
+#EXTINF:0,US: SPORTSNET LA DODGERS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4479.ts
+#EXTINF:0,US: SPORTSNET LA LAKERS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4478.ts
+#EXTINF:0,US: STADIUM
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7905.ts
+#EXTINF:0,US: STADIUM 1
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7902.ts
+#EXTINF:0,US: STADIUM 2
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7903.ts
+#EXTINF:0,US: STADIUM 3
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7904.ts
+#EXTINF:0,US: START TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1432.ts
+#EXTINF:0,US: SUNDANCE TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1433.ts
+#EXTINF:0,US: SYFY EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1434.ts
+#EXTINF:0,US: SYFY WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1435.ts
+#EXTINF:0,US: TASTEMADE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7906.ts
+#EXTINF:0,US: TBS EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1437.ts
+#EXTINF:0,US: TBS WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1438.ts
+#EXTINF:0,US: TENNIS CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4482.ts
+#EXTINF:0,US: THE WEATHER CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1439.ts
+#EXTINF:0,US: TLC EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1441.ts
+#EXTINF:0,US: TLC WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1442.ts
+#EXTINF:0,US: TNT EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1444.ts
+#EXTINF:0,US: TNT WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1445.ts
+#EXTINF:0,US: TRAVEL CHANNEL EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1446.ts
+#EXTINF:0,US: TRAVEL CHANNEL WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1447.ts
+#EXTINF:0,US: TRU TV EAST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1448.ts
+#EXTINF:0,US: TRU TV WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1449.ts
+#EXTINF:0,US: TURNER CLASSIC MOVIES
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1450.ts
+#EXTINF:0,US: TV LAND
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4053.ts
+#EXTINF:0,US: TV ONE
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4052.ts
+#EXTINF:0,US: TYC SPORTS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7909.ts
+#EXTINF:0,US: UFC FIGHT PASS
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1484.ts
+#EXTINF:0,US: UNIVERSAL (SPROUT)
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4054.ts
+#EXTINF:0,US: UNIVISION
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/6439.ts
+#EXTINF:0,US: USA EAST |+|
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1451.ts
+#EXTINF:0,US: USA WEST
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1452.ts
+#EXTINF:0,US: VH1 East
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4055.ts
+#EXTINF:0,US: VICELAND
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4477.ts
+#EXTINF:0,US: WE TV
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1453.ts
+#EXTINF:0,US: WEATHER NATION
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/7911.ts
+#EXTINF:0,US: WILLOW CRICKET 
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/5558.ts
+#EXTINF:0,US: WORLD FISHING NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/4056.ts
+#EXTINF:0,US: WWE NETWORK
+#EXTVLCOPT:network-caching=1000
+http://209.222.97.118:25461/live/Dave123/dave123/1483.ts
+#EXTINF:0,VOD: 01 | ABOMINABLE
+http://209.222.97.118:25461/live/Dave123/dave123/7723.ts
+#EXTINF:0,VOD: 02 | IN THE TALL GRASS
+http://209.222.97.118:25461/live/Dave123/dave123/7724.ts
+#EXTINF:0,VOD: 03 | DOWNTON ABBEY
+http://209.222.97.118:25461/live/Dave123/dave123/7725.ts
+#EXTINF:0,VOD: 04 | THE FANATIC
+http://209.222.97.118:25461/live/Dave123/dave123/7726.ts
+#EXTINF:0,VOD: 06 | THE RELIANT
+http://209.222.97.118:25461/live/Dave123/dave123/7728.ts
+#EXTINF:0,VOD: 07 | PARADISE HILLS
+http://209.222.97.118:25461/live/Dave123/dave123/7729.ts
+#EXTINF:0,VOD: 08 | KLAUS
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/7730.ts
+#EXTINF:0,VOD: 09 | RADIOFLASH
+http://209.222.97.118:25461/live/Dave123/dave123/7731.ts
+#EXTINF:0,VOD: 10 | THE CURRENT WAR
+http://209.222.97.118:25461/live/Dave123/dave123/7732.ts
+#EXTINF:0,VOD: 11 | HOLIDAY IN THE WILD
+http://209.222.97.118:25461/live/Dave123/dave123/7733.ts
+#EXTINF:0,VOD: 12 | THE DEAD CENTER
+http://209.222.97.118:25461/live/Dave123/dave123/7734.ts
+#EXTINF:0,VOD: 13 | WRINKLES THE CLOWN
+http://209.222.97.118:25461/live/Dave123/dave123/7735.ts
+#EXTINF:0,VOD: 14 | FULL COUNT
+http://209.222.97.118:25461/live/Dave123/dave123/7736.ts
+#EXTINF:0,VOD: 15 | AD ASTRA
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/7737.ts
+#EXTINF:0,VOD: 16 | GOOD BOYS
+http://209.222.97.118:25461/live/Dave123/dave123/7738.ts
+#EXTINF:0,VOD: 17 | LUCE
+http://209.222.97.118:25461/live/Dave123/dave123/7739.ts
+#EXTINF:0,VOD: 18 | LUCKY DAY
+http://209.222.97.118:25461/live/Dave123/dave123/7740.ts
+#EXTINF:0,VOD: 19 | DORA AND THE LOST CITY OF GOLD
+http://209.222.97.118:25461/live/Dave123/dave123/7741.ts
+#EXTINF:0,VOD: 20 | BOOKSMART
+http://209.222.97.118:25461/live/Dave123/dave123/7742.ts
+#EXTINF:0,VOD: 21 | AVENGERS ENDGAME
+http://209.222.97.118:25461/live/Dave123/dave123/7743.ts
+#EXTINF:0,VOD: 22 | BOY GENIUS
+http://209.222.97.118:25461/live/Dave123/dave123/7744.ts
+#EXTINF:0,VOD: 23 | CAN YOU KEEP A SECRET?
+http://209.222.97.118:25461/live/Dave123/dave123/7745.ts
+#EXTINF:0,VOD: 24 | CHILD'S PLAY
+http://209.222.97.118:25461/live/Dave123/dave123/7746.ts
+#EXTINF:0,VOD: 25 | SCARY STORIES TO TELL IN THE DARK
+http://209.222.97.118:25461/live/Dave123/dave123/7747.ts
+#EXTINF:0,VOD: 26 | STUBER
+http://209.222.97.118:25461/live/Dave123/dave123/7748.ts
+#EXTINF:0,VOD: 27 | THE ART OF RACING IN THE RAIN
+http://209.222.97.118:25461/live/Dave123/dave123/7749.ts
+#EXTINF:0,VOD: 28 | THE PEANUT BUTTER FALCON
+http://209.222.97.118:25461/live/Dave123/dave123/7750.ts
+#EXTINF:0,VOD: 29 | AFTER THE WEDDING
+http://209.222.97.118:25461/live/Dave123/dave123/7751.ts
+#EXTINF:0,VOD: 30 | SPIDER-MAN: FAR FROM HOME
+http://209.222.97.118:25461/live/Dave123/dave123/7752.ts
+#EXTINF:0,VOD: 31 | 15 MINUTES OF WAR
+http://209.222.97.118:25461/live/Dave123/dave123/7753.ts
+#EXTINF:0,VOD: 32 | ALADDIN
+http://209.222.97.118:25461/live/Dave123/dave123/7754.ts
+#EXTINF:0,VOD: 33 | ANNA
+http://209.222.97.118:25461/live/Dave123/dave123/7755.ts
+#EXTINF:0,VOD: 34 | INTO THE ASHES
+http://209.222.97.118:25461/live/Dave123/dave123/7756.ts
+#EXTINF:0,VOD: 35 | TOY STORY 4
+http://209.222.97.118:25461/live/Dave123/dave123/7757.ts
+#EXTINF:0,VOD: 36 | CAPTAIN MARVEL
+http://209.222.97.118:25461/live/Dave123/dave123/7758.ts
+#EXTINF:0,VOD: 37 | FAST & FURIOUS PRESENTS HOBBS & SHAW
+http://209.222.97.118:25461/live/Dave123/dave123/7759.ts
+#EXTINF:0,VOD: 38 | FIGHTING WITH MY FAMILY
+http://209.222.97.118:25461/live/Dave123/dave123/7760.ts
+#EXTINF:0,VOD: 39 | FIVE FEET APART
+http://209.222.97.118:25461/live/Dave123/dave123/7761.ts
+#EXTINF:0,VOD: 40 | ALITA BATTLE ANGEL
+http://209.222.97.118:25461/live/Dave123/dave123/7762.ts
+#EXTINF:0,VOD: 41 | HER SMELL
+http://209.222.97.118:25461/live/Dave123/dave123/7763.ts
+#EXTINF:0,VOD: 42 | HOW TO TRAIN YOUR DRAGON THE HIDDEN WORLD
+http://209.222.97.118:25461/live/Dave123/dave123/7764.ts
+#EXTINF:0,VOD: 43 | IN DARKNESS
+http://209.222.97.118:25461/live/Dave123/dave123/7765.ts
+#EXTINF:0,VOD: 44 | IRON SKY THE COMING RACE
+http://209.222.97.118:25461/live/Dave123/dave123/7766.ts
+#EXTINF:0,VOD: 46 | BREAKER
+http://209.222.97.118:25461/live/Dave123/dave123/7768.ts
+#EXTINF:0,VOD: 47 | LEO DA VINCI MISSION MONA LISA
+http://209.222.97.118:25461/live/Dave123/dave123/7769.ts
+#EXTINF:0,VOD: 49 | MEN IN BLACK INTERNATIONAL
+http://209.222.97.118:25461/live/Dave123/dave123/7771.ts
+#EXTINF:0,VOD: 50 | REIGN OF THE SUPERMEN
+http://209.222.97.118:25461/live/Dave123/dave123/7772.ts
+#EXTINF:0,VOD: 51 | KLAUS [Alternate]
+#EXTVLCOPT:network-caching=5000
+http://beastiptv.tv:25461/live/q9UGpGpD5L/DzVItMvkFb/7730.ts
+#EXTINF:0,VOD: ACTOR | ADAM SANDLER
+http://209.222.97.118:25461/live/Dave123/dave123/7146.ts
+#EXTINF:0,VOD: ACTOR | ARNOLD SCHWARZENEGGER
+http://209.222.97.118:25461/live/Dave123/dave123/7151.ts
+#EXTINF:0,VOD: ACTOR | BEN STILLER
+http://209.222.97.118:25461/live/Dave123/dave123/7153.ts
+#EXTINF:0,VOD: ACTOR | BRAD PITT
+http://209.222.97.118:25461/live/Dave123/dave123/7154.ts
+#EXTINF:0,VOD: ACTOR | BRUCE WILLIS
+http://209.222.97.118:25461/live/Dave123/dave123/7155.ts
+#EXTINF:0,VOD: ACTOR | CHRIS HEMSWORTH
+http://209.222.97.118:25461/live/Dave123/dave123/7158.ts
+#EXTINF:0,VOD: ACTOR | CHRISTIAN BALE
+http://209.222.97.118:25461/live/Dave123/dave123/7159.ts
+#EXTINF:0,VOD: ACTOR | CLINT EASTWOOD
+http://209.222.97.118:25461/live/Dave123/dave123/7161.ts
+#EXTINF:0,VOD: ACTOR | CRISTOPHER WALKEN
+http://209.222.97.118:25461/live/Dave123/dave123/7162.ts
+#EXTINF:0,VOD: ACTOR | DUSTIN HOFFMAN
+http://209.222.97.118:25461/live/Dave123/dave123/7163.ts
+#EXTINF:0,VOD: ACTOR | DWAYNE JOHNSON
+http://209.222.97.118:25461/live/Dave123/dave123/7164.ts
+#EXTINF:0,VOD: ACTOR | EDDY MURPHY
+http://209.222.97.118:25461/live/Dave123/dave123/7165.ts
+#EXTINF:0,VOD: ACTOR | GEORGE CLOONEY
+http://209.222.97.118:25461/live/Dave123/dave123/7168.ts
+#EXTINF:0,VOD: ACTOR | HARRISON FORD
+http://209.222.97.118:25461/live/Dave123/dave123/7170.ts
+#EXTINF:0,VOD: ACTOR | JASON STATHAM
+http://209.222.97.118:25461/live/Dave123/dave123/7174.ts
+#EXTINF:0,VOD: ACTOR | JOHNNY DEPP
+http://209.222.97.118:25461/live/Dave123/dave123/7180.ts
+#EXTINF:0,VOD: ACTOR | JULIA ROBERTS
+http://209.222.97.118:25461/live/Dave123/dave123/7183.ts
+#EXTINF:0,VOD: ACTOR | KEVIN SPACEY
+http://209.222.97.118:25461/live/Dave123/dave123/7184.ts
+#EXTINF:0,VOD: ACTOR | LEONARDO DICAPRIO
+http://209.222.97.118:25461/live/Dave123/dave123/7185.ts
+#EXTINF:0,VOD: ACTOR | MATT DAMON
+http://209.222.97.118:25461/live/Dave123/dave123/7187.ts
+#EXTINF:0,VOD: ACTOR | MATTHEW MCCONAUGHEY
+http://209.222.97.118:25461/live/Dave123/dave123/7188.ts
+#EXTINF:0,VOD: ACTOR | MERYL STREEP
+http://209.222.97.118:25461/live/Dave123/dave123/7190.ts
+#EXTINF:0,VOD: ACTOR | ROBERT DE NIRO
+http://209.222.97.118:25461/live/Dave123/dave123/7193.ts
+#EXTINF:0,VOD: ACTOR | ROBERT DOWNEY JR.
+http://209.222.97.118:25461/live/Dave123/dave123/7194.ts
+#EXTINF:0,VOD: ACTOR | RUSSELL CROWE
+http://209.222.97.118:25461/live/Dave123/dave123/7195.ts
+#EXTINF:0,VOD: ACTOR | SAMUEL L JACKSON
+http://209.222.97.118:25461/live/Dave123/dave123/7182.ts
+#EXTINF:0,VOD: ACTOR | SEAN PENN
+http://209.222.97.118:25461/live/Dave123/dave123/7197.ts
+#EXTINF:0,VOD: ACTOR | TOM HANKS
+http://209.222.97.118:25461/live/Dave123/dave123/7202.ts
+#EXTINF:0,VOD: ACTOR | TOM HARDY
+http://209.222.97.118:25461/live/Dave123/dave123/7203.ts
+#EXTINF:0,VOD: ACTOR | WILL SMITH
+http://209.222.97.118:25461/live/Dave123/dave123/7205.ts
+#EXTINF:0,VOD: GENRE | ACTION CLASSICS
+http://209.222.97.118:25461/live/Dave123/dave123/7105.ts
+#EXTINF:0,VOD: GENRE | ADVENTURE
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/7106.ts
+#EXTINF:0,VOD: GENRE | ANIMATION
+http://209.222.97.118:25461/live/Dave123/dave123/7107.ts
+#EXTINF:0,VOD: GENRE | CHRISTMAS
+http://209.222.97.118:25461/live/Dave123/dave123/7109.ts
+#EXTINF:0,VOD: GENRE | CHRISTMAS KIDS
+http://209.222.97.118:25461/live/Dave123/dave123/7108.ts
+#EXTINF:0,VOD: GENRE | COMEDY CHRONIC
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/7110.ts
+#EXTINF:0,VOD: GENRE | COMEDY CLASSIC
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/7111.ts
+#EXTINF:0,VOD: GENRE | DC SUPERHERO
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/7112.ts
+#EXTINF:0,VOD: GENRE | DISNEY
+http://209.222.97.118:25461/live/Dave123/dave123/7113.ts
+#EXTINF:0,VOD: GENRE | DOCUMENTARY
+http://209.222.97.118:25461/live/Dave123/dave123/7114.ts
+#EXTINF:0,VOD: GENRE | DRAMA
+http://209.222.97.118:25461/live/Dave123/dave123/7115.ts
+#EXTINF:0,VOD: GENRE | EROTIC
+http://209.222.97.118:25461/live/Dave123/dave123/7116.ts
+#EXTINF:0,VOD: GENRE | FANTASY
+http://209.222.97.118:25461/live/Dave123/dave123/7117.ts
+#EXTINF:0,VOD: GENRE | FIGHTING ACTION
+http://209.222.97.118:25461/live/Dave123/dave123/7118.ts
+#EXTINF:0,VOD: GENRE | FIGHTING CLASSIC
+http://209.222.97.118:25461/live/Dave123/dave123/7119.ts
+#EXTINF:0,VOD: GENRE | FIGHTING MODERN
+http://209.222.97.118:25461/live/Dave123/dave123/7120.ts
+#EXTINF:0,VOD: GENRE | FILM NOIR
+http://209.222.97.118:25461/live/Dave123/dave123/7121.ts
+#EXTINF:0,VOD: GENRE | HISTORY
+http://209.222.97.118:25461/live/Dave123/dave123/7122.ts
+#EXTINF:0,VOD: GENRE | HORROR
+http://209.222.97.118:25461/live/Dave123/dave123/7125.ts
+#EXTINF:0,VOD: GENRE | MYSTERY
+http://209.222.97.118:25461/live/Dave123/dave123/7127.ts
+#EXTINF:0,VOD: GENRE | RAP
+http://209.222.97.118:25461/live/Dave123/dave123/7128.ts
+#EXTINF:0,VOD: GENRE | SCI-FI
+http://209.222.97.118:25461/live/Dave123/dave123/7129.ts
+#EXTINF:0,VOD: GENRE | SCIFI ACTION
+http://209.222.97.118:25461/live/Dave123/dave123/7130.ts
+#EXTINF:0,VOD: GENRE | SCIFI DEEP SPACE
+#EXTVLCOPT:network-caching=5000
+http://209.222.97.118:25461/live/Dave123/dave123/7131.ts
+#EXTINF:0,VOD: GENRE | THRILLER
+http://209.222.97.118:25461/live/Dave123/dave123/7134.ts
+#EXTINF:0,VOD: GENRE | THRILLER CRIME
+http://209.222.97.118:25461/live/Dave123/dave123/7132.ts
+#EXTINF:0,VOD: GENRE | THRILLER DRAMA
+http://209.222.97.118:25461/live/Dave123/dave123/7133.ts
+#EXTINF:0,VOD: GENRE | URBAN COMEDY
+http://209.222.97.118:25461/live/Dave123/dave123/7136.ts
+#EXTINF:0,VOD: GENRE | URBAN COMEDY MODERN
+http://209.222.97.118:25461/live/Dave123/dave123/7135.ts
+#EXTINF:0,VOD: GENRE | URBAN DRAMA
+http://209.222.97.118:25461/live/Dave123/dave123/7137.ts
+#EXTINF:0,VOD: GENRE | URBAN HER
+http://209.222.97.118:25461/live/Dave123/dave123/7138.ts
+#EXTINF:0,VOD: GENRE | URBAN HOOD
+http://209.222.97.118:25461/live/Dave123/dave123/7139.ts
+#EXTINF:0,VOD: GENRE | URBAN ROMANCE
+http://209.222.97.118:25461/live/Dave123/dave123/7140.ts
+#EXTINF:0,VOD: GENRE | WESTERN
+http://209.222.97.118:25461/live/Dave123/dave123/7142.ts
+#EXTINF:0,VOD: GENRE | WESTERN CLASSICS
+http://209.222.97.118:25461/live/Dave123/dave123/7141.ts
+#EXTINF:0,VOD: GENRE | ZOMBIE CLASSIC
+http://209.222.97.118:25461/live/Dave123/dave123/7143.ts
+#EXTINF:0,VOD: GENRE | ZOMBIE COMEDY
+http://209.222.97.118:25461/live/Dave123/dave123/7144.ts
