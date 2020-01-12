@@ -1,437 +1,437 @@
 #EXTM3U
-#EXTINF:0,CA: A&E
+#EXTINF:-1 group_title="CA_IPTV_PRI",A&E
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/727
-#EXTINF:0,CA: ABC HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",ABC HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/568
-#EXTINF:0,CA: ABC SPARK
+#EXTINF:-1 group_title="CA_IPTV_PRI",ABC SPARK
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/726
-#EXTINF:0,CA: ABC WEST
+#EXTINF:-1 group_title="CA_IPTV_PRI",ABC WEST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/725
-#EXTINF:0,CA: ACTION
+#EXTINF:-1 group_title="CA_IPTV_PRI",ACTION
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/724
-#EXTINF:0,CA: AHC
+#EXTINF:-1 group_title="CA_IPTV_PRI",AHC
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/723
-#EXTINF:0,CA: AMC
+#EXTINF:-1 group_title="CA_IPTV_PRI",AMC
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/722
-#EXTINF:0,CA: ANIMAL PLANET
+#EXTINF:-1 group_title="CA_IPTV_PRI",ANIMAL PLANET
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/721
-#EXTINF:0,CA: BBC CANADA
+#EXTINF:-1 group_title="CA_IPTV_PRI",BBC CANADA
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/720
-#EXTINF:0,CA: BBC KIDS
+#EXTINF:-1 group_title="CA_IPTV_PRI",BBC KIDS
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/719
-#EXTINF:0,CA: BBC WORLD NEWS
+#EXTINF:-1 group_title="CA_IPTV_PRI",BBC WORLD NEWS
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/570
-#EXTINF:0,CA: BNN
+#EXTINF:-1 group_title="CA_IPTV_PRI",BNN
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/752
-#EXTINF:0,CA: BOOK TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",BOOK TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/718
-#EXTINF:0,CA: BOUNCE
+#EXTINF:-1 group_title="CA_IPTV_PRI",BOUNCE
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/562
-#EXTINF:0,CA: BRAVO
+#EXTINF:-1 group_title="CA_IPTV_PRI",BRAVO
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/717
-#EXTINF:0,CA: CANAL SAVOIR
+#EXTINF:-1 group_title="CA_IPTV_PRI",CANAL SAVOIR
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/716
-#EXTINF:0,CA: CARTOON NETWORK
+#EXTINF:-1 group_title="CA_IPTV_PRI",CARTOON NETWORK
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/715
-#EXTINF:0,CA: CASA
+#EXTINF:-1 group_title="CA_IPTV_PRI",CASA
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/714
-#EXTINF:0,CA: CBC MONTREAL
+#EXTINF:-1 group_title="CA_IPTV_PRI",CBC MONTREAL
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/713
-#EXTINF:0,CA: CBC NEWS
+#EXTINF:-1 group_title="CA_IPTV_PRI",CBC NEWS
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/575
-#EXTINF:0,CA: CBC OTTAWA
+#EXTINF:-1 group_title="CA_IPTV_PRI",CBC OTTAWA
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/712
-#EXTINF:0,CA: CBC VANCOUVER
+#EXTINF:-1 group_title="CA_IPTV_PRI",CBC VANCOUVER
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/573
-#EXTINF:0,CA: CBS EAST
+#EXTINF:-1 group_title="CA_IPTV_PRI",CBS EAST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/711
-#EXTINF:0,CA: CBS WEST
+#EXTINF:-1 group_title="CA_IPTV_PRI",CBS WEST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/572
-#EXTINF:0,CA: CHCH HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",CHCH HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/545
-#EXTINF:0,CA: CHIN
+#EXTINF:-1 group_title="CA_IPTV_PRI",CHIN
 #EXTVLCOPT:network-caching=1000
 http://spot-1.spotv.me:8080/live/radios/radios/5542.ts
-#EXTINF:0,CA: CINÉPOP
+#EXTINF:-1 group_title="CA_IPTV_PRI",CINÉPOP
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/710
-#EXTINF:0,CA: CITY MONTREAL
+#EXTINF:-1 group_title="CA_IPTV_PRI",CITY MONTREAL
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/709
-#EXTINF:0,CA: CITY VANCOUVER
+#EXTINF:-1 group_title="CA_IPTV_PRI",CITY VANCOUVER
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/708
-#EXTINF:0,CA: CMT
+#EXTINF:-1 group_title="CA_IPTV_PRI",CMT
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/707
-#EXTINF:0,CA: CNBC
+#EXTINF:-1 group_title="CA_IPTV_PRI",CNBC
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/571
-#EXTINF:0,CA: CNN
+#EXTINF:-1 group_title="CA_IPTV_PRI",CNN
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/706
-#EXTINF:0,CA: COMEDY EAST
+#EXTINF:-1 group_title="CA_IPTV_PRI",COMEDY EAST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/705
-#EXTINF:0,CA: COOKING CHANNEL
+#EXTINF:-1 group_title="CA_IPTV_PRI",COOKING CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/704
-#EXTINF:0,CA: COSMO
+#EXTINF:-1 group_title="CA_IPTV_PRI",COSMO
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/703
-#EXTINF:0,CA: CPAC
+#EXTINF:-1 group_title="CA_IPTV_PRI",CPAC
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/702
-#EXTINF:0,CA: CPAC FRENCH
+#EXTINF:-1 group_title="CA_IPTV_PRI",CPAC FRENCH
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/701
-#EXTINF:0,CA: CRIME INVESTIGATION
+#EXTINF:-1 group_title="CA_IPTV_PRI",CRIME INVESTIGATION
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/700
-#EXTINF:0,CA: CTV 2 VANCOUVER
+#EXTINF:-1 group_title="CA_IPTV_PRI",CTV 2 VANCOUVER
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/576
-#EXTINF:0,CA: CTV HALIFAX
+#EXTINF:-1 group_title="CA_IPTV_PRI",CTV HALIFAX
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/699
-#EXTINF:0,CA: CTV NEWS NETWORK
+#EXTINF:-1 group_title="CA_IPTV_PRI",CTV NEWS NETWORK
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/698
-#EXTINF:0,CA: CTV OTTAWA
+#EXTINF:-1 group_title="CA_IPTV_PRI",CTV OTTAWA
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/697
-#EXTINF:0,CA: CTV VANCOUVER
+#EXTINF:-1 group_title="CA_IPTV_PRI",CTV VANCOUVER
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/577
-#EXTINF:0,CA: CTV2 OTTAWA
+#EXTINF:-1 group_title="CA_IPTV_PRI",CTV2 OTTAWA
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/696
-#EXTINF:0,CA: CW 11
+#EXTINF:-1 group_title="CA_IPTV_PRI",CW 11
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/695
-#EXTINF:0,CA: DAYSTAR TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",DAYSTAR TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/694
-#EXTINF:0,CA: DISCOVERY CANADA
+#EXTINF:-1 group_title="CA_IPTV_PRI",DISCOVERY CANADA
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/693
-#EXTINF:0,CA: DISCOVERY SCIENCE
+#EXTINF:-1 group_title="CA_IPTV_PRI",DISCOVERY SCIENCE
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/692
-#EXTINF:0,CA: DISNEY CANADA
+#EXTINF:-1 group_title="CA_IPTV_PRI",DISNEY CANADA
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/691
-#EXTINF:0,CA: DISNEY FRENCH
+#EXTINF:-1 group_title="CA_IPTV_PRI",DISNEY FRENCH
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/690
-#EXTINF:0,CA: DISNEY JUNIOR
+#EXTINF:-1 group_title="CA_IPTV_PRI",DISNEY JUNIOR
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/689
-#EXTINF:0,CA: DOCUMENTARY CHANNEL
+#EXTINF:-1 group_title="CA_IPTV_PRI",DOCUMENTARY CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/688
-#EXTINF:0,CA: E!
+#EXTINF:-1 group_title="CA_IPTV_PRI",E!
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/687
-#EXTINF:0,CA: FAITH TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",FAITH TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/668
-#EXTINF:0,CA: FAMILY EAST
+#EXTINF:-1 group_title="CA_IPTV_PRI",FAMILY EAST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/684
-#EXTINF:0,CA: FAMILY JR
+#EXTINF:-1 group_title="CA_IPTV_PRI",FAMILY JR
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/683
-#EXTINF:0,CA: FASHION TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",FASHION TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/678
-#EXTINF:0,CA: FIGHT NETWORK
+#EXTINF:-1 group_title="CA_IPTV_PRI",FIGHT NETWORK
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/682
-#EXTINF:0,CA: FOOD NETWORK
+#EXTINF:-1 group_title="CA_IPTV_PRI",FOOD NETWORK
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/681
-#EXTINF:0,CA: FOX
+#EXTINF:-1 group_title="CA_IPTV_PRI",FOX
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/569
-#EXTINF:0,CA: FOX EAST
+#EXTINF:-1 group_title="CA_IPTV_PRI",FOX EAST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/680
-#EXTINF:0,CA: FOX NEWS
+#EXTINF:-1 group_title="CA_IPTV_PRI",FOX NEWS
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/679
-#EXTINF:0,CA: FOX WEST
+#EXTINF:-1 group_title="CA_IPTV_PRI",FOX WEST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/567
-#EXTINF:0,CA: FX
+#EXTINF:-1 group_title="CA_IPTV_PRI",FX
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/566
-#EXTINF:0,CA: FXX
+#EXTINF:-1 group_title="CA_IPTV_PRI",FXX
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/565
-#EXTINF:0,CA: FYI
+#EXTINF:-1 group_title="CA_IPTV_PRI",FYI
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/677
-#EXTINF:0,CA: GAME TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",GAME TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/676
-#EXTINF:0,CA: GINX ESPORTS TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",GINX ESPORTS TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/675
-#EXTINF:0,CA: GLOBAL HALIFAX
+#EXTINF:-1 group_title="CA_IPTV_PRI",GLOBAL HALIFAX
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/674
-#EXTINF:0,CA: GLOBAL VANCOUVER
+#EXTINF:-1 group_title="CA_IPTV_PRI",GLOBAL VANCOUVER
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/578
-#EXTINF:0,CA: GOLF
+#EXTINF:-1 group_title="CA_IPTV_PRI",GOLF
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/673
-#EXTINF:0,CA: HBO
+#EXTINF:-1 group_title="CA_IPTV_PRI",HBO
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/564
-#EXTINF:0,CA: HBO 2
+#EXTINF:-1 group_title="CA_IPTV_PRI",HBO 2
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/671
-#EXTINF:0,CA: HGTV
+#EXTINF:-1 group_title="CA_IPTV_PRI",HGTV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/670
-#EXTINF:0,CA: HISTORY 2
+#EXTINF:-1 group_title="CA_IPTV_PRI",HISTORY 2
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/672
-#EXTINF:0,CA: HISTORY CHANNEL
+#EXTINF:-1 group_title="CA_IPTV_PRI",HISTORY CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/669
-#EXTINF:0,CA: HUNT CHANNEL
+#EXTINF:-1 group_title="CA_IPTV_PRI",HUNT CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/745
-#EXTINF:0,CA: ICI MONTREAL
+#EXTINF:-1 group_title="CA_IPTV_PRI",ICI MONTREAL
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/666
-#EXTINF:0,CA: ICI VANCOUVER
+#EXTINF:-1 group_title="CA_IPTV_PRI",ICI VANCOUVER
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/665
-#EXTINF:0,CA: ID
+#EXTINF:-1 group_title="CA_IPTV_PRI",ID
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/664
-#EXTINF:0,CA: LEAFS TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",LEAFS TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/751
-#EXTINF:0,CA: LIFETIME
+#EXTINF:-1 group_title="CA_IPTV_PRI",LIFETIME
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/663
-#EXTINF:0,CA: M ENCORE 1
+#EXTINF:-1 group_title="CA_IPTV_PRI",M ENCORE 1
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/686
-#EXTINF:0,CA: M ENCORE 2
+#EXTINF:-1 group_title="CA_IPTV_PRI",M ENCORE 2
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/685
-#EXTINF:0,CA: MAKEFUL
+#EXTINF:-1 group_title="CA_IPTV_PRI",MAKEFUL
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/662
-#EXTINF:0,CA: MAX
+#EXTINF:-1 group_title="CA_IPTV_PRI",MAX
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/661
-#EXTINF:0,CA: MLB NETWORK
+#EXTINF:-1 group_title="CA_IPTV_PRI",MLB NETWORK
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/660
-#EXTINF:0,CA: MOI CIE
+#EXTINF:-1 group_title="CA_IPTV_PRI",MOI CIE
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/659
-#EXTINF:0,CA: MOVIE TIME
+#EXTINF:-1 group_title="CA_IPTV_PRI",MOVIE TIME
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/658
-#EXTINF:0,CA: MTV
+#EXTINF:-1 group_title="CA_IPTV_PRI",MTV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/657
-#EXTINF:0,CA: MTV 2
+#EXTINF:-1 group_title="CA_IPTV_PRI",MTV 2
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/656
-#EXTINF:0,CA: MUCH MUSIC
+#EXTINF:-1 group_title="CA_IPTV_PRI",MUCH MUSIC
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/655
-#EXTINF:0,CA: MUSIQUE PLUS
+#EXTINF:-1 group_title="CA_IPTV_PRI",MUSIQUE PLUS
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/654
-#EXTINF:0,CA: NATIONAL GEOGRAPHIC
+#EXTINF:-1 group_title="CA_IPTV_PRI",NATIONAL GEOGRAPHIC
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/653
-#EXTINF:0,CA: NBA TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",NBA TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/652
-#EXTINF:0,CA: NBC HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",NBC HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/559
-#EXTINF:0,CA: NBC WEST
+#EXTINF:-1 group_title="CA_IPTV_PRI",NBC WEST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/651
-#EXTINF:0,CA: NTV
+#EXTINF:-1 group_title="CA_IPTV_PRI",NTV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/648
-#EXTINF:0,CA: OLN
+#EXTINF:-1 group_title="CA_IPTV_PRI",OLN
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/647
-#EXTINF:0,CA: OMNI BC
+#EXTINF:-1 group_title="CA_IPTV_PRI",OMNI BC
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/646
-#EXTINF:0,CA: OMNI EAST
+#EXTINF:-1 group_title="CA_IPTV_PRI",OMNI EAST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/645
-#EXTINF:0,CA: ONE
+#EXTINF:-1 group_title="CA_IPTV_PRI",ONE
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/644
-#EXTINF:0,CA: OUTTV
+#EXTINF:-1 group_title="CA_IPTV_PRI",OUTTV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/643
-#EXTINF:0,CA: OWN
+#EXTINF:-1 group_title="CA_IPTV_PRI",OWN
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/642
-#EXTINF:0,CA: PBS KIDS HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",PBS KIDS HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/560
-#EXTINF:0,CA: RDI
+#EXTINF:-1 group_title="CA_IPTV_PRI",RDI
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/641
-#EXTINF:0,CA: RDS
+#EXTINF:-1 group_title="CA_IPTV_PRI",RDS
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/640
-#EXTINF:0,CA: RDS 2
+#EXTINF:-1 group_title="CA_IPTV_PRI",RDS 2
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/639
-#EXTINF:0,CA: SPACE CHANNEL
+#EXTINF:-1 group_title="CA_IPTV_PRI",SPACE CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/750
-#EXTINF:0,CA: SPIKE TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",SPIKE TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/637
-#EXTINF:0,CA: SPORTSNET 360 HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",SPORTSNET 360 HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/549
-#EXTINF:0,CA: SPORTSNET EAST
+#EXTINF:-1 group_title="CA_IPTV_PRI",SPORTSNET EAST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/636
-#EXTINF:0,CA: SPORTSNET ONE HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",SPORTSNET ONE HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/548
-#EXTINF:0,CA: SPORTSNET PACIFIC
+#EXTINF:-1 group_title="CA_IPTV_PRI",SPORTSNET PACIFIC
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/635
-#EXTINF:0,CA: SPORTSNET WEST HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",SPORTSNET WEST HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/547
-#EXTINF:0,CA: SPORTSNET WORLD HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",SPORTSNET WORLD HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/546
-#EXTINF:0,CA: SUPER ECRAN 1
+#EXTINF:-1 group_title="CA_IPTV_PRI",SUPER ECRAN 1
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/634
-#EXTINF:0,CA: SUPER ECRAN 2
+#EXTINF:-1 group_title="CA_IPTV_PRI",SUPER ECRAN 2
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/633
-#EXTINF:0,CA: SUPER ECRAN 3
+#EXTINF:-1 group_title="CA_IPTV_PRI",SUPER ECRAN 3
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/632
-#EXTINF:0,CA: SUPER ECRAN 4
+#EXTINF:-1 group_title="CA_IPTV_PRI",SUPER ECRAN 4
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/631
-#EXTINF:0,CA: TELE LATINO
+#EXTINF:-1 group_title="CA_IPTV_PRI",TELE LATINO
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/749
-#EXTINF:0,CA: TELETOON FRENCH
+#EXTINF:-1 group_title="CA_IPTV_PRI",TELETOON FRENCH
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/629
-#EXTINF:0,CA: THE SHOPPING CHANNEL
+#EXTINF:-1 group_title="CA_IPTV_PRI",THE SHOPPING CHANNEL
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/638
-#EXTINF:0,CA: TLC
+#EXTINF:-1 group_title="CA_IPTV_PRI",TLC
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/628
-#EXTINF:0,CA: TMN 1
+#EXTINF:-1 group_title="CA_IPTV_PRI",TMN 1
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/627
-#EXTINF:0,CA: TMN 2
+#EXTINF:-1 group_title="CA_IPTV_PRI",TMN 2
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/626
-#EXTINF:0,CA: TMN 3
+#EXTINF:-1 group_title="CA_IPTV_PRI",TMN 3
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/625
-#EXTINF:0,CA: TMN 4
+#EXTINF:-1 group_title="CA_IPTV_PRI",TMN 4
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/624
-#EXTINF:0,CA: TREEHOUSE
+#EXTINF:-1 group_title="CA_IPTV_PRI",TREEHOUSE
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/630
-#EXTINF:0,CA: TSN 1 HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",TSN 1 HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/554
-#EXTINF:0,CA: TSN 2 HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",TSN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/553
-#EXTINF:0,CA: TSN 3 HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",TSN 3 HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/552
-#EXTINF:0,CA: TSN 4 HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",TSN 4 HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/551
-#EXTINF:0,CA: TSN 5 HD
+#EXTINF:-1 group_title="CA_IPTV_PRI",TSN 5 HD
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/550
-#EXTINF:0,CA: TV5 QUEBEC
+#EXTINF:-1 group_title="CA_IPTV_PRI",TV5 QUEBEC
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/623
-#EXTINF:0,CA: TVA OTTAWA
+#EXTINF:-1 group_title="CA_IPTV_PRI",TVA OTTAWA
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/622
-#EXTINF:0,CA: TVA SPORTS
+#EXTINF:-1 group_title="CA_IPTV_PRI",TVA SPORTS
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/620
-#EXTINF:0,CA: VISION TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",VISION TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/748
-#EXTINF:0,CA: VRAK TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",VRAK TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/619
-#EXTINF:0,CA: W NETWORK
+#EXTINF:-1 group_title="CA_IPTV_PRI",W NETWORK
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/618
-#EXTINF:0,CA: WFN
+#EXTINF:-1 group_title="CA_IPTV_PRI",WFN
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/617
-#EXTINF:0,CA: WGN
+#EXTINF:-1 group_title="CA_IPTV_PRI",WGN
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/616
-#EXTINF:0,CA: WILD TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",WILD TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/746
-#EXTINF:0,CA: YES TV
+#EXTINF:-1 group_title="CA_IPTV_PRI",YES TV
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/615
-#EXTINF:0,CA: YTV WEST
+#EXTINF:-1 group_title="CA_IPTV_PRI",YTV WEST
 #EXTVLCOPT:network-caching=1000
 http://mediaptv1.zuneserver.com:8000/localchannels/xhga53ls83j/747
 #EXTINF:0,The Weather Network
