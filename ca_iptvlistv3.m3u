@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:0,beIN Sports8 - NBA
+#EXTINF:0,beIN Sports8
 #EXTVLCOPT:network-caching=1000
 http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0SD/t8dGBJITHt/1381
-#EXTINF:0,beIN Sports8 - NBA
+#EXTINF:0,beIN Sports8
 #EXTVLCOPT:network-caching=1000
 http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0SD/t8dGBJITHt/1392
 #EXTINF:0, AMC HD
