@@ -444,1519 +444,393 @@ http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1854
 #EXTVLCOPT:network-caching=1000
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1855
 #EXTM3U
-#EXTINF:-1 group_title="Canada",BRAVO HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36519.ts
-#EXTINF:-1 group_title="Canada",Discovery HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36518.ts
-#EXTINF:-1 group_title="Canada",FAMILY HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36517.ts
-#EXTINF:-1 group_title="Canada",A&E
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36516.ts
-#EXTINF:-1 group_title="Canada",A&E FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44038.ts
-#EXTINF:-1 group_title="Canada",ABC Buffalo (WKBW)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44039.ts
-#EXTINF:-1 group_title="Canada",ABC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36514.ts
-#EXTINF:-1 group_title="Canada",ABC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44040.ts
-#EXTINF:-1 group_title="Canada",ABC SEATTLE WA KOMO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44041.ts
-#EXTINF:-1 group_title="Canada",ABC SPARK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36513.ts
-#EXTINF:-1 group_title="Canada",ABC Spark HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44042.ts
-#EXTINF:-1 group_title="Canada",ABC SPARK HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36512.ts
-#EXTINF:-1 group_title="Canada",ABC WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36511.ts
+#EXTINF:-1 group_title="Canada",ABC EAST
+http://185.23.213.162:8789/ania/ania/40541
 #EXTINF:-1 group_title="Canada",ACTION
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36510.ts
-#EXTINF:-1 group_title="Canada",ADDIK TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36509.ts
-#EXTINF:-1 group_title="Canada",ADDIK TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44043.ts
-#EXTINF:-1 group_title="Canada",Addik TV (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44044.ts
-#EXTINF:-1 group_title="Canada",ADDIK TV QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48216.ts
-#EXTINF:-1 group_title="Canada",Adult Swim
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44045.ts
+http://185.23.213.162:8789/ania/ania/40546
+#EXTINF:-1 group_title="Canada",A&E HD
+http://185.23.213.162:8789/ania/ania/40548
 #EXTINF:-1 group_title="Canada",AHC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44046.ts
-#EXTINF:-1 group_title="Canada",AHC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36507.ts
-#EXTINF:-1 group_title="Canada",AMC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48215.ts
-#EXTINF:-1 group_title="Canada",AMC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36506.ts
-#EXTINF:-1 group_title="Canada",AMC FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44047.ts
+http://185.23.213.162:8789/ania/ania/40549
 #EXTINF:-1 group_title="Canada",AMC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48159.ts
-#EXTINF:-1 group_title="Canada",AMI-tele (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44048.ts
-#EXTINF:-1 group_title="Canada",ANIMAL PLANET HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44049.ts
-#EXTINF:-1 group_title="Canada",Animal Planet HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36503.ts
-#EXTINF:-1 group_title="Canada",APTN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44050.ts
+http://185.23.213.162:8789/ania/ania/40551
 #EXTINF:-1 group_title="Canada",APTN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36502.ts
+http://185.23.213.162:8789/ania/ania/40554
 #EXTINF:-1 group_title="Canada",ARTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36501.ts
-#EXTINF:-1 group_title="Canada",ARTV QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48214.ts
+http://185.23.213.162:8789/ania/ania/40555
+#EXTINF:-1 group_title="Canada",ASSEMBLEE NATIONALE
+http://185.23.213.162:8789/ania/ania/40556
 #EXTINF:-1 group_title="Canada",BBC CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36499.ts
-#EXTINF:-1 group_title="Canada",BBC Canada
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44051.ts
-#EXTINF:-1 group_title="Canada",BBC EARTH HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44052.ts
-#EXTINF:-1 group_title="Canada",BBC NEWS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44053.ts
+http://185.23.213.162:8789/ania/ania/40557
+#EXTINF:-1 group_title="Canada",BBC KIDS
+http://185.23.213.162:8789/ania/ania/40558
 #EXTINF:-1 group_title="Canada",BBC WORLD NEWS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36497.ts
-#EXTINF:-1 group_title="Canada",BBC WORLD NEWS HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44054.ts
-#EXTINF:-1 group_title="Canada",beIN SPORTS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44055.ts
-#EXTINF:-1 group_title="Canada",beIN Sports HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48158.ts
-#EXTINF:-1 group_title="Canada",BEIN SPORTS NADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48213.ts
-#EXTINF:-1 group_title="Canada",BET
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36496.ts
-#EXTINF:-1 group_title="Canada",BET
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44056.ts
+http://185.23.213.162:8789/ania/ania/40559
 #EXTINF:-1 group_title="Canada",BNN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36495.ts
-#EXTINF:-1 group_title="Canada",BNN BLOOMBERG
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44057.ts
+http://185.23.213.162:8789/ania/ania/40561
 #EXTINF:-1 group_title="Canada",BNN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48157.ts
+http://185.23.213.162:8789/ania/ania/40562
 #EXTINF:-1 group_title="Canada",BOOK TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36493.ts
-#EXTINF:-1 group_title="Canada",BOOK TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44058.ts
-#EXTINF:-1 group_title="Canada",BOOMERANG HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44059.ts
-#EXTINF:-1 group_title="Canada",BRAVO HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44060.ts
-#EXTINF:-1 group_title="Canada",C-PAC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44061.ts
-#EXTINF:-1 group_title="Canada",C-PAC (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44062.ts
-#EXTINF:-1 group_title="Canada",CablePulse 24
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44063.ts
-#EXTINF:-1 group_title="Canada",CANAL D (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44064.ts
+http://185.23.213.162:8789/ania/ania/40563
 #EXTINF:-1 group_title="Canada",CANAL D HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44065.ts
-#EXTINF:-1 group_title="Canada",CANAL D HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36491.ts
-#EXTINF:-1 group_title="Canada",Canal Savoir
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44066.ts
-#EXTINF:-1 group_title="Canada",CANAL SAVOIR
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36490.ts
+http://185.23.213.162:8789/ania/ania/40565
 #EXTINF:-1 group_title="Canada",CANAL VIE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36489.ts
-#EXTINF:-1 group_title="Canada",CANAL VIE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44067.ts
+http://185.23.213.162:8789/ania/ania/40567
 #EXTINF:-1 group_title="Canada",CARTOON NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36487.ts
-#EXTINF:-1 group_title="Canada",CARTOON NETWORK HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44068.ts
+http://185.23.213.162:8789/ania/ania/40569
 #EXTINF:-1 group_title="Canada",CASA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36486.ts
-#EXTINF:-1 group_title="Canada",CASA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44069.ts
-#EXTINF:-1 group_title="Canada",CASA (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44070.ts
-#EXTINF:-1 group_title="Canada",CBC CALGARY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36485.ts
-#EXTINF:-1 group_title="Canada",CBC CALGARY HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44071.ts
-#EXTINF:-1 group_title="Canada",CBC CHARLOTTETOWN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44072.ts
-#EXTINF:-1 group_title="Canada",CBC EDMONTON
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44073.ts
-#EXTINF:-1 group_title="Canada",CBC FREDERICTON
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44074.ts
-#EXTINF:-1 group_title="Canada",CBC HALIFAX HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44075.ts
-#EXTINF:-1 group_title="Canada",CBC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44076.ts
-#EXTINF:-1 group_title="Canada",CBC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48156.ts
-#EXTINF:-1 group_title="Canada",CBC MONTREAL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36484.ts
-#EXTINF:-1 group_title="Canada",CBC MONTREAL (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44077.ts
-#EXTINF:-1 group_title="Canada",CBC Montreal -FR
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48155.ts
+http://185.23.213.162:8789/ania/ania/40570
 #EXTINF:-1 group_title="Canada",CBC Montreal HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44078.ts
-#EXTINF:-1 group_title="Canada",CBC Montreal HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36483.ts
-#EXTINF:-1 group_title="Canada",CBC MONTREAL QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48209.ts
+http://185.23.213.162:8789/ania/ania/40573
 #EXTINF:-1 group_title="Canada",CBC NEWS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36482.ts
+http://185.23.213.162:8789/ania/ania/40574
 #EXTINF:-1 group_title="Canada",CBC NEWS HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36481.ts
-#EXTINF:-1 group_title="Canada",CBC NEWS HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44079.ts
-#EXTINF:-1 group_title="Canada",CBC News Network
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44080.ts
-#EXTINF:-1 group_title="Canada",CBC NEWS TORONTO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44081.ts
+http://185.23.213.162:8789/ania/ania/40575
 #EXTINF:-1 group_title="Canada",CBC NOVA SCOTIA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36480.ts
-#EXTINF:-1 group_title="Canada",CBC Ottawa
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44082.ts
+http://185.23.213.162:8789/ania/ania/40576
 #EXTINF:-1 group_title="Canada",CBC OTTAWA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36479.ts
-#EXTINF:-1 group_title="Canada",CBC REGINA HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44083.ts
-#EXTINF:-1 group_title="Canada",CBC St Johns (CBNT)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44084.ts
+http://185.23.213.162:8789/ania/ania/40577
 #EXTINF:-1 group_title="Canada",CBC TORONTO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36478.ts
-#EXTINF:-1 group_title="Canada",CBC Toronto (CBLT)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44085.ts
-#EXTINF:-1 group_title="Canada",CBC Toronto HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36477.ts
-#EXTINF:-1 group_title="Canada",CBC Toronto HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44086.ts
-#EXTINF:-1 group_title="Canada",CBC Toronto HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48154.ts
+http://185.23.213.162:8789/ania/ania/40578
 #EXTINF:-1 group_title="Canada",CBC VANCOUVER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36476.ts
-#EXTINF:-1 group_title="Canada",CBC Vancouver
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44087.ts
-#EXTINF:-1 group_title="Canada",CBC Vancouver HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48153.ts
-#EXTINF:-1 group_title="Canada",CBC WINDSOR HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44088.ts
-#EXTINF:-1 group_title="Canada",CBC WINNIPEG HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44089.ts
-#EXTINF:-1 group_title="Canada",CBC YELLOWKNIFE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44090.ts
-#EXTINF:-1 group_title="Canada",CBC3
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44091.ts
-#EXTINF:-1 group_title="Canada",CBCLGARY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44092.ts
-#EXTINF:-1 group_title="Canada",CBS BOSTON MA WBZ
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44093.ts
+http://185.23.213.162:8789/ania/ania/40580
 #EXTINF:-1 group_title="Canada",CBS EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36475.ts
-#EXTINF:-1 group_title="Canada",CBS HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44094.ts
-#EXTINF:-1 group_title="Canada",CBS SEATTLE WA KIRO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44095.ts
+http://185.23.213.162:8789/ania/ania/40581
 #EXTINF:-1 group_title="Canada",CBS WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36474.ts
-#EXTINF:-1 group_title="Canada",CHCH
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48208.ts
-#EXTINF:-1 group_title="Canada",CHCH
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36473.ts
-#EXTINF:-1 group_title="Canada",CHCH HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36472.ts
-#EXTINF:-1 group_title="Canada",CHCH HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44096.ts
-#EXTINF:-1 group_title="Canada",CHCH HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48152.ts
-#EXTINF:-1 group_title="Canada",CINE POP
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44097.ts
-#EXTINF:-1 group_title="Canada",CINE POP (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44098.ts
-#EXTINF:-1 group_title="Canada",CINEMAX (WEST) HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44099.ts
-#EXTINF:-1 group_title="Canada",CINEPOP
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36471.ts
-#EXTINF:-1 group_title="Canada",CITY CALGARY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36470.ts
-#EXTINF:-1 group_title="Canada",City HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44100.ts
+http://185.23.213.162:8789/ania/ania/40582
 #EXTINF:-1 group_title="Canada",CITY MONTREAL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36469.ts
-#EXTINF:-1 group_title="Canada",CITY SASKATCHEWAN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36468.ts
+http://185.23.213.162:8789/ania/ania/40587
 #EXTINF:-1 group_title="Canada",CITY TORONTO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36467.ts
-#EXTINF:-1 group_title="Canada",CITY TORONTO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44101.ts
+http://185.23.213.162:8789/ania/ania/40589
 #EXTINF:-1 group_title="Canada",City Toronto HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36466.ts
-#EXTINF:-1 group_title="Canada",CITY TV CALGARY HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44102.ts
-#EXTINF:-1 group_title="Canada",CITY TV VANCOUVER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44103.ts
+http://185.23.213.162:8789/ania/ania/40590
 #EXTINF:-1 group_title="Canada",CITY VANCOUVER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36465.ts
-#EXTINF:-1 group_title="Canada",City Vancouver FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48151.ts
+http://185.23.213.162:8789/ania/ania/40591
 #EXTINF:-1 group_title="Canada",City Vancouver HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36464.ts
+http://185.23.213.162:8789/ania/ania/40592
 #EXTINF:-1 group_title="Canada",CITY WINNIPEG
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36463.ts
-#EXTINF:-1 group_title="Canada",CITYLGARY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44104.ts
-#EXTINF:-1 group_title="Canada",Citytv Toronto
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44105.ts
+http://185.23.213.162:8789/ania/ania/40593
 #EXTINF:-1 group_title="Canada",CMT CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36462.ts
-#EXTINF:-1 group_title="Canada",CMT HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44106.ts
-#EXTINF:-1 group_title="Canada",CNBC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44107.ts
+http://185.23.213.162:8789/ania/ania/40594
 #EXTINF:-1 group_title="Canada",CNBC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36461.ts
-#EXTINF:-1 group_title="Canada",CNBC WORLD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44108.ts
+http://185.23.213.162:8789/ania/ania/40595
 #EXTINF:-1 group_title="Canada",CNN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36460.ts
+http://185.23.213.162:8789/ania/ania/40596
 #EXTINF:-1 group_title="Canada",CNN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44109.ts
-#EXTINF:-1 group_title="Canada",CNN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36459.ts
-#EXTINF:-1 group_title="Canada",CNN INTERNATIONAL HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44110.ts
+http://185.23.213.162:8789/ania/ania/40597
 #EXTINF:-1 group_title="Canada",COMEDY EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36458.ts
+http://185.23.213.162:8789/ania/ania/40598
 #EXTINF:-1 group_title="Canada",COMEDY GOLD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36457.ts
+http://185.23.213.162:8789/ania/ania/40599
 #EXTINF:-1 group_title="Canada",COMEDY HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36456.ts
-#EXTINF:-1 group_title="Canada",COMEDY HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44111.ts
+http://185.23.213.162:8789/ania/ania/40600
 #EXTINF:-1 group_title="Canada",COMEDY WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36455.ts
+http://185.23.213.162:8789/ania/ania/40601
 #EXTINF:-1 group_title="Canada",COOKING CHANNEL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36454.ts
-#EXTINF:-1 group_title="Canada",COOKING Channel HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44112.ts
+http://185.23.213.162:8789/ania/ania/40602
 #EXTINF:-1 group_title="Canada",COSMO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36453.ts
+http://185.23.213.162:8789/ania/ania/40603
 #EXTINF:-1 group_title="Canada",COTTAGE LIFE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36452.ts
-#EXTINF:-1 group_title="Canada",Cottage Life FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44113.ts
-#EXTINF:-1 group_title="Canada",Cottage Life HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36451.ts
-#EXTINF:-1 group_title="Canada",CP 24 FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44114.ts
-#EXTINF:-1 group_title="Canada",CP 24 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36450.ts
-#EXTINF:-1 group_title="Canada",CP24
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48206.ts
+http://185.23.213.162:8789/ania/ania/40604
 #EXTINF:-1 group_title="Canada",CP24 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48149.ts
-#EXTINF:-1 group_title="Canada",CP24 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36449.ts
-#EXTINF:-1 group_title="Canada",CP24.
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48205.ts
-#EXTINF:-1 group_title="Canada",CP24. HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36448.ts
+http://185.23.213.162:8789/ania/ania/40607
 #EXTINF:-1 group_title="Canada",CPAC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36447.ts
-#EXTINF:-1 group_title="Canada",CPAC EN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44115.ts
+http://185.23.213.162:8789/ania/ania/40609
 #EXTINF:-1 group_title="Canada",CPAC FRENCH
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36446.ts
-#EXTINF:-1 group_title="Canada",CPAC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48148.ts
-#EXTINF:-1 group_title="Canada",CPAC QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48204.ts
-#EXTINF:-1 group_title="Canada",CRAVE 1 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44116.ts
-#EXTINF:-1 group_title="Canada",CRAVE 2 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44117.ts
-#EXTINF:-1 group_title="Canada",CRAVE 3 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44118.ts
-#EXTINF:-1 group_title="Canada",CRAVE 4 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44119.ts
+http://185.23.213.162:8789/ania/ania/40610
 #EXTINF:-1 group_title="Canada",CREATE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36445.ts
-#EXTINF:-1 group_title="Canada",CRIME  INVEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36444.ts
-#EXTINF:-1 group_title="Canada",Crime+ Investigation HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44120.ts
-#EXTINF:-1 group_title="Canada",CTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44121.ts
-#EXTINF:-1 group_title="Canada",CTV 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44122.ts
+http://185.23.213.162:8789/ania/ania/40611
+#EXTINF:-1 group_title="Canada",CRIME INVEST
+http://185.23.213.162:8789/ania/ania/40612
 #EXTINF:-1 group_title="Canada",CTV 2 VANCOUVER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36443.ts
-#EXTINF:-1 group_title="Canada",CTV 2 VANCOUVER HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44123.ts
-#EXTINF:-1 group_title="Canada",CTV BARRIE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44124.ts
-#EXTINF:-1 group_title="Canada",CTV BARRIE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36442.ts
+http://185.23.213.162:8789/ania/ania/40613
 #EXTINF:-1 group_title="Canada",CTV CALGARY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36441.ts
-#EXTINF:-1 group_title="Canada",CTV COMEDY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48207.ts
-#EXTINF:-1 group_title="Canada",CTV COMEDY East
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44125.ts
-#EXTINF:-1 group_title="Canada",CTV COMEDY HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44126.ts
-#EXTINF:-1 group_title="Canada",CTV Comedy HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48150.ts
-#EXTINF:-1 group_title="Canada",CTV DRAMA Channel
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44127.ts
+http://185.23.213.162:8789/ania/ania/40615
 #EXTINF:-1 group_title="Canada",CTV EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36440.ts
+http://185.23.213.162:8789/ania/ania/40616
 #EXTINF:-1 group_title="Canada",CTV HALIFAX
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36439.ts
-#EXTINF:-1 group_title="Canada",CTV HALIFAX
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44128.ts
+http://185.23.213.162:8789/ania/ania/40617
 #EXTINF:-1 group_title="Canada",CTV HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36438.ts
-#EXTINF:-1 group_title="Canada",CTV KITCHENER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44129.ts
+http://185.23.213.162:8789/ania/ania/40618
 #EXTINF:-1 group_title="Canada",CTV MONTREAL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36437.ts
-#EXTINF:-1 group_title="Canada",CTV MONTREAL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44130.ts
-#EXTINF:-1 group_title="Canada",CTV MONTREAL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48203.ts
+http://185.23.213.162:8789/ania/ania/40619
 #EXTINF:-1 group_title="Canada",CTV Montreal HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36436.ts
-#EXTINF:-1 group_title="Canada",CTV News Channel
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44131.ts
+http://185.23.213.162:8789/ania/ania/40620
 #EXTINF:-1 group_title="Canada",CTV NEWS HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36435.ts
-#EXTINF:-1 group_title="Canada",CTV News Live Events 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44132.ts
-#EXTINF:-1 group_title="Canada",CTV News Live Events 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44133.ts
-#EXTINF:-1 group_title="Canada",CTV News Live Events 3 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48147.ts
-#EXTINF:-1 group_title="Canada",CTV News Live Events 3 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44134.ts
-#EXTINF:-1 group_title="Canada",CTV News Live Events 4
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44135.ts
+http://185.23.213.162:8789/ania/ania/40621
 #EXTINF:-1 group_title="Canada",CTV NEWS NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36434.ts
-#EXTINF:-1 group_title="Canada",CTV NEWS NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44136.ts
-#EXTINF:-1 group_title="Canada",CTV NEWS VANCOUVER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44137.ts
+http://185.23.213.162:8789/ania/ania/40622
 #EXTINF:-1 group_title="Canada",CTV OTTAWA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44138.ts
-#EXTINF:-1 group_title="Canada",CTV OTTAWA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36433.ts
-#EXTINF:-1 group_title="Canada",CTV Sci-Fi
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44139.ts
+http://185.23.213.162:8789/ania/ania/40623
 #EXTINF:-1 group_title="Canada",CTV TORONTO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44140.ts
-#EXTINF:-1 group_title="Canada",CTV TORONTO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36432.ts
-#EXTINF:-1 group_title="Canada",CTV TORONTO (CFTO)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44141.ts
-#EXTINF:-1 group_title="Canada",CTV Two Atlantic
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44142.ts
+http://185.23.213.162:8789/ania/ania/40624
 #EXTINF:-1 group_title="Canada",CTV VANCOUVER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36431.ts
-#EXTINF:-1 group_title="Canada",CTV VANCOUVER HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44143.ts
+http://185.23.213.162:8789/ania/ania/40625
 #EXTINF:-1 group_title="Canada",CTV2 OTTAWA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36430.ts
-#EXTINF:-1 group_title="Canada",CTV2 OTTAWA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44144.ts
-#EXTINF:-1 group_title="Canada",CTVLGARY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44145.ts
-#EXTINF:-1 group_title="Canada",CW 11 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36429.ts
-#EXTINF:-1 group_title="Canada",CW HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44146.ts
-#EXTINF:-1 group_title="Canada",Dastar
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44147.ts
+http://185.23.213.162:8789/ania/ania/40626
 #EXTINF:-1 group_title="Canada",DAYSTAR TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44148.ts
-#EXTINF:-1 group_title="Canada",DAYSTAR TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36428.ts
+http://185.23.213.162:8789/ania/ania/40628
 #EXTINF:-1 group_title="Canada",DEJAVIEW
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36427.ts
-#EXTINF:-1 group_title="Canada",DEJAVIEW
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44149.ts
+http://185.23.213.162:8789/ania/ania/40629
 #EXTINF:-1 group_title="Canada",DISCOVERY CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36426.ts
-#EXTINF:-1 group_title="Canada",Discovery Channel HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44150.ts
-#EXTINF:-1 group_title="Canada",Discovery Science
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48146.ts
+http://185.23.213.162:8789/ania/ania/40630
+#EXTINF:-1 group_title="Canada", Discovery HD
+http://185.23.213.162:8789/ania/ania/40538
 #EXTINF:-1 group_title="Canada",DISCOVERY SCIENCE CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36425.ts
-#EXTINF:-1 group_title="Canada",Discovery Science HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44151.ts
-#EXTINF:-1 group_title="Canada",Discovery Velocity HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44152.ts
-#EXTINF:-1 group_title="Canada",DISNEY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48202.ts
-#EXTINF:-1 group_title="Canada",DISNEY CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36424.ts
-#EXTINF:-1 group_title="Canada",Disney Channel HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44153.ts
-#EXTINF:-1 group_title="Canada",DISNEY FRENCH
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36423.ts
-#EXTINF:-1 group_title="Canada",Disney HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48145.ts
+http://185.23.213.162:8789/ania/ania/40631
 #EXTINF:-1 group_title="Canada",DISNEY JR
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48201.ts
-#EXTINF:-1 group_title="Canada",DISNEY JR
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36422.ts
+http://185.23.213.162:8789/ania/ania/40634
 #EXTINF:-1 group_title="Canada",DISNEY JR HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36421.ts
-#EXTINF:-1 group_title="Canada",Disney JR HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44154.ts
-#EXTINF:-1 group_title="Canada",Disney JR HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48144.ts
-#EXTINF:-1 group_title="Canada",Disney Junior (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44155.ts
-#EXTINF:-1 group_title="Canada",Disney XD HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44156.ts
-#EXTINF:-1 group_title="Canada",DIY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44157.ts
+http://185.23.213.162:8789/ania/ania/40635
 #EXTINF:-1 group_title="Canada",DIY NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36420.ts
-#EXTINF:-1 group_title="Canada",DIY NETWORK FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44158.ts
+http://185.23.213.162:8789/ania/ania/40636
 #EXTINF:-1 group_title="Canada",DIY NETWORK HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36419.ts
+http://185.23.213.162:8789/ania/ania/40637
 #EXTINF:-1 group_title="Canada",DOCUMENTARY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36418.ts
-#EXTINF:-1 group_title="Canada",DOCUMENTARY Channel
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44159.ts
+http://185.23.213.162:8789/ania/ania/40638
 #EXTINF:-1 group_title="Canada",DTOUR
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44160.ts
-#EXTINF:-1 group_title="Canada",DTOUR
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36417.ts
-#EXTINF:-1 group_title="Canada",E!
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48200.ts
+http://185.23.213.162:8789/ania/ania/40639
 #EXTINF:-1 group_title="Canada",E! CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36416.ts
-#EXTINF:-1 group_title="Canada",E! Entertainment HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48143.ts
-#EXTINF:-1 group_title="Canada",E! HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44161.ts
-#EXTINF:-1 group_title="Canada",ENCORE 1 EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36415.ts
-#EXTINF:-1 group_title="Canada",ENCORE 2 EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36414.ts
+http://185.23.213.162:8789/ania/ania/40640
 #EXTINF:-1 group_title="Canada",EVASION
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36413.ts
-#EXTINF:-1 group_title="Canada",EVASION
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44162.ts
-#EXTINF:-1 group_title="Canada",EVASION (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44163.ts
-#EXTINF:-1 group_title="Canada",EW ABC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44164.ts
-#EXTINF:-1 group_title="Canada",EW CBCCalgary
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44165.ts
-#EXTINF:-1 group_title="Canada",EW CBCVANCOUVER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44166.ts
-#EXTINF:-1 group_title="Canada",EW CBS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44167.ts
-#EXTINF:-1 group_title="Canada",ew citytor
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44168.ts
-#EXTINF:-1 group_title="Canada",EW CPAC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44169.ts
-#EXTINF:-1 group_title="Canada",ew cw
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44170.ts
-#EXTINF:-1 group_title="Canada",ew Disneyca
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44171.ts
-#EXTINF:-1 group_title="Canada",EW FOODNETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44172.ts
-#EXTINF:-1 group_title="Canada",ew fxxca
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44173.ts
-#EXTINF:-1 group_title="Canada",ew hln
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44174.ts
-#EXTINF:-1 group_title="Canada",EW SLICE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44175.ts
-#EXTINF:-1 group_title="Canada",FAMILY (East)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44176.ts
-#EXTINF:-1 group_title="Canada",FAMILY Channel
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44177.ts
-#EXTINF:-1 group_title="Canada",FAMILY CHRGD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44178.ts
-#EXTINF:-1 group_title="Canada",FAMILY CHRGD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36412.ts
-#EXTINF:-1 group_title="Canada",FAMILY EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36411.ts
+http://185.23.213.162:8789/ania/ania/40643
+#EXTINF:-1 group_title="Canada", FAMILY HD
+http://185.23.213.162:8789/ania/ania/40539
 #EXTINF:-1 group_title="Canada",FAMILY JR
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36410.ts
-#EXTINF:-1 group_title="Canada",FAMILY JR
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44179.ts
+http://185.23.213.162:8789/ania/ania/40646
 #EXTINF:-1 group_title="Canada",FAMILY WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36409.ts
+http://185.23.213.162:8789/ania/ania/40647
 #EXTINF:-1 group_title="Canada",FIGHT NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36408.ts
-#EXTINF:-1 group_title="Canada",Fight Network HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44180.ts
-#EXTINF:-1 group_title="Canada",Fight Network HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48142.ts
+http://185.23.213.162:8789/ania/ania/40648
 #EXTINF:-1 group_title="Canada",FOOD NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36407.ts
+http://185.23.213.162:8789/ania/ania/40649
 #EXTINF:-1 group_title="Canada",Food Network HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36406.ts
-#EXTINF:-1 group_title="Canada",Food Network HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44181.ts
-#EXTINF:-1 group_title="Canada",Fox 25
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44182.ts
-#EXTINF:-1 group_title="Canada",FOX BUFFALO NY WUTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44183.ts
-#EXTINF:-1 group_title="Canada",FOX EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36405.ts
-#EXTINF:-1 group_title="Canada",Fox HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44184.ts
+http://185.23.213.162:8789/ania/ania/40650
 #EXTINF:-1 group_title="Canada",FOX HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36404.ts
-#EXTINF:-1 group_title="Canada",FOX New HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44185.ts
+http://185.23.213.162:8789/ania/ania/40652
 #EXTINF:-1 group_title="Canada",FOX NEWS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36403.ts
-#EXTINF:-1 group_title="Canada",FOX SPORTS Racing
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44186.ts
-#EXTINF:-1 group_title="Canada",FOX WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36402.ts
+http://185.23.213.162:8789/ania/ania/40653
 #EXTINF:-1 group_title="Canada",FRISSON
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36401.ts
+http://185.23.213.162:8789/ania/ania/40655
 #EXTINF:-1 group_title="Canada",FTV CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36400.ts
-#EXTINF:-1 group_title="Canada",FX FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48141.ts
-#EXTINF:-1 group_title="Canada",FX HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44187.ts
-#EXTINF:-1 group_title="Canada",FX HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48199.ts
-#EXTINF:-1 group_title="Canada",FXX
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48140.ts
+http://185.23.213.162:8789/ania/ania/40656
 #EXTINF:-1 group_title="Canada",FXX HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44188.ts
-#EXTINF:-1 group_title="Canada",FXX HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36399.ts
-#EXTINF:-1 group_title="Canada",FYI
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44189.ts
-#EXTINF:-1 group_title="Canada",FYI
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36398.ts
-#EXTINF:-1 group_title="Canada",Game Show HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44190.ts
-#EXTINF:-1 group_title="Canada",GAME SHOW NETWORK HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44191.ts
+http://185.23.213.162:8789/ania/ania/40657
 #EXTINF:-1 group_title="Canada",Game TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44192.ts
-#EXTINF:-1 group_title="Canada",Game TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36397.ts
-#EXTINF:-1 group_title="Canada",Game+
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44193.ts
+http://185.23.213.162:8789/ania/ania/40659
 #EXTINF:-1 group_title="Canada",GINX ESPORTS TV CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36396.ts
-#EXTINF:-1 group_title="Canada",GINX ESPORTSTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44194.ts
-#EXTINF:-1 group_title="Canada",GLOBAL BC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44195.ts
+http://185.23.213.162:8789/ania/ania/40660
 #EXTINF:-1 group_title="Canada",GLOBAL CALGARY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36395.ts
-#EXTINF:-1 group_title="Canada",GLOBAL EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36394.ts
-#EXTINF:-1 group_title="Canada",GLOBAL GALAGARY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36390.ts
+http://185.23.213.162:8789/ania/ania/40661
 #EXTINF:-1 group_title="Canada",GLOBAL HALIFAX
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36393.ts
-#EXTINF:-1 group_title="Canada",GLOBAL HALIFAX HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44196.ts
+http://185.23.213.162:8789/ania/ania/40663
 #EXTINF:-1 group_title="Canada",GLOBAL HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36392.ts
-#EXTINF:-1 group_title="Canada",GLOBAL HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44197.ts
-#EXTINF:-1 group_title="Canada",Global National
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44198.ts
+http://185.23.213.162:8789/ania/ania/40664
 #EXTINF:-1 group_title="Canada",GLOBAL TORONTO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36391.ts
-#EXTINF:-1 group_title="Canada",Global Toronto (CIII)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44199.ts
-#EXTINF:-1 group_title="Canada",GLOBAL TORONTO HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44200.ts
+http://185.23.213.162:8789/ania/ania/40665
 #EXTINF:-1 group_title="Canada",GLOBAL VANCOUVER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44201.ts
-#EXTINF:-1 group_title="Canada",Golf Channel
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44202.ts
+http://185.23.213.162:8789/ania/ania/40666
 #EXTINF:-1 group_title="Canada",GSN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44203.ts
-#EXTINF:-1 group_title="Canada",GSN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36389.ts
+http://185.23.213.162:8789/ania/ania/40667
 #EXTINF:-1 group_title="Canada",GUSTO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36388.ts
-#EXTINF:-1 group_title="Canada",GUSTO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44204.ts
-#EXTINF:-1 group_title="Canada",H2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44205.ts
+http://185.23.213.162:8789/ania/ania/40668
 #EXTINF:-1 group_title="Canada",H2 CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36387.ts
+http://185.23.213.162:8789/ania/ania/40669
 #EXTINF:-1 group_title="Canada",HBO 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48198.ts
-#EXTINF:-1 group_title="Canada",HBO 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44206.ts
-#EXTINF:-1 group_title="Canada",HBO 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36386.ts
-#EXTINF:-1 group_title="Canada",HBO 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48197.ts
-#EXTINF:-1 group_title="Canada",HBO 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36385.ts
-#EXTINF:-1 group_title="Canada",HBO 2 Canada
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44207.ts
-#EXTINF:-1 group_title="Canada",HBO 2 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44208.ts
-#EXTINF:-1 group_title="Canada",HBO 2 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48139.ts
-#EXTINF:-1 group_title="Canada",HBO EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36384.ts
-#EXTINF:-1 group_title="Canada",HBO HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44209.ts
-#EXTINF:-1 group_title="Canada",Headline News
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44210.ts
+http://185.23.213.162:8789/ania/ania/40670
 #EXTINF:-1 group_title="Canada",HGTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36383.ts
-#EXTINF:-1 group_title="Canada",HGTV HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44211.ts
+http://185.23.213.162:8789/ania/ania/40673
 #EXTINF:-1 group_title="Canada",HISTORIA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36382.ts
-#EXTINF:-1 group_title="Canada",Historia (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44212.ts
-#EXTINF:-1 group_title="Canada",HISTORIA QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48196.ts
-#EXTINF:-1 group_title="Canada",HISTORIO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44213.ts
-#EXTINF:-1 group_title="Canada",HISTORIO (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44214.ts
-#EXTINF:-1 group_title="Canada",History 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44215.ts
-#EXTINF:-1 group_title="Canada",History Channel HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44216.ts
+http://185.23.213.162:8789/ania/ania/40674
 #EXTINF:-1 group_title="Canada",HISTORY HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36381.ts
+http://185.23.213.162:8789/ania/ania/40675
 #EXTINF:-1 group_title="Canada",HLN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36380.ts
-#EXTINF:-1 group_title="Canada",HLN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44217.ts
-#EXTINF:-1 group_title="Canada",HOPE TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36379.ts
-#EXTINF:-1 group_title="Canada",ICI ARTV (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44218.ts
+http://185.23.213.162:8789/ania/ania/40676
 #EXTINF:-1 group_title="Canada",ICI MONTREAL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44219.ts
-#EXTINF:-1 group_title="Canada",ICI MONTREAL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36378.ts
-#EXTINF:-1 group_title="Canada",ICI MONTREAL (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44220.ts
-#EXTINF:-1 group_title="Canada",ICI MONTREAL QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48195.ts
-#EXTINF:-1 group_title="Canada",ICI Radio-Canada Tele (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44221.ts
-#EXTINF:-1 group_title="Canada",ICI RDI
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44222.ts
-#EXTINF:-1 group_title="Canada",ICI RDI (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44223.ts
+http://185.23.213.162:8789/ania/ania/40678
 #EXTINF:-1 group_title="Canada",ICI VANCOUVER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44224.ts
-#EXTINF:-1 group_title="Canada",ICI VANCOUVER
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/36377.ts
-#EXTINF:-1 group_title="Canada",ICI VANCOUVER (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44225.ts
-#EXTINF:-1 group_title="Canada",ICI VANCOUVER FR (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44226.ts
-#EXTINF:-1 group_title="Canada",ICI VANCOUVER QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48194.ts
-#EXTINF:-1 group_title="Canada",ID
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44227.ts
-#EXTINF:-1 group_title="Canada",ID CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50317.ts
+http://185.23.213.162:8789/ania/ania/40679
 #EXTINF:-1 group_title="Canada",ID HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50316.ts
+http://185.23.213.162:8789/ania/ania/40680
 #EXTINF:-1 group_title="Canada",IFC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50315.ts
-#EXTINF:-1 group_title="Canada",Investigation Discovery HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44228.ts
+http://185.23.213.162:8789/ania/ania/40681
 #EXTINF:-1 group_title="Canada",JOY
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50314.ts
+http://185.23.213.162:8789/ania/ania/40682
 #EXTINF:-1 group_title="Canada",KNOWLEDGE KIDS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44229.ts
-#EXTINF:-1 group_title="Canada",KNOWLEDGE KIDS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50313.ts
+http://185.23.213.162:8789/ania/ania/40683
 #EXTINF:-1 group_title="Canada",Knowledge Network
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44230.ts
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 #EXTINF:-1 group_title="Canada",KTLA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50312.ts
-#EXTINF:-1 group_title="Canada",La chaîne Disney (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44231.ts
+http://185.23.213.162:8789/ania/ania/40684
 #EXTINF:-1 group_title="Canada",LCN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44232.ts
-#EXTINF:-1 group_title="Canada",LCN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50311.ts
-#EXTINF:-1 group_title="Canada",LCN (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44233.ts
-#EXTINF:-1 group_title="Canada",LCN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50310.ts
-#EXTINF:-1 group_title="Canada",LCN QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48193.ts
-#EXTINF:-1 group_title="Canada",LIFETIME
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48192.ts
-#EXTINF:-1 group_title="Canada",LIFETIME
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50309.ts
-#EXTINF:-1 group_title="Canada",Lifetime FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48138.ts
-#EXTINF:-1 group_title="Canada",LIFETIME HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44234.ts
-#EXTINF:-1 group_title="Canada",LIFETIME MOVIE NETWORK HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44235.ts
-#EXTINF:-1 group_title="Canada",LOVE NATURE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44236.ts
+http://185.23.213.162:8789/ania/ania/40685
 #EXTINF:-1 group_title="Canada",MAKEFUL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50308.ts
-#EXTINF:-1 group_title="Canada",Makeful
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44237.ts
-#EXTINF:-1 group_title="Canada",MAVTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44238.ts
+http://185.23.213.162:8789/ania/ania/40688
 #EXTINF:-1 group_title="Canada",MAVTV CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50307.ts
+http://185.23.213.162:8789/ania/ania/40689
 #EXTINF:-1 group_title="Canada",MAX
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50306.ts
-#EXTINF:-1 group_title="Canada",MAX
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44239.ts
-#EXTINF:-1 group_title="Canada",MAX (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44240.ts
-#EXTINF:-1 group_title="Canada",MAX (French) (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44241.ts
-#EXTINF:-1 group_title="Canada",MEDIASET ITALIA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44242.ts
+http://185.23.213.162:8789/ania/ania/40690
 #EXTINF:-1 group_title="Canada",MEDIASET ITALIA CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50305.ts
-#EXTINF:-1 group_title="Canada",METEO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44243.ts
-#EXTINF:-1 group_title="Canada",METEO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50304.ts
-#EXTINF:-1 group_title="Canada",METEO (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44244.ts
-#EXTINF:-1 group_title="Canada",METEO QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48191.ts
-#EXTINF:-1 group_title="Canada",Metro Media
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44245.ts
-#EXTINF:-1 group_title="Canada",Metro Media (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44246.ts
+http://185.23.213.162:8789/ania/ania/40691
 #EXTINF:-1 group_title="Canada",MIRACLE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50303.ts
-#EXTINF:-1 group_title="Canada",MIRACLE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44247.ts
-#EXTINF:-1 group_title="Canada",MLB Network
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44248.ts
+http://185.23.213.162:8789/ania/ania/40693
 #EXTINF:-1 group_title="Canada",MLB NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50302.ts
-#EXTINF:-1 group_title="Canada",MOI CIE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50301.ts
-#EXTINF:-1 group_title="Canada",MOI CIE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44249.ts
-#EXTINF:-1 group_title="Canada",MOI et CIE (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44250.ts
-#EXTINF:-1 group_title="Canada",MONTREAL 3 / TVA WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50300.ts
-#EXTINF:-1 group_title="Canada",MOVIE CENTRAL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48190.ts
-#EXTINF:-1 group_title="Canada",MOVIE TIME 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48189.ts
-#EXTINF:-1 group_title="Canada",MOVIETIME HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44251.ts
+http://185.23.213.162:8789/ania/ania/40694
+#EXTINF:-1 group_title="Canada",MOICIE
+http://185.23.213.162:8789/ania/ania/40695
+#EXTINF:-1 group_title="Canada",MONTREAL3 / TVA WEST
+http://185.23.213.162:8789/ania/ania/40696
 #EXTINF:-1 group_title="Canada",MSNBC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50299.ts
+http://185.23.213.162:8789/ania/ania/40697
 #EXTINF:-1 group_title="Canada",MSNBC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50298.ts
-#EXTINF:-1 group_title="Canada",MSNBC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44252.ts
-#EXTINF:-1 group_title="Canada",MTIME
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50297.ts
-#EXTINF:-1 group_title="Canada",MTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50296.ts
-#EXTINF:-1 group_title="Canada",MTV 2 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44253.ts
-#EXTINF:-1 group_title="Canada",MTV BASE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44254.ts
-#EXTINF:-1 group_title="Canada",MTV DANCE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44255.ts
-#EXTINF:-1 group_title="Canada",MTV HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44256.ts
-#EXTINF:-1 group_title="Canada",MTV HITS HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44257.ts
-#EXTINF:-1 group_title="Canada",MTV LIVE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44258.ts
-#EXTINF:-1 group_title="Canada",MTV ROCKS HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44259.ts
-#EXTINF:-1 group_title="Canada",MTV2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50295.ts
+http://185.23.213.162:8789/ania/ania/40698
 #EXTINF:-1 group_title="Canada",MUCH
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50294.ts
-#EXTINF:-1 group_title="Canada",MUCH
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44260.ts
-#EXTINF:-1 group_title="Canada",MUCH MUSIC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50293.ts
-#EXTINF:-1 group_title="Canada",MUCH MUSIC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44261.ts
-#EXTINF:-1 group_title="Canada",MUSIC PLUS (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44262.ts
+http://185.23.213.162:8789/ania/ania/40702
 #EXTINF:-1 group_title="Canada",MUSIQUE PLUS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50292.ts
-#EXTINF:-1 group_title="Canada",MUSIQUE PLUS (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44263.ts
-#EXTINF:-1 group_title="Canada",NAL D QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48212.ts
-#EXTINF:-1 group_title="Canada",NAL VIE QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48211.ts
+http://185.23.213.162:8789/ania/ania/40704
 #EXTINF:-1 group_title="Canada",NAT GEO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50291.ts
-#EXTINF:-1 group_title="Canada",NAT GEO HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44264.ts
-#EXTINF:-1 group_title="Canada",NAT GEO WILD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48188.ts
+http://185.23.213.162:8789/ania/ania/40705
 #EXTINF:-1 group_title="Canada",NAT GEO WILD HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44265.ts
-#EXTINF:-1 group_title="Canada",NAT GEO WILD HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50290.ts
-#EXTINF:-1 group_title="Canada",NATIONAL GEOGRAPHIC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48187.ts
+http://185.23.213.162:8789/ania/ania/40706
 #EXTINF:-1 group_title="Canada",NBA TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50289.ts
-#EXTINF:-1 group_title="Canada",NBA TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44266.ts
-#EXTINF:-1 group_title="Canada",NBC BUFFALO NY WGRZ
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44267.ts
-#EXTINF:-1 group_title="Canada",NBC EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50288.ts
-#EXTINF:-1 group_title="Canada",NBC SEATTLE WA KING
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44268.ts
+http://185.23.213.162:8789/ania/ania/40707
 #EXTINF:-1 group_title="Canada",NBC WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50287.ts
-#EXTINF:-1 group_title="Canada",NFL Network
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44269.ts
+http://185.23.213.162:8789/ania/ania/40709
 #EXTINF:-1 group_title="Canada",NFL NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50286.ts
-#EXTINF:-1 group_title="Canada",NICK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50285.ts
-#EXTINF:-1 group_title="Canada",nickelodeon
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44270.ts
-#EXTINF:-1 group_title="Canada",NICKTOONS HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44271.ts
+http://185.23.213.162:8789/ania/ania/40710
 #EXTINF:-1 group_title="Canada",NTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50284.ts
-#EXTINF:-1 group_title="Canada",NTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44272.ts
-#EXTINF:-1 group_title="Canada",NTV News HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48137.ts
+http://185.23.213.162:8789/ania/ania/40712
 #EXTINF:-1 group_title="Canada",OLN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48186.ts
-#EXTINF:-1 group_title="Canada",OLN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50283.ts
-#EXTINF:-1 group_title="Canada",OLN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44273.ts
-#EXTINF:-1 group_title="Canada",OLN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50282.ts
+http://185.23.213.162:8789/ania/ania/40713
 #EXTINF:-1 group_title="Canada",Omni 1 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50281.ts
-#EXTINF:-1 group_title="Canada",OMNI 1 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44274.ts
+http://185.23.213.162:8789/ania/ania/40715
 #EXTINF:-1 group_title="Canada",OMNI 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50280.ts
-#EXTINF:-1 group_title="Canada",OMNI 2 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48185.ts
-#EXTINF:-1 group_title="Canada",OMNI 2 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44275.ts
+http://185.23.213.162:8789/ania/ania/40716
 #EXTINF:-1 group_title="Canada",OMNI BC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50279.ts
+http://185.23.213.162:8789/ania/ania/40717
 #EXTINF:-1 group_title="Canada",OMNI EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50278.ts
+http://185.23.213.162:8789/ania/ania/40718
 #EXTINF:-1 group_title="Canada",ONE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50277.ts
-#EXTINF:-1 group_title="Canada",ONE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44276.ts
+http://185.23.213.162:8789/ania/ania/40719
 #EXTINF:-1 group_title="Canada",OUTTV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50276.ts
+http://185.23.213.162:8789/ania/ania/40720
 #EXTINF:-1 group_title="Canada",OWN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50275.ts
-#EXTINF:-1 group_title="Canada",OWN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44277.ts
-#EXTINF:-1 group_title="Canada",OWN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50274.ts
-#EXTINF:-1 group_title="Canada",OWN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48184.ts
-#EXTINF:-1 group_title="Canada",OWN HD (OPRAH WINFRY NETWORK)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50273.ts
-#EXTINF:-1 group_title="Canada",PARAMOUNT NETWORK HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44278.ts
-#EXTINF:-1 group_title="Canada",PBS Buffalo (WNED)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44279.ts
-#EXTINF:-1 group_title="Canada",PBS BUFFALO TORONTO WNED
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44280.ts
+http://185.23.213.162:8789/ania/ania/40721
 #EXTINF:-1 group_title="Canada",PBS EAST HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50272.ts
-#EXTINF:-1 group_title="Canada",PBS KIDS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44281.ts
+http://185.23.213.162:8789/ania/ania/40724
 #EXTINF:-1 group_title="Canada",PBS WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50271.ts
+http://185.23.213.162:8789/ania/ania/40725
 #EXTINF:-1 group_title="Canada",PEACH TREE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50270.ts
-#EXTINF:-1 group_title="Canada",PEACH TREE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44282.ts
-#EXTINF:-1 group_title="Canada",PEACHTREE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48183.ts
-#EXTINF:-1 group_title="Canada",Peachtree HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48136.ts
-#EXTINF:-1 group_title="Canada",PORTSNET WEST HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50269.ts
+http://185.23.213.162:8789/ania/ania/40726
 #EXTINF:-1 group_title="Canada",PRISE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44283.ts
-#EXTINF:-1 group_title="Canada",PRISE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50268.ts
-#EXTINF:-1 group_title="Canada",PRISE (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44284.ts
-#EXTINF:-1 group_title="Canada",PRISE 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44285.ts
-#EXTINF:-1 group_title="Canada",Prise 2 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44286.ts
-#EXTINF:-1 group_title="Canada",PRISE 2 QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48182.ts
+http://185.23.213.162:8789/ania/ania/40728
 #EXTINF:-1 group_title="Canada",RDI
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50267.ts
-#EXTINF:-1 group_title="Canada",RDI
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44287.ts
-#EXTINF:-1 group_title="Canada",RDI QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48181.ts
+http://185.23.213.162:8789/ania/ania/40729
 #EXTINF:-1 group_title="Canada",RDS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50266.ts
-#EXTINF:-1 group_title="Canada",RDS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44288.ts
-#EXTINF:-1 group_title="Canada",RDS (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44289.ts
+http://185.23.213.162:8789/ania/ania/40730
 #EXTINF:-1 group_title="Canada",RDS 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50265.ts
-#EXTINF:-1 group_title="Canada",RDS 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44290.ts
-#EXTINF:-1 group_title="Canada",RDS 2 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44291.ts
-#EXTINF:-1 group_title="Canada",RDS 2 QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48180.ts
+http://185.23.213.162:8789/ania/ania/40731
 #EXTINF:-1 group_title="Canada",RDS INFO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44292.ts
-#EXTINF:-1 group_title="Canada",RDS INFO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50264.ts
-#EXTINF:-1 group_title="Canada",RDS INFO (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44293.ts
-#EXTINF:-1 group_title="Canada",RDS Info -FR
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48135.ts
-#EXTINF:-1 group_title="Canada",RDS INFO QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48179.ts
-#EXTINF:-1 group_title="Canada",RDS QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48178.ts
-#EXTINF:-1 group_title="Canada",RDS. QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48177.ts
-#EXTINF:-1 group_title="Canada",Rogers TV (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44294.ts
-#EXTINF:-1 group_title="Canada",RT AMERICA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50263.ts
-#EXTINF:-1 group_title="Canada",SA QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48210.ts
-#EXTINF:-1 group_title="Canada",Series
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44295.ts
-#EXTINF:-1 group_title="Canada",SERIES
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50262.ts
-#EXTINF:-1 group_title="Canada",SERIES QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48176.ts
-#EXTINF:-1 group_title="Canada",Series Plus
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44296.ts
-#EXTINF:-1 group_title="Canada",Series+
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44297.ts
-#EXTINF:-1 group_title="Canada",SERIS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44298.ts
-#EXTINF:-1 group_title="Canada",SERIS (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44299.ts
-#EXTINF:-1 group_title="Canada",SHOPPING
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44300.ts
-#EXTINF:-1 group_title="Canada",SHOPPING
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50261.ts
-#EXTINF:-1 group_title="Canada",Showcase
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44301.ts
-#EXTINF:-1 group_title="Canada",SHOWCASE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50260.ts
-#EXTINF:-1 group_title="Canada",SHOWCASE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50259.ts
+http://185.23.213.162:8789/ania/ania/40732
 #EXTINF:-1 group_title="Canada",SILVER SCREEN CLASSICS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44302.ts
-#EXTINF:-1 group_title="Canada",SILVER SCREEN CLASSICS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50258.ts
+http://185.23.213.162:8789/ania/ania/40738
 #EXTINF:-1 group_title="Canada",SLICE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48175.ts
-#EXTINF:-1 group_title="Canada",SLICE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50257.ts
-#EXTINF:-1 group_title="Canada",SLICE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50256.ts
-#EXTINF:-1 group_title="Canada",Slice HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44303.ts
-#EXTINF:-1 group_title="Canada",Slice HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48134.ts
-#EXTINF:-1 group_title="Canada",SMITHSONIAN Channel HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44304.ts
-#EXTINF:-1 group_title="Canada",SMITHSONIAN HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50255.ts
+http://185.23.213.162:8789/ania/ania/40739
 #EXTINF:-1 group_title="Canada",SPACE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50254.ts
-#EXTINF:-1 group_title="Canada",SPACE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44305.ts
-#EXTINF:-1 group_title="Canada",SPACE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48174.ts
+http://185.23.213.162:8789/ania/ania/40742
 #EXTINF:-1 group_title="Canada",SPACE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50253.ts
-#EXTINF:-1 group_title="Canada",SPIKE / PARAMOUNT HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44306.ts
+http://185.23.213.162:8789/ania/ania/40743
 #EXTINF:-1 group_title="Canada",SPIKE TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50252.ts
-#EXTINF:-1 group_title="Canada",SPIKE TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44307.ts
+http://185.23.213.162:8789/ania/ania/40744
 #EXTINF:-1 group_title="Canada",SPIKE TV / PARAMOUNT CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50251.ts
-#EXTINF:-1 group_title="Canada",SPORTNET 360
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50250.ts
-#EXTINF:-1 group_title="Canada",SPORTNET ONE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50249.ts
+http://185.23.213.162:8789/ania/ania/40745
 #EXTINF:-1 group_title="Canada",SPORTNET ONTARIO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50248.ts
+http://185.23.213.162:8789/ania/ania/40748
 #EXTINF:-1 group_title="Canada",SPORTS NET EAST HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50247.ts
+http://185.23.213.162:8789/ania/ania/40749
 #EXTINF:-1 group_title="Canada",SPORTS NET ONE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50246.ts
+http://185.23.213.162:8789/ania/ania/40750
 #EXTINF:-1 group_title="Canada",SPORTS NET ONTARIO HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50245.ts
+http://185.23.213.162:8789/ania/ania/40751
 #EXTINF:-1 group_title="Canada",SPORTS NET PACIFIC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50244.ts
-#EXTINF:-1 group_title="Canada",Sports Net Pacific HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48133.ts
-#EXTINF:-1 group_title="Canada",Sports Net West HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48132.ts
+http://185.23.213.162:8789/ania/ania/40752
 #EXTINF:-1 group_title="Canada",SPORTS NET WORLD HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50243.ts
-#EXTINF:-1 group_title="Canada",SPORTSMAN CHANNEL CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50242.ts
-#EXTINF:-1 group_title="Canada",SPORTSNET 360
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50241.ts
-#EXTINF:-1 group_title="Canada",SPORTSNET 360 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50240.ts
+http://185.23.213.162:8789/ania/ania/40753
 #EXTINF:-1 group_title="Canada",SPORTSNET EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50239.ts
+http://185.23.213.162:8789/ania/ania/40757
 #EXTINF:-1 group_title="Canada",SPORTSNET EAST HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50238.ts
+http://185.23.213.162:8789/ania/ania/40758
 #EXTINF:-1 group_title="Canada",SPORTSNET ONE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50237.ts
-#EXTINF:-1 group_title="Canada",SPORTSNET ONE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50236.ts
+http://185.23.213.162:8789/ania/ania/40759
 #EXTINF:-1 group_title="Canada",SPORTSNET ONTARIO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50235.ts
+http://185.23.213.162:8789/ania/ania/40761
 #EXTINF:-1 group_title="Canada",SPORTSNET PACIFIC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50234.ts
+http://185.23.213.162:8789/ania/ania/40762
 #EXTINF:-1 group_title="Canada",SPORTSNET PACIFIC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50233.ts
-#EXTINF:-1 group_title="Canada",SPORTSNET WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50232.ts
+http://185.23.213.162:8789/ania/ania/40763
+#EXTINF:-1 group_title="Canada",SPORTSNET WEST HD
+http://185.23.213.162:8789/ania/ania/40727
 #EXTINF:-1 group_title="Canada",SPORTSNET WORLD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50231.ts
+http://185.23.213.162:8789/ania/ania/40765
 #EXTINF:-1 group_title="Canada",SPORTSNET WORLD HD.
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50230.ts
-#EXTINF:-1 group_title="Canada",STARZ
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44327.ts
-#EXTINF:-1 group_title="Canada",Starz 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44328.ts
-#EXTINF:-1 group_title="Canada",Starz 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44329.ts
-#EXTINF:-1 group_title="Canada",SUPER CHANNEL 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48173.ts
-#EXTINF:-1 group_title="Canada",SUPER CHANNEL 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50229.ts
-#EXTINF:-1 group_title="Canada",SUPER CHANNEL 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48172.ts
-#EXTINF:-1 group_title="Canada",SUPER CHANNEL 4
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48171.ts
-#EXTINF:-1 group_title="Canada",SUPER CHANNEL FUSE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50228.ts
-#EXTINF:-1 group_title="Canada",SUPER CHANNEL HEART & HOME
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50227.ts
-#EXTINF:-1 group_title="Canada",Super Channel Heart&Home
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44330.ts
-#EXTINF:-1 group_title="Canada",SUPER CHANNEL VAULT
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50226.ts
-#EXTINF:-1 group_title="Canada",SUPER ECRAN 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44331.ts
-#EXTINF:-1 group_title="Canada",SUPER ECRAN 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50225.ts
-#EXTINF:-1 group_title="Canada",SUPER ECRAN 1 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44332.ts
+http://185.23.213.162:8789/ania/ania/40766
 #EXTINF:-1 group_title="Canada",SUPER ECRAN 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44333.ts
-#EXTINF:-1 group_title="Canada",SUPER ECRAN 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50224.ts
-#EXTINF:-1 group_title="Canada",SUPER ECRAN 2 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44334.ts
-#EXTINF:-1 group_title="Canada",SUPER ECRAN 3
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50223.ts
-#EXTINF:-1 group_title="Canada",SUPER ECRAN 3
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44335.ts
-#EXTINF:-1 group_title="Canada",Super Ecran 3 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44336.ts
-#EXTINF:-1 group_title="Canada",SUPER ECRAN 4
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50222.ts
-#EXTINF:-1 group_title="Canada",SUPER ECRAN 4
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44337.ts
-#EXTINF:-1 group_title="Canada",Super Ecran 4 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44338.ts
-#EXTINF:-1 group_title="Canada",SUPER SPORTS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44339.ts
-#EXTINF:-1 group_title="Canada",SYFY HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44340.ts
-#EXTINF:-1 group_title="Canada",TCM
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44341.ts
-#EXTINF:-1 group_title="Canada",TCM
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50221.ts
-#EXTINF:-1 group_title="Canada",TCTV2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44342.ts
+http://185.23.213.162:8789/ania/ania/40772
 #EXTINF:-1 group_title="Canada",TELE LATINO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50220.ts
+http://185.23.213.162:8789/ania/ania/40776
 #EXTINF:-1 group_title="Canada",TELE QUEBEC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50219.ts
-#EXTINF:-1 group_title="Canada",TELE QUEBEC (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44343.ts
-#EXTINF:-1 group_title="Canada",TELE QUEBEC QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48170.ts
+http://185.23.213.162:8789/ania/ania/40777
 #EXTINF:-1 group_title="Canada",TELE TOON
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50218.ts
+http://185.23.213.162:8789/ania/ania/40778
 #EXTINF:-1 group_title="Canada",TELE TOON EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50217.ts
-#EXTINF:-1 group_title="Canada",TELE TOON FRENCH
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50216.ts
+http://185.23.213.162:8789/ania/ania/40779
 #EXTINF:-1 group_title="Canada",TELE TOON WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50215.ts
-#EXTINF:-1 group_title="Canada",Tele-Quebec
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44344.ts
+http://185.23.213.162:8789/ania/ania/40781
 #EXTINF:-1 group_title="Canada",TELEMAGINO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50214.ts
-#EXTINF:-1 group_title="Canada",TELEMAGINO (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44345.ts
+http://185.23.213.162:8789/ania/ania/40782
 #EXTINF:-1 group_title="Canada",TELETOON
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50213.ts
-#EXTINF:-1 group_title="Canada",Teletoon (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44346.ts
-#EXTINF:-1 group_title="Canada",TELETOON HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44347.ts
+http://185.23.213.162:8789/ania/ania/40783
 #EXTINF:-1 group_title="Canada",TFO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50212.ts
-#EXTINF:-1 group_title="Canada",TFO (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44348.ts
-#EXTINF:-1 group_title="Canada",THE SHOPPING Channel HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44349.ts
+http://185.23.213.162:8789/ania/ania/40784
 #EXTINF:-1 group_title="Canada",THE WEATHER CHANNEL HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50211.ts
+http://185.23.213.162:8789/ania/ania/40785
 #EXTINF:-1 group_title="Canada",THE WEATHER NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44350.ts
-#EXTINF:-1 group_title="Canada",THE WEATHER NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50210.ts
-#EXTINF:-1 group_title="Canada",TLC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44351.ts
-#EXTINF:-1 group_title="Canada",TLC HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48131.ts
+http://185.23.213.162:8789/ania/ania/40786
 #EXTINF:-1 group_title="Canada",TLC HD CANADA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50209.ts
-#EXTINF:-1 group_title="Canada",TMN 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50208.ts
-#EXTINF:-1 group_title="Canada",TMN 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50207.ts
-#EXTINF:-1 group_title="Canada",TMN 2 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48169.ts
-#EXTINF:-1 group_title="Canada",TMN 3
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50206.ts
-#EXTINF:-1 group_title="Canada",TMN 4
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50205.ts
+http://185.23.213.162:8789/ania/ania/40787
 #EXTINF:-1 group_title="Canada",TRAVEL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50204.ts
-#EXTINF:-1 group_title="Canada",Travel ESCAPE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44352.ts
+http://185.23.213.162:8789/ania/ania/40792
 #EXTINF:-1 group_title="Canada",TREEHOUSE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50203.ts
-#EXTINF:-1 group_title="Canada",TREEHOUSE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48168.ts
-#EXTINF:-1 group_title="Canada",TREEHOUSE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44353.ts
-#EXTINF:-1 group_title="Canada",TREEHOUSE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50202.ts
-#EXTINF:-1 group_title="Canada",TSN 3HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50201.ts
-#EXTINF:-1 group_title="Canada",TSN 1 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44354.ts
-#EXTINF:-1 group_title="Canada",TSN 1 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48130.ts
-#EXTINF:-1 group_title="Canada",TSN 1HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50200.ts
-#EXTINF:-1 group_title="Canada",TSN 2 FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48129.ts
-#EXTINF:-1 group_title="Canada",TSN 2 FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44355.ts
-#EXTINF:-1 group_title="Canada",TSN 2 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48128.ts
-#EXTINF:-1 group_title="Canada",TSN 2 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44356.ts
-#EXTINF:-1 group_title="Canada",TSN 3 FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48127.ts
-#EXTINF:-1 group_title="Canada",TSN 3 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48126.ts
-#EXTINF:-1 group_title="Canada",TSN 3 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44357.ts
-#EXTINF:-1 group_title="Canada",TSN 4 FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48125.ts
-#EXTINF:-1 group_title="Canada",TSN 4 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44358.ts
-#EXTINF:-1 group_title="Canada",TSN 4HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50199.ts
-#EXTINF:-1 group_title="Canada",TSN 5 FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48124.ts
-#EXTINF:-1 group_title="Canada",TSN 5 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44359.ts
-#EXTINF:-1 group_title="Canada",TSN 5 HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48123.ts
+http://185.23.213.162:8789/ania/ania/40793
 #EXTINF:-1 group_title="Canada",TSN 5HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50198.ts
-#EXTINF:-1 group_title="Canada",TURNER CLASSIC MOVIES
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48167.ts
-#EXTINF:-1 group_title="Canada",TV Ontario
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44360.ts
-#EXTINF:-1 group_title="Canada",TV Rogers
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44361.ts
-#EXTINF:-1 group_title="Canada",TV5 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44362.ts
+http://185.23.213.162:8789/ania/ania/40798
 #EXTINF:-1 group_title="Canada",TV5 QUEBEC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50197.ts
-#EXTINF:-1 group_title="Canada",TV5 Quebec (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44363.ts
-#EXTINF:-1 group_title="Canada",TV5 QUEBEC QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48166.ts
+http://185.23.213.162:8789/ania/ania/40799
 #EXTINF:-1 group_title="Canada",TVA GATINEAU
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50196.ts
-#EXTINF:-1 group_title="Canada",TVA MONTREAL
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44364.ts
-#EXTINF:-1 group_title="Canada",TVA Montreal (CFTM)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44365.ts
-#EXTINF:-1 group_title="Canada",TVA MONTREAL (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44366.ts
-#EXTINF:-1 group_title="Canada",TVA SPORTS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44367.ts
-#EXTINF:-1 group_title="Canada",TVA SPORTS (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44368.ts
-#EXTINF:-1 group_title="Canada",TVA Sports 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44369.ts
+http://185.23.213.162:8789/ania/ania/40800
 #EXTINF:-1 group_title="Canada",TVA SPORTS HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50195.ts
-#EXTINF:-1 group_title="Canada",TVA SPORTS QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48165.ts
+http://185.23.213.162:8789/ania/ania/40802
 #EXTINF:-1 group_title="Canada",TVO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50194.ts
-#EXTINF:-1 group_title="Canada",TVO HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44370.ts
+http://185.23.213.162:8789/ania/ania/40803
 #EXTINF:-1 group_title="Canada",UNIS TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50193.ts
-#EXTINF:-1 group_title="Canada",Unis TV (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44371.ts
-#EXTINF:-1 group_title="Canada",VIE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44372.ts
-#EXTINF:-1 group_title="Canada",VIE (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44373.ts
+http://185.23.213.162:8789/ania/ania/40804
 #EXTINF:-1 group_title="Canada",VISION
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50192.ts
-#EXTINF:-1 group_title="Canada",VISION TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48164.ts
-#EXTINF:-1 group_title="Canada",VISION TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44374.ts
+http://185.23.213.162:8789/ania/ania/40805
 #EXTINF:-1 group_title="Canada",VRAK TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44375.ts
-#EXTINF:-1 group_title="Canada",VRAK TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50191.ts
-#EXTINF:-1 group_title="Canada",VRAK TV (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44376.ts
-#EXTINF:-1 group_title="Canada",VRAK TV QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48163.ts
+http://185.23.213.162:8789/ania/ania/40806
 #EXTINF:-1 group_title="Canada",VTELE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50190.ts
-#EXTINF:-1 group_title="Canada",W
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44377.ts
-#EXTINF:-1 group_title="Canada",W NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50189.ts
-#EXTINF:-1 group_title="Canada",W NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44378.ts
-#EXTINF:-1 group_title="Canada",WEATHER NETWORK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44379.ts
-#EXTINF:-1 group_title="Canada",WFN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50188.ts
-#EXTINF:-1 group_title="Canada",WFN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44380.ts
-#EXTINF:-1 group_title="Canada",WGN
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44381.ts
+http://185.23.213.162:8789/ania/ania/40807
 #EXTINF:-1 group_title="Canada",Wild TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50187.ts
-#EXTINF:-1 group_title="Canada",Wild TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44382.ts
+http://185.23.213.162:8789/ania/ania/40810
 #EXTINF:-1 group_title="Canada",WORLD FISHING NET
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50186.ts
+http://185.23.213.162:8789/ania/ania/40811
 #EXTINF:-1 group_title="Canada",WSBK
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50185.ts
-#EXTINF:-1 group_title="Canada",WWE HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50184.ts
-#EXTINF:-1 group_title="Canada",YES
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48162.ts
+http://185.23.213.162:8789/ania/ania/40812
 #EXTINF:-1 group_title="Canada",YES TV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50183.ts
-#EXTINF:-1 group_title="Canada",YES TV HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48122.ts
-#EXTINF:-1 group_title="Canada",YES TV HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44383.ts
+http://185.23.213.162:8789/ania/ania/40814
 #EXTINF:-1 group_title="Canada",YOOPA
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50182.ts
-#EXTINF:-1 group_title="Canada",YOOPA (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44384.ts
-#EXTINF:-1 group_title="Canada",YTV E
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50181.ts
-#EXTINF:-1 group_title="Canada",YTV HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44385.ts
-#EXTINF:-1 group_title="Canada",YTV West
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50180.ts
-#EXTINF:-1 group_title="Canada",Z TELE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44386.ts
-#EXTINF:-1 group_title="Canada",Z TELE (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44387.ts
-#EXTINF:-1 group_title="Canada",Z TELE QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48161.ts
+http://185.23.213.162:8789/ania/ania/40815
 #EXTINF:-1 group_title="Canada",ZESTE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50179.ts
-#EXTINF:-1 group_title="Canada",ZESTE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44388.ts
-#EXTINF:-1 group_title="Canada",ZESTE (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44389.ts
-#EXTINF:-1 group_title="Canada",ZESTE QC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/48160.ts
+http://185.23.213.162:8789/ania/ania/40818
 #EXTINF:-1 group_title="Canada",ZTELE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/50178.ts
-#EXTINF:0,CA SPORTS | One Soccer 01 HD [Live During Events Only]
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/46967.ts
-#EXTINF:0,CA SPORTS | One Soccer 02 HD [Live During Events Only]
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/46968.ts
-#EXTINF:0,CA SPORTS | One Soccer 03 HD [Live During Events Only]
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/46969.ts
-#EXTINF:0,CA SPORTS | One Soccer HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/46966.ts
-#EXTINF:0,CA SPORTS | Sportnet Ontario HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44308.ts
-#EXTINF:0,CA SPORTS | SPORTS NET 360
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44309.ts
-#EXTINF:0,CA SPORTS | SPORTSMAN Channel HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44310.ts
-#EXTINF:0,CA SPORTS | SportsNet 360
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44311.ts
-#EXTINF:0,CA SPORTS | SportsNet 360 FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44312.ts
-#EXTINF:0,CA SPORTS | SportsNet EAST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44313.ts
-#EXTINF:0,CA SPORTS | SportsNet East HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44314.ts
-#EXTINF:0,CA SPORTS | SportsNet HOUSTON
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44315.ts
-#EXTINF:0,CA SPORTS | SportsNet ONE
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44316.ts
-#EXTINF:0,CA SPORTS | SportsNet One HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44317.ts
-#EXTINF:0,CA SPORTS | SportsNet ONTARIO
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44318.ts
-#EXTINF:0,CA SPORTS | SportsNet Ontario HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44319.ts
-#EXTINF:0,CA SPORTS | SportsNet Ontario HD (Premier League)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44320.ts
-#EXTINF:0,CA SPORTS | SportsNet PACIFIC
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44321.ts
-#EXTINF:0,CA SPORTS | SportsNet Pacific FHD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44322.ts
-#EXTINF:0,CA SPORTS | SportsNet PPV
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44323.ts
-#EXTINF:0,CA SPORTS | SportsNet WEST
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44324.ts
-#EXTINF:0,CA SPORTS | SportsNet West HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44325.ts
-#EXTINF:0,CA SPORTS | SportsNet World HD
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44326.ts
-#EXTINF:0,CA SPORTS | SUPER ECRAN 1
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44001.ts
-#EXTINF:0,CA SPORTS | SUPER ECRAN 1 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44002.ts
-#EXTINF:0,CA SPORTS | SUPER ECRAN 2
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44003.ts
-#EXTINF:0,CA SPORTS | SUPER ECRAN 2 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44004.ts
-#EXTINF:0,CA SPORTS | SUPER ECRAN 3
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44005.ts
-#EXTINF:0,CA SPORTS | Super Ecran 3 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44006.ts
-#EXTINF:0,CA SPORTS | SUPER ECRAN 4
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44007.ts
-#EXTINF:0,CA SPORTS | Super Ecran 4 (FR)
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44008.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44009.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 267
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44010.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 433
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44011.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 434
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44012.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 435
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44013.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 436
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44014.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 437
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44015.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 438
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44016.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 439
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44017.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 440
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/49179.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 441
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44018.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 443
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44019.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 444
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44020.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 450
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44021.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 461
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44022.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 462
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44023.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 464
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44024.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 465
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44025.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 472
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44026.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 476
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44027.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 479
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44028.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 480
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44029.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 482
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44030.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 483
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44031.ts
-#EXTINF:0,CA SPORTS | SUPER SPORTS CH 484
-http://nomorecable.eu:80/live/2ucpNdKgqy/La1LlABcKd/44032.ts
+http://185.23.213.162:8789/ania/ania/40819
