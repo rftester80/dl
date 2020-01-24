@@ -335,13 +335,13 @@ http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1731
 #EXTINF:-1 group_title="USA",TRAVEL CHANNEL HD
 #EXTVLCOPT:network-caching=1000
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1730
-#EXTINF:-1 group_title="USA",TSN HD 2
+#EXTINF:-1 group_title="USA",TSN 2 HD
 #EXTVLCOPT:network-caching=1000
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1830
-#EXTINF:-1 group_title="USA",TSN HD 4
+#EXTINF:-1 group_title="USA",TSN 4 HD
 #EXTVLCOPT:network-caching=1000
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1829
-#EXTINF:-1 group_title="USA",TSN SPORT 1 HD
+#EXTINF:-1 group_title="USA",TSN 1 HD
 #EXTVLCOPT:network-caching=1000
 http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1831
 #EXTINF:-1 group_title="USA",TV LAND HD
@@ -746,15 +746,15 @@ http://185.23.213.162:8789/ania/ania/40744
 http://185.23.213.162:8789/ania/ania/40745
 #EXTINF:-1 group_title="Canada",SPORTNET ONTARIO
 http://185.23.213.162:8789/ania/ania/40748
-#EXTINF:-1 group_title="Canada",SPORTS NET EAST HD
+#EXTINF:-1 group_title="Canada",SPORTSNET EAST HD
 http://185.23.213.162:8789/ania/ania/40749
-#EXTINF:-1 group_title="Canada",SPORTS NET ONE HD
+#EXTINF:-1 group_title="Canada",SPORTSNET ONE HD
 http://185.23.213.162:8789/ania/ania/40750
-#EXTINF:-1 group_title="Canada",SPORTS NET ONTARIO HD
+#EXTINF:-1 group_title="Canada",SPORTSNET ONTARIO HD
 http://185.23.213.162:8789/ania/ania/40751
-#EXTINF:-1 group_title="Canada",SPORTS NET PACIFIC HD
+#EXTINF:-1 group_title="Canada",SPORTSNET PACIFIC HD
 http://185.23.213.162:8789/ania/ania/40752
-#EXTINF:-1 group_title="Canada",SPORTS NET WORLD HD
+#EXTINF:-1 group_title="Canada",SPORTSNET WORLD HD
 http://185.23.213.162:8789/ania/ania/40753
 #EXTINF:-1 group_title="Canada",SPORTSNET EAST
 http://185.23.213.162:8789/ania/ania/40757
@@ -802,7 +802,7 @@ http://185.23.213.162:8789/ania/ania/40787
 http://185.23.213.162:8789/ania/ania/40792
 #EXTINF:-1 group_title="Canada",TREEHOUSE
 http://185.23.213.162:8789/ania/ania/40793
-#EXTINF:-1 group_title="Canada",TSN 5HD
+#EXTINF:-1 group_title="Canada",TSN 5 HD
 http://185.23.213.162:8789/ania/ania/40798
 #EXTINF:-1 group_title="Canada",TV5 QUEBEC
 http://185.23.213.162:8789/ania/ania/40799
