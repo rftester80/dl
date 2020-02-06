@@ -1,1043 +1,391 @@
 #EXTM3U
-#EXTINF:0,beIN Sports8
-#EXTVLCOPT:network-caching=1000
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0SD/t8dGBJITHt/1381
-#EXTINF:0,beIN Sports8
-#EXTVLCOPT:network-caching=1000
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEIN0SD/t8dGBJITHt/1392
-#EXTINF:0, AMC HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2252
-#EXTINF:0, Animal Planet HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2386
-#EXTINF:0, beIN Series 1 HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2234
-#EXTINF:0, beIN Series 2 HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2235
-#EXTINF:0, D Life HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2248
-#EXTINF:0, D MAX HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2258
-#EXTINF:0, Discovery Sc HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2388
-#EXTINF:0, Discovery Turbo Xtra HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2257
-#EXTINF:0, FIire Movies HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2371
-#EXTINF:0, food network
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2246
-#EXTINF:0, Fox Crime HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2376
-#EXTINF:0, Fox Family HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2370
-#EXTINF:0, Fox Family MOVIES HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2243
-#EXTINF:0, FOX HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2249
-#EXTINF:0, FOX LIFE
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2377
-#EXTINF:0, Fox Life HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2378
-#EXTINF:0, Fox Movies Action HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2242
-#EXTINF:0, Fox Movies HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2241
-#EXTINF:0, FX HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2240
-#EXTINF:0, Gourmet HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2245
-#EXTINF:0, HGTV HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2260
-#EXTINF:0, MBC 1 HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2347
-#EXTINF:0, MBC 2 HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2349
-#EXTINF:0, MBC 3 HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2351
-#EXTINF:0, MBC Action HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2360
-#EXTINF:0, MBC ACTION HD H265
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2359
-#EXTINF:0, MBC DRAMA + HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2356
-#EXTINF:0, MBC Max HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2358
-#EXTINF:0, MBC MAX HD H265
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2357
-#EXTINF:0, MBC Variety HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2362
-#EXTINF:0, MBC1 HD H265
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2346
-#EXTINF:0, MBC2 HD H265
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2348
-#EXTINF:0, MBC3 HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2352
-#EXTINF:0, MBC3 HD H265
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2350
-#EXTINF:0, MBC4 HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2354
-#EXTINF:0, MBC4 HD H265
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2353
-#EXTINF:0, MBCDRAMA + H265
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2355
-#EXTINF:0, MBCVARIETY H265
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2361
-#EXTINF:0, Movies 1 HD Premiere
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2236
-#EXTINF:0, Movies 2 HD Action
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2237
-#EXTINF:0, Movies 3 HD Drama
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2238
-#EXTINF:0, Movies 4 HD Family
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2239
-#EXTINF:0, MY CINEMA HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2372
-#EXTINF:0, Nat Geo HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2255
-#EXTINF:0, Nat Geo People HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2254
-#EXTINF:0, Nat Geo Wild HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2256
-#EXTINF:0, Outdoor HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2259
-#EXTINF:0, Planet Earth HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2389
-#EXTINF:0, Star Movies HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2373
-#EXTINF:0, Star World HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2374
-#EXTINF:0, SUNDANCE HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2250
-#EXTINF:0, TCM
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2251
-#EXTINF:0, TDC HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2381
-#EXTINF:0, Travel CHannel HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2253
-#EXTINF:0, WWE HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2345
-#EXTINF:0,BeinSportsHD8 480p
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2223
-#EXTINF:0,FILM BOX HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2368
-#EXTINF:0,|MOVIES| CINEMA ACTION HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2392
-#EXTINF:0,|MOVIES| CINEMA FAMILY HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2395
-#EXTINF:0,|MOVIES| CINEMA PREMIERE HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2396
-#EXTINF:0,|MOVIES| CINEMAFEAR HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2393
-#EXTINF:0,|MOVIES| CINEMAONE HD
-http://xtreamv3-dreamsatsport.ddns.net:25461/BEINMYHD/4YmFi5App0/2394
-#EXTINF:-1 group_title="USA",ABC 2 ORLANDO HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1824
-#EXTINF:-1 group_title="USA",ABC CHARLOTTE HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1826
-#EXTINF:-1 group_title="USA",ABC MIAMI HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1825
-#EXTINF:-1 group_title="USA",ABC NASHVILLE HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1823
-#EXTINF:-1 group_title="USA",ABC NEW YORK HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1821
-#EXTINF:-1 group_title="USA",ABC SACRAMENTO HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1827
-#EXTINF:-1 group_title="USA",ABC SAN DIEGO HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1822
-#EXTINF:-1 group_title="USA",ACTION MAX
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1815
-#EXTINF:-1 group_title="USA",AFN Prime Pacific
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1814
-#EXTINF:-1 group_title="USA",BBC AMERICA HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1813
-#EXTINF:-1 group_title="USA",BEIN SPORTS HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1820
-#EXTINF:-1 group_title="USA",BET HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1812
-#EXTINF:-1 group_title="USA",BLOOMBERG HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1811
-#EXTINF:-1 group_title="USA",BOOMERANG HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1810
-#EXTINF:-1 group_title="USA",BRAVO
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1809
-#EXTINF:-1 group_title="USA",BTN HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1808
-#EXTINF:-1 group_title="USA",C SPAN 1 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1807
-#EXTINF:-1 group_title="USA",C SPAN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1806
-#EXTINF:-1 group_title="USA",C SPAN 3 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1805
-#EXTINF:-1 group_title="USA",CBS CHICAGO HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1803
-#EXTINF:-1 group_title="USA",CBS NASHVILLE
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1804
-#EXTINF:-1 group_title="USA",CBS NEW YORK HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1801
-#EXTINF:-1 group_title="USA",CBS ORLANDO HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1802
-#EXTINF:-1 group_title="USA",CINE Sony HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1798
-#EXTINF:-1 group_title="USA",CINEMAX 5
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1800
-#EXTINF:-1 group_title="USA",CINEMAX EAST
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1799
-#EXTINF:-1 group_title="USA",CMT HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1797
-#EXTINF:-1 group_title="USA",CNBC HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1796
-#EXTINF:-1 group_title="USA",CNN HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1819
-#EXTINF:-1 group_title="USA",COOKING CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1795
-#EXTINF:-1 group_title="USA",CRIME & INVESTIGATION HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1794
-#EXTINF:-1 group_title="USA",CW HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1793
-#EXTINF:-1 group_title="USA",DESTINATION AMERICA
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1792
-#EXTINF:-1 group_title="USA",DISCOVERY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1791
-#EXTINF:-1 group_title="USA",DISCOVERY FAMILY HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1790
-#EXTINF:-1 group_title="USA",DISCOVERY SCIENCE HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1789
-#EXTINF:-1 group_title="USA",DISCOVERY VELOCITY HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1788
-#EXTINF:-1 group_title="USA",DISNEY CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1787
-#EXTINF:-1 group_title="USA",DISNEY Jr. HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1786
-#EXTINF:-1 group_title="USA",DIY NETWORK HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1785
-#EXTINF:-1 group_title="USA",ESPN
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1784
-#EXTINF:-1 group_title="USA",ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1783
-#EXTINF:-1 group_title="USA",ESPN BASES LOADED
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1778
-#EXTINF:-1 group_title="USA",ESPN COLLAGE EXTRA
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1782
-#EXTINF:-1 group_title="USA",ESPN DEPORTES HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1781
-#EXTINF:-1 group_title="USA",ESPN NEWS HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1779
-#EXTINF:-1 group_title="USA",ESPN U HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1780
-#EXTINF:-1 group_title="USA",FOOD NETWORK HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1776
-#EXTINF:-1 group_title="USA",FOX HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1775
-#EXTINF:-1 group_title="USA",FOX NEWS
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1774
-#EXTINF:-1 group_title="USA",FOX SOCCER PLUS
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1777
-#EXTINF:-1 group_title="USA",FOX SPORTS ARIZONA HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1773
-#EXTINF:-1 group_title="USA",FOX SPORTS CAROLINAS HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1772
-#EXTINF:-1 group_title="USA",FOX SPORTS COLLEGUE ATLANTIC HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1771
-#EXTINF:-1 group_title="USA",FOX SPORTS FLORIDA HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1770
-#EXTINF:-1 group_title="USA",FOX SPORTS NORTH HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1769
-#EXTINF:-1 group_title="USA",FOX SPORTS PRIME TICKET HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1767
-#EXTINF:-1 group_title="USA",FOX SPORTS RACING HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1766
-#EXTINF:-1 group_title="USA",FOX SPORTS Sun HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1768
-#EXTINF:-1 group_title="USA",FOX SPORTS WISCONSIN HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1765
-#EXTINF:-1 group_title="USA",FREEFORM HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1764
-#EXTINF:-1 group_title="USA",FX HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1763
-#EXTINF:-1 group_title="USA",FXX HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1762
-#EXTINF:-1 group_title="USA",GOLF HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1761
-#EXTINF:-1 group_title="USA",H2
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1759
-#EXTINF:-1 group_title="USA",HALLMARK HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1758
-#EXTINF:-1 group_title="USA",HBO COMEDY HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1757
-#EXTINF:-1 group_title="USA",HBO Family HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1818
-#EXTINF:-1 group_title="USA",HBO HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1755
-#EXTINF:-1 group_title="USA",HBO PACIFIC HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1756
-#EXTINF:-1 group_title="USA",HGTV HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1817
-#EXTINF:-1 group_title="USA",HOME & HEALTH
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1760
-#EXTINF:-1 group_title="USA",IFC HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1754
-#EXTINF:-1 group_title="USA",LAW AND CRIME HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1752
-#EXTINF:-1 group_title="USA",LOGHORN NETWORK
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1753
-#EXTINF:-1 group_title="USA",MORE MAX HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1751
-#EXTINF:-1 group_title="USA",MSNBC HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1750
-#EXTINF:-1 group_title="USA",NAT GEO HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1749
-#EXTINF:-1 group_title="USA",NAT GEO WILD HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1748
-#EXTINF:-1 group_title="USA",NBA TV HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1747
-#EXTINF:-1 group_title="USA",NBC DETROT HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1828
-#EXTINF:-1 group_title="USA",NBC SPORTS CHICAGO PLUS
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1746
-#EXTINF:-1 group_title="USA",NFL NETWORK HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1726
-#EXTINF:-1 group_title="USA",NFL NOW HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1725
-#EXTINF:-1 group_title="USA",NFL RED ZONE HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1724
-#EXTINF:-1 group_title="USA",NICK HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1745
-#EXTINF:-1 group_title="USA",NICKELODEON HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1744
-#EXTINF:-1 group_title="USA",OWN HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1743
-#EXTINF:-1 group_title="USA",PBS HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1742
-#EXTINF:-1 group_title="USA",REELZ HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1741
-#EXTINF:-1 group_title="USA",SHOWTIME 
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1740
-#EXTINF:-1 group_title="USA",SHOWTIME PACIFIC
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1739
-#EXTINF:-1 group_title="USA",SPIKE HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1738
-#EXTINF:-1 group_title="USA",STARZ EDGE
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1737
-#EXTINF:-1 group_title="USA",SUNDANCE HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1736
-#EXTINF:-1 group_title="USA",SYFY HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1735
-#EXTINF:-1 group_title="USA",TBS HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1816
-#EXTINF:-1 group_title="USA",TENNIS HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1734
-#EXTINF:-1 group_title="USA",The WEATHER CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1733
-#EXTINF:-1 group_title="USA",TLC HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1732
-#EXTINF:-1 group_title="USA",TNT HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1731
-#EXTINF:-1 group_title="USA",TRAVEL CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1730
-#EXTINF:-1 group_title="USA",TSN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1830
-#EXTINF:-1 group_title="USA",TSN 4 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1829
-#EXTINF:-1 group_title="USA",TSN 1 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1831
-#EXTINF:-1 group_title="USA",TV LAND HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1729
-#EXTINF:-1 group_title="USA",UFC
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/3814
-#EXTINF:-1 group_title="USA",UFC  FIGHT PASS
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1719
-#EXTINF:-1 group_title="USA",UNIVERSO HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1728
-#EXTINF:-1 group_title="USA",USA NETWORK
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1727
-#EXTINF:-1 group_title="USA",VH1 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1723
-#EXTINF:-1 group_title="USA",WGN 9 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1722
-#EXTINF:-1 group_title="USA",Willow Cricket HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1721
-#EXTINF:-1 group_title="USA",WWE NETWORK HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1720
-#EXTINF:-1 group_title="USA",YES ACTION HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1832
-#EXTINF:-1 group_title="USA",YES ANIMAL PLANET
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1833
-#EXTINF:-1 group_title="USA",YES COMEDY HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1834
-#EXTINF:-1 group_title="USA",YES DRAMA HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1835
-#EXTINF:-1 group_title="USA",YES EGO TOTAL
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1836
-#EXTINF:-1 group_title="USA",YES HD1
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1837
-#EXTINF:-1 group_title="USA",YES HD2
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1838
-#EXTINF:-1 group_title="USA",YES HD3
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1839
-#EXTINF:-1 group_title="USA",YES HD4
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1840
-#EXTINF:-1 group_title="USA",YES HISTORYL CHANNELL
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1841
-#EXTINF:-1 group_title="USA",YES HOP
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1842
-#EXTINF:-1 group_title="USA",YES ISRAEL CINEMA
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1843
-#EXTINF:-1 group_title="USA",YES NICKELODEON
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1844
-#EXTINF:-1 group_title="USA",YES ONE HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1845
-#EXTINF:-1 group_title="USA",YES ONE2 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1846
-#EXTINF:-1 group_title="USA",YES SPORT 1 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1847
-#EXTINF:-1 group_title="USA",YES SPORT 2 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1848
-#EXTINF:-1 group_title="USA",YES SPORT 3 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1849
-#EXTINF:-1 group_title="USA",YES SPORT 4 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1850
-#EXTINF:-1 group_title="USA",YES SPORT 5 HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1851
-#EXTINF:-1 group_title="USA",YES SPORT 5 LIVE HD
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1852
-#EXTINF:-1 group_title="USA",YES SPORT 5 PLUS
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1853
-#EXTINF:-1 group_title="USA",YES VIVA
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1854
-#EXTINF:-1 group_title="USA",YES VIVA PLUS
-#EXTVLCOPT:network-caching=1000
-http://iptv6.premium-stv.com:25461/usapro2source/79996526641/1855
-#EXTM3U
-#EXTINF:-1 group_title="Canada",ABC EAST
-http://185.23.213.162:8789/ania/ania/40541
-#EXTINF:-1 group_title="Canada",ACTION
-http://185.23.213.162:8789/ania/ania/40546
-#EXTINF:-1 group_title="Canada",A&E HD
-http://185.23.213.162:8789/ania/ania/40548
-#EXTINF:-1 group_title="Canada",AHC
-http://185.23.213.162:8789/ania/ania/40549
-#EXTINF:-1 group_title="Canada",AMC HD
-http://185.23.213.162:8789/ania/ania/40551
-#EXTINF:-1 group_title="Canada",APTN HD
-http://185.23.213.162:8789/ania/ania/40554
-#EXTINF:-1 group_title="Canada",ARTV
-http://185.23.213.162:8789/ania/ania/40555
-#EXTINF:-1 group_title="Canada",ASSEMBLEE NATIONALE
-http://185.23.213.162:8789/ania/ania/40556
-#EXTINF:-1 group_title="Canada",BBC CANADA
-http://185.23.213.162:8789/ania/ania/40557
-#EXTINF:-1 group_title="Canada",BBC KIDS
-http://185.23.213.162:8789/ania/ania/40558
-#EXTINF:-1 group_title="Canada",BBC WORLD NEWS
-http://185.23.213.162:8789/ania/ania/40559
-#EXTINF:-1 group_title="Canada",BNN
-http://185.23.213.162:8789/ania/ania/40561
-#EXTINF:-1 group_title="Canada",BNN HD
-http://185.23.213.162:8789/ania/ania/40562
-#EXTINF:-1 group_title="Canada",BOOK TV
-http://185.23.213.162:8789/ania/ania/40563
-#EXTINF:-1 group_title="Canada",CANAL D HD
-http://185.23.213.162:8789/ania/ania/40565
-#EXTINF:-1 group_title="Canada",CANAL VIE
-http://185.23.213.162:8789/ania/ania/40567
-#EXTINF:-1 group_title="Canada",CARTOON NETWORK
-http://185.23.213.162:8789/ania/ania/40569
-#EXTINF:-1 group_title="Canada",CASA
-http://185.23.213.162:8789/ania/ania/40570
-#EXTINF:-1 group_title="Canada",CBC Montreal HD
-http://185.23.213.162:8789/ania/ania/40573
-#EXTINF:-1 group_title="Canada",CBC NEWS
-http://185.23.213.162:8789/ania/ania/40574
-#EXTINF:-1 group_title="Canada",CBC NEWS HD
-http://185.23.213.162:8789/ania/ania/40575
-#EXTINF:-1 group_title="Canada",CBC NOVA SCOTIA
-http://185.23.213.162:8789/ania/ania/40576
-#EXTINF:-1 group_title="Canada",CBC OTTAWA
-http://185.23.213.162:8789/ania/ania/40577
-#EXTINF:-1 group_title="Canada",CBC TORONTO
-http://185.23.213.162:8789/ania/ania/40578
-#EXTINF:-1 group_title="Canada",CBC VANCOUVER
-http://185.23.213.162:8789/ania/ania/40580
-#EXTINF:-1 group_title="Canada",CBS EAST
-http://185.23.213.162:8789/ania/ania/40581
-#EXTINF:-1 group_title="Canada",CBS WEST
-http://185.23.213.162:8789/ania/ania/40582
-#EXTINF:-1 group_title="Canada",CITY MONTREAL
-http://185.23.213.162:8789/ania/ania/40587
-#EXTINF:-1 group_title="Canada",CITY TORONTO
-http://185.23.213.162:8789/ania/ania/40589
-#EXTINF:-1 group_title="Canada",City Toronto HD
-http://185.23.213.162:8789/ania/ania/40590
-#EXTINF:-1 group_title="Canada",CITY VANCOUVER
-http://185.23.213.162:8789/ania/ania/40591
-#EXTINF:-1 group_title="Canada",City Vancouver HD
-http://185.23.213.162:8789/ania/ania/40592
-#EXTINF:-1 group_title="Canada",CITY WINNIPEG
-http://185.23.213.162:8789/ania/ania/40593
-#EXTINF:-1 group_title="Canada",CMT CANADA
-http://185.23.213.162:8789/ania/ania/40594
-#EXTINF:-1 group_title="Canada",CNBC HD
-http://185.23.213.162:8789/ania/ania/40595
-#EXTINF:-1 group_title="Canada",CNN
-http://185.23.213.162:8789/ania/ania/40596
-#EXTINF:-1 group_title="Canada",CNN HD
-http://185.23.213.162:8789/ania/ania/40597
-#EXTINF:-1 group_title="Canada",COMEDY EAST
-http://185.23.213.162:8789/ania/ania/40598
-#EXTINF:-1 group_title="Canada",COMEDY GOLD
-http://185.23.213.162:8789/ania/ania/40599
-#EXTINF:-1 group_title="Canada",COMEDY HD
-http://185.23.213.162:8789/ania/ania/40600
-#EXTINF:-1 group_title="Canada",COMEDY WEST
-http://185.23.213.162:8789/ania/ania/40601
-#EXTINF:-1 group_title="Canada",COOKING CHANNEL
-http://185.23.213.162:8789/ania/ania/40602
-#EXTINF:-1 group_title="Canada",COSMO
-http://185.23.213.162:8789/ania/ania/40603
-#EXTINF:-1 group_title="Canada",COTTAGE LIFE
-http://185.23.213.162:8789/ania/ania/40604
-#EXTINF:-1 group_title="Canada",CP24 HD
-http://185.23.213.162:8789/ania/ania/40607
-#EXTINF:-1 group_title="Canada",CPAC
-http://185.23.213.162:8789/ania/ania/40609
-#EXTINF:-1 group_title="Canada",CPAC FRENCH
-http://185.23.213.162:8789/ania/ania/40610
-#EXTINF:-1 group_title="Canada",CREATE
-http://185.23.213.162:8789/ania/ania/40611
-#EXTINF:-1 group_title="Canada",CRIME INVEST
-http://185.23.213.162:8789/ania/ania/40612
-#EXTINF:-1 group_title="Canada",CTV 2 VANCOUVER
-http://185.23.213.162:8789/ania/ania/40613
-#EXTINF:-1 group_title="Canada",CTV CALGARY
-http://185.23.213.162:8789/ania/ania/40615
-#EXTINF:-1 group_title="Canada",CTV EAST
-http://185.23.213.162:8789/ania/ania/40616
-#EXTINF:-1 group_title="Canada",CTV HALIFAX
-http://185.23.213.162:8789/ania/ania/40617
-#EXTINF:-1 group_title="Canada",CTV HD
-http://185.23.213.162:8789/ania/ania/40618
-#EXTINF:-1 group_title="Canada",CTV MONTREAL
-http://185.23.213.162:8789/ania/ania/40619
-#EXTINF:-1 group_title="Canada",CTV Montreal HD
-http://185.23.213.162:8789/ania/ania/40620
-#EXTINF:-1 group_title="Canada",CTV NEWS HD
-http://185.23.213.162:8789/ania/ania/40621
-#EXTINF:-1 group_title="Canada",CTV NEWS NETWORK
-http://185.23.213.162:8789/ania/ania/40622
-#EXTINF:-1 group_title="Canada",CTV OTTAWA
-http://185.23.213.162:8789/ania/ania/40623
-#EXTINF:-1 group_title="Canada",CTV TORONTO
-http://185.23.213.162:8789/ania/ania/40624
-#EXTINF:-1 group_title="Canada",CTV VANCOUVER
-http://185.23.213.162:8789/ania/ania/40625
-#EXTINF:-1 group_title="Canada",CTV2 OTTAWA
-http://185.23.213.162:8789/ania/ania/40626
-#EXTINF:-1 group_title="Canada",DAYSTAR TV
-http://185.23.213.162:8789/ania/ania/40628
-#EXTINF:-1 group_title="Canada",DEJAVIEW
-http://185.23.213.162:8789/ania/ania/40629
-#EXTINF:-1 group_title="Canada",DISCOVERY CANADA
-http://185.23.213.162:8789/ania/ania/40630
-#EXTINF:-1 group_title="Canada", Discovery HD
-http://185.23.213.162:8789/ania/ania/40538
-#EXTINF:-1 group_title="Canada",DISCOVERY SCIENCE CANADA
-http://185.23.213.162:8789/ania/ania/40631
-#EXTINF:-1 group_title="Canada",DISNEY JR
-http://185.23.213.162:8789/ania/ania/40634
-#EXTINF:-1 group_title="Canada",DISNEY JR HD
-http://185.23.213.162:8789/ania/ania/40635
-#EXTINF:-1 group_title="Canada",DIY NETWORK
-http://185.23.213.162:8789/ania/ania/40636
-#EXTINF:-1 group_title="Canada",DIY NETWORK HD
-http://185.23.213.162:8789/ania/ania/40637
-#EXTINF:-1 group_title="Canada",DOCUMENTARY
-http://185.23.213.162:8789/ania/ania/40638
-#EXTINF:-1 group_title="Canada",DTOUR
-http://185.23.213.162:8789/ania/ania/40639
-#EXTINF:-1 group_title="Canada",E! CANADA
-http://185.23.213.162:8789/ania/ania/40640
-#EXTINF:-1 group_title="Canada",EVASION
-http://185.23.213.162:8789/ania/ania/40643
-#EXTINF:-1 group_title="Canada", FAMILY HD
-http://185.23.213.162:8789/ania/ania/40539
-#EXTINF:-1 group_title="Canada",FAMILY JR
-http://185.23.213.162:8789/ania/ania/40646
-#EXTINF:-1 group_title="Canada",FAMILY WEST
-http://185.23.213.162:8789/ania/ania/40647
-#EXTINF:-1 group_title="Canada",FIGHT NETWORK
-http://185.23.213.162:8789/ania/ania/40648
-#EXTINF:-1 group_title="Canada",FOOD NETWORK
-http://185.23.213.162:8789/ania/ania/40649
-#EXTINF:-1 group_title="Canada",Food Network HD
-http://185.23.213.162:8789/ania/ania/40650
-#EXTINF:-1 group_title="Canada",FOX HD
-http://185.23.213.162:8789/ania/ania/40652
-#EXTINF:-1 group_title="Canada",FOX NEWS
-http://185.23.213.162:8789/ania/ania/40653
-#EXTINF:-1 group_title="Canada",FRISSON
-http://185.23.213.162:8789/ania/ania/40655
-#EXTINF:-1 group_title="Canada",FTV CANADA
-http://185.23.213.162:8789/ania/ania/40656
-#EXTINF:-1 group_title="Canada",FXX HD
-http://185.23.213.162:8789/ania/ania/40657
-#EXTINF:-1 group_title="Canada",Game TV
-http://185.23.213.162:8789/ania/ania/40659
-#EXTINF:-1 group_title="Canada",GINX ESPORTS TV CANADA
-http://185.23.213.162:8789/ania/ania/40660
-#EXTINF:-1 group_title="Canada",GLOBAL CALGARY
-http://185.23.213.162:8789/ania/ania/40661
-#EXTINF:-1 group_title="Canada",GLOBAL HALIFAX
-http://185.23.213.162:8789/ania/ania/40663
-#EXTINF:-1 group_title="Canada",GLOBAL HD
-http://185.23.213.162:8789/ania/ania/40664
-#EXTINF:-1 group_title="Canada",GLOBAL TORONTO
-http://185.23.213.162:8789/ania/ania/40665
-#EXTINF:-1 group_title="Canada",GLOBAL VANCOUVER
-http://185.23.213.162:8789/ania/ania/40666
-#EXTINF:-1 group_title="Canada",GSN
-http://185.23.213.162:8789/ania/ania/40667
-#EXTINF:-1 group_title="Canada",GUSTO
-http://185.23.213.162:8789/ania/ania/40668
-#EXTINF:-1 group_title="Canada",H2 CANADA
-http://185.23.213.162:8789/ania/ania/40669
-#EXTINF:-1 group_title="Canada",HBO 1
-http://185.23.213.162:8789/ania/ania/40670
-#EXTINF:-1 group_title="Canada",HGTV
-http://185.23.213.162:8789/ania/ania/40673
-#EXTINF:-1 group_title="Canada",HISTORIA
-http://185.23.213.162:8789/ania/ania/40674
-#EXTINF:-1 group_title="Canada",HISTORY HD
-http://185.23.213.162:8789/ania/ania/40675
-#EXTINF:-1 group_title="Canada",HLN
-http://185.23.213.162:8789/ania/ania/40676
-#EXTINF:-1 group_title="Canada",ICI MONTREAL
-http://185.23.213.162:8789/ania/ania/40678
-#EXTINF:-1 group_title="Canada",ICI VANCOUVER
-http://185.23.213.162:8789/ania/ania/40679
-#EXTINF:-1 group_title="Canada",ID HD
-http://185.23.213.162:8789/ania/ania/40680
-#EXTINF:-1 group_title="Canada",IFC
-http://185.23.213.162:8789/ania/ania/40681
-#EXTINF:-1 group_title="Canada",JOY
-http://185.23.213.162:8789/ania/ania/40682
-#EXTINF:-1 group_title="Canada",KNOWLEDGE KIDS
-http://185.23.213.162:8789/ania/ania/40683
-#EXTINF:-1 group_title="Canada",Knowledge Network
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 group_title="Canada",KTLA
-http://185.23.213.162:8789/ania/ania/40684
-#EXTINF:-1 group_title="Canada",LCN
-http://185.23.213.162:8789/ania/ania/40685
-#EXTINF:-1 group_title="Canada",MAKEFUL
-http://185.23.213.162:8789/ania/ania/40688
-#EXTINF:-1 group_title="Canada",MAVTV CANADA
-http://185.23.213.162:8789/ania/ania/40689
-#EXTINF:-1 group_title="Canada",MAX
-http://185.23.213.162:8789/ania/ania/40690
-#EXTINF:-1 group_title="Canada",MEDIASET ITALIA CANADA
-http://185.23.213.162:8789/ania/ania/40691
-#EXTINF:-1 group_title="Canada",MIRACLE
-http://185.23.213.162:8789/ania/ania/40693
-#EXTINF:-1 group_title="Canada",MLB NETWORK
-http://185.23.213.162:8789/ania/ania/40694
-#EXTINF:-1 group_title="Canada",MOICIE
-http://185.23.213.162:8789/ania/ania/40695
-#EXTINF:-1 group_title="Canada",MONTREAL3 / TVA WEST
-http://185.23.213.162:8789/ania/ania/40696
-#EXTINF:-1 group_title="Canada",MSNBC
-http://185.23.213.162:8789/ania/ania/40697
-#EXTINF:-1 group_title="Canada",MSNBC HD
-http://185.23.213.162:8789/ania/ania/40698
-#EXTINF:-1 group_title="Canada",MUCH
-http://185.23.213.162:8789/ania/ania/40702
-#EXTINF:-1 group_title="Canada",MUSIQUE PLUS
-http://185.23.213.162:8789/ania/ania/40704
-#EXTINF:-1 group_title="Canada",NAT GEO
-http://185.23.213.162:8789/ania/ania/40705
-#EXTINF:-1 group_title="Canada",NAT GEO WILD HD
-http://185.23.213.162:8789/ania/ania/40706
-#EXTINF:-1 group_title="Canada",NBA TV
-http://185.23.213.162:8789/ania/ania/40707
-#EXTINF:-1 group_title="Canada",NBC WEST
-http://185.23.213.162:8789/ania/ania/40709
-#EXTINF:-1 group_title="Canada",NFL NETWORK
-http://185.23.213.162:8789/ania/ania/40710
-#EXTINF:-1 group_title="Canada",NTV
-http://185.23.213.162:8789/ania/ania/40712
-#EXTINF:-1 group_title="Canada",OLN
-http://185.23.213.162:8789/ania/ania/40713
-#EXTINF:-1 group_title="Canada",Omni 1 HD
-http://185.23.213.162:8789/ania/ania/40715
-#EXTINF:-1 group_title="Canada",OMNI 2
-http://185.23.213.162:8789/ania/ania/40716
-#EXTINF:-1 group_title="Canada",OMNI BC
-http://185.23.213.162:8789/ania/ania/40717
-#EXTINF:-1 group_title="Canada",OMNI EAST
-http://185.23.213.162:8789/ania/ania/40718
-#EXTINF:-1 group_title="Canada",ONE
-http://185.23.213.162:8789/ania/ania/40719
-#EXTINF:-1 group_title="Canada",OUTTV
-http://185.23.213.162:8789/ania/ania/40720
-#EXTINF:-1 group_title="Canada",OWN
-http://185.23.213.162:8789/ania/ania/40721
-#EXTINF:-1 group_title="Canada",PBS EAST HD
-http://185.23.213.162:8789/ania/ania/40724
-#EXTINF:-1 group_title="Canada",PBS WEST
-http://185.23.213.162:8789/ania/ania/40725
-#EXTINF:-1 group_title="Canada",PEACH TREE
-http://185.23.213.162:8789/ania/ania/40726
-#EXTINF:-1 group_title="Canada",PRISE
-http://185.23.213.162:8789/ania/ania/40728
-#EXTINF:-1 group_title="Canada",RDI
-http://185.23.213.162:8789/ania/ania/40729
-#EXTINF:-1 group_title="Canada",RDS
-http://185.23.213.162:8789/ania/ania/40730
-#EXTINF:-1 group_title="Canada",RDS 2
-http://185.23.213.162:8789/ania/ania/40731
-#EXTINF:-1 group_title="Canada",RDS INFO
-http://185.23.213.162:8789/ania/ania/40732
-#EXTINF:-1 group_title="Canada",SILVER SCREEN CLASSICS
-http://185.23.213.162:8789/ania/ania/40738
-#EXTINF:-1 group_title="Canada",SLICE
-http://185.23.213.162:8789/ania/ania/40739
-#EXTINF:-1 group_title="Canada",SPACE
-http://185.23.213.162:8789/ania/ania/40742
-#EXTINF:-1 group_title="Canada",SPACE HD
-http://185.23.213.162:8789/ania/ania/40743
-#EXTINF:-1 group_title="Canada",SPIKE TV
-http://185.23.213.162:8789/ania/ania/40744
-#EXTINF:-1 group_title="Canada",SPIKE TV / PARAMOUNT CANADA
-http://185.23.213.162:8789/ania/ania/40745
-#EXTINF:-1 group_title="Canada",SPORTNET ONTARIO
-http://185.23.213.162:8789/ania/ania/40748
-#EXTINF:-1 group_title="Canada",SPORTSNET EAST HD
-http://185.23.213.162:8789/ania/ania/40749
-#EXTINF:-1 group_title="Canada",SPORTSNET ONE HD
-http://185.23.213.162:8789/ania/ania/40750
-#EXTINF:-1 group_title="Canada",SPORTSNET ONTARIO HD
-http://185.23.213.162:8789/ania/ania/40751
-#EXTINF:-1 group_title="Canada",SPORTSNET PACIFIC HD
-http://185.23.213.162:8789/ania/ania/40752
-#EXTINF:-1 group_title="Canada",SPORTSNET WORLD HD
-http://185.23.213.162:8789/ania/ania/40753
-#EXTINF:-1 group_title="Canada",SPORTSNET EAST
-http://185.23.213.162:8789/ania/ania/40757
-#EXTINF:-1 group_title="Canada",SPORTSNET EAST HD
-http://185.23.213.162:8789/ania/ania/40758
-#EXTINF:-1 group_title="Canada",SPORTSNET ONE
-http://185.23.213.162:8789/ania/ania/40759
-#EXTINF:-1 group_title="Canada",SPORTSNET ONTARIO
-http://185.23.213.162:8789/ania/ania/40761
-#EXTINF:-1 group_title="Canada",SPORTSNET PACIFIC
-http://185.23.213.162:8789/ania/ania/40762
-#EXTINF:-1 group_title="Canada",SPORTSNET PACIFIC HD
-http://185.23.213.162:8789/ania/ania/40763
-#EXTINF:-1 group_title="Canada",SPORTSNET WEST HD
-http://185.23.213.162:8789/ania/ania/40727
-#EXTINF:-1 group_title="Canada",SPORTSNET WORLD
-http://185.23.213.162:8789/ania/ania/40765
-#EXTINF:-1 group_title="Canada",SPORTSNET WORLD HD.
-http://185.23.213.162:8789/ania/ania/40766
-#EXTINF:-1 group_title="Canada",SUPER ECRAN 2
-http://185.23.213.162:8789/ania/ania/40772
-#EXTINF:-1 group_title="Canada",TELE LATINO
-http://185.23.213.162:8789/ania/ania/40776
-#EXTINF:-1 group_title="Canada",TELE QUEBEC
-http://185.23.213.162:8789/ania/ania/40777
-#EXTINF:-1 group_title="Canada",TELE TOON
-http://185.23.213.162:8789/ania/ania/40778
-#EXTINF:-1 group_title="Canada",TELE TOON EAST
-http://185.23.213.162:8789/ania/ania/40779
-#EXTINF:-1 group_title="Canada",TELE TOON WEST
-http://185.23.213.162:8789/ania/ania/40781
-#EXTINF:-1 group_title="Canada",TELEMAGINO
-http://185.23.213.162:8789/ania/ania/40782
-#EXTINF:-1 group_title="Canada",TELETOON
-http://185.23.213.162:8789/ania/ania/40783
-#EXTINF:-1 group_title="Canada",TFO
-http://185.23.213.162:8789/ania/ania/40784
-#EXTINF:-1 group_title="Canada",THE WEATHER CHANNEL HD
-http://185.23.213.162:8789/ania/ania/40785
-#EXTINF:-1 group_title="Canada",THE WEATHER NETWORK
-http://185.23.213.162:8789/ania/ania/40786
-#EXTINF:-1 group_title="Canada",TLC HD CANADA
-http://185.23.213.162:8789/ania/ania/40787
-#EXTINF:-1 group_title="Canada",TRAVEL
-http://185.23.213.162:8789/ania/ania/40792
-#EXTINF:-1 group_title="Canada",TREEHOUSE
-http://185.23.213.162:8789/ania/ania/40793
-#EXTINF:-1 group_title="Canada",TSN 5 HD
-http://185.23.213.162:8789/ania/ania/40798
-#EXTINF:-1 group_title="Canada",TV5 QUEBEC
-http://185.23.213.162:8789/ania/ania/40799
-#EXTINF:-1 group_title="Canada",TVA GATINEAU
-http://185.23.213.162:8789/ania/ania/40800
-#EXTINF:-1 group_title="Canada",TVA SPORTS HD
-http://185.23.213.162:8789/ania/ania/40802
-#EXTINF:-1 group_title="Canada",TVO
-http://185.23.213.162:8789/ania/ania/40803
-#EXTINF:-1 group_title="Canada",UNIS TV
-http://185.23.213.162:8789/ania/ania/40804
-#EXTINF:-1 group_title="Canada",VISION
-http://185.23.213.162:8789/ania/ania/40805
-#EXTINF:-1 group_title="Canada",VRAK TV
-http://185.23.213.162:8789/ania/ania/40806
-#EXTINF:-1 group_title="Canada",VTELE HD
-http://185.23.213.162:8789/ania/ania/40807
-#EXTINF:-1 group_title="Canada",Wild TV
-http://185.23.213.162:8789/ania/ania/40810
-#EXTINF:-1 group_title="Canada",WORLD FISHING NET
-http://185.23.213.162:8789/ania/ania/40811
-#EXTINF:-1 group_title="Canada",WSBK
-http://185.23.213.162:8789/ania/ania/40812
-#EXTINF:-1 group_title="Canada",YES TV
-http://185.23.213.162:8789/ania/ania/40814
-#EXTINF:-1 group_title="Canada",YOOPA
-http://185.23.213.162:8789/ania/ania/40815
-#EXTINF:-1 group_title="Canada",ZESTE
-http://185.23.213.162:8789/ania/ania/40818
-#EXTINF:-1 group_title="Canada",ZTELE
-http://185.23.213.162:8789/ania/ania/40819
-#EXTM3U
-#EXTINF:0,&FLIX HD
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/520.ts
-#EXTINF:0,& PRIVE HD
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1019.ts
-#EXTINF:0,MOVIES NOW
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1325.ts
-#EXTINF:0,MBC MAX
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1259.ts
-#EXTINF:0,MBC 2
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1292.ts
-#EXTINF:0,NEWMAX MOVIES
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1403.ts
-#EXTINF:0,SKY MOVIES DISNEY
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/121.ts
-#EXTINF:0,SKY MOVIES FAMILY
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/93.ts
-#EXTINF:0,SKY CINEMA ACTION
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/91.ts
-#EXTINF:0,5STAR
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/875.ts
-#EXTINF:0,QUEST
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/953.ts
-#EXTINF:0,PICK
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1415.ts
-#EXTINF:0,E4
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/143.ts
-#EXTINF:0,MORE4
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1384.ts
-#EXTINF:0,MORE 7
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1388.ts
-#EXTINF:0,DAVE
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1349.ts
-#EXTINF:0,BBC NEWS
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/59.ts
-#EXTINF:0,SKY NEWS
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/45.ts
-#EXTINF:0,CNN NEWS
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1053.ts
-#EXTINF:0,FOX NEWS
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1164.ts
-#EXTINF:0,EURO NEWS
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1364.ts
-#EXTINF:0,SKY SPORTS NEWS
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/63.ts
-#EXTINF:0,ITV
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/47.ts
-#EXTINF:0,ITV 2
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1383.ts
-#EXTINF:0,ITV 3
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1414.ts
-#EXTINF:0,ITV 4
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1386.ts
-#EXTINF:0,CHANNEL 4
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/49.ts
-#EXTINF:0,CHANNEL 5
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/48.ts
-#EXTINF:0,BBC ONE
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/51.ts
-#EXTINF:0,BBC TWO
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/53.ts
-#EXTINF:0,PPV EVENT LIVE
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/650.ts
-#EXTINF:0,BOX NATION
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/69.ts
-#EXTINF:0,UFC FIGHT
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1448.ts
-#EXTINF:0,WWE NETWORK
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1431.ts
-#EXTINF:0,WILLOW CRICKET
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1451.ts
-#EXTINF:0,SONY ESPN
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1453.ts
-#EXTINF:0,TEN 2
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1432.ts
-#EXTINF:0,TEN 3
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1316.ts
-#EXTINF:0,SONY SIX
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1428.ts
-#EXTINF:0,BT SPORTS 1
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/64.ts
-#EXTINF:0,BT SPORTS 2
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/66.ts
-#EXTINF:0,BT SPORTS 3
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/492.ts
-#EXTINF:0,EPL 1
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1425.ts
-#EXTINF:0,NBCSN (EPL LIVE)
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1335.ts
-#EXTINF:0,SKY SPORTS MAIN EVENT
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/154.ts
-#EXTINF:0,SKY SPORTS 2
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/205.ts
-#EXTINF:0,SKY SPORTS 3
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/242.ts
-#EXTINF:0,SKY SPORTS GOLF
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/61.ts
-#EXTINF:0,BOOMERANG
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/544.ts
-#EXTINF:0,CARTOON NETWORK
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/1170.ts
-#EXTINF:0,NICKTOONS
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/655.ts
-#EXTINF:0,NICK JUNIOR
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/99.ts
-#EXTINF:0,DISNEY JUNIOR
-http://zoomiptv.club:8000/live/7J4RJXUJpx/ZprUsQes5b/110.ts
+#EXTINF:-1,CA: A&E
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27113
+#EXTINF:-1,CA: ABC EAST
+#EXTVLCOPT:network-caching=1000
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27114
+#EXTINF:-1,CA: ABC WEST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27115
+#EXTINF:-1,CA: ACTION
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27116
+#EXTINF:-1,CA: ADDIK TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27117
+#EXTINF:-1,CA: AHC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27118
+#EXTINF:-1,CA: AMC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27119
+#EXTINF:-1,CA: APTN
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27120
+#EXTINF:-1,CA: ARTV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27121
+#EXTINF:-1,CA: ASSEMBLEE NATIONALE QUEBEC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27122
+#EXTINF:-1,CA: BBC CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27123
+#EXTINF:-1,CA: BNN
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27124
+#EXTINF:-1,CA: BOOK TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27125
+#EXTINF:-1,CA: BRAVO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27126
+#EXTINF:-1,CA: CANAL D
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27127
+#EXTINF:-1,CA: CASA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27129
+#EXTINF:-1,CA: CBC MONTREAL
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27130
+#EXTINF:-1,CA: CBC OTTAWA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27131
+#EXTINF:-1,CA: CBC TORONTO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27132
+#EXTINF:-1,CA: CBC VANCOUVER
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27133
+#EXTINF:-1,CA: CBS EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27134
+#EXTINF:-1,CA: CBS WEST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27135
+#EXTINF:-1,CA: CHCH
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27136
+#EXTINF:-1,CA: CINEPOP
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27137
+#EXTINF:-1,CA: CITY MONTREAL
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27138
+#EXTINF:-1,CA: CITY TORONTO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27139
+#EXTINF:-1,CA: CITY VANCOUVER
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27140
+#EXTINF:-1,CA: CMT CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27141
+#EXTINF:-1,CA: COSMO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27142
+#EXTINF:-1,CA: COTTAGE LIFE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27143
+#EXTINF:-1,CA: CP24
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27144
+#EXTINF:-1,CA: CPAC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27145
+#EXTINF:-1,CA: CPAC FRENCH
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27146
+#EXTINF:-1,CA: CRIME   INVEST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27147
+#EXTINF:-1,CA: CW 11
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27148
+#EXTINF:-1,CA: DAYSTAR TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27149
+#EXTINF:-1,CA: DEJAVIEW
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27150
+#EXTINF:-1,CA: DIY
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27151
+#EXTINF:-1,CA: DTOUR
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27152
+#EXTINF:-1,CA: E! CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27153
+#EXTINF:-1,CA: ENCORE 1 EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27154
+#EXTINF:-1,CA: ENCORE 2 EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27155
+#EXTINF:-1,CA: EVASION
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27156
+#EXTINF:-1,CA: FAMILY CHRGD
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27157
+#EXTINF:-1,CA: FAMILY EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27158
+#EXTINF:-1,CA: FIGHT NETWORK
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27159
+#EXTINF:-1,CA: FOX EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27160
+#EXTINF:-1,CA: FOX WEST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27161
+#EXTINF:-1,CA: FRISSON
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27162
+#EXTINF:-1,CA: FTV CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27163
+#EXTINF:-1,CA: FYI
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27164
+#EXTINF:-1,CA: GAME TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27165
+#EXTINF:-1,CA: GLOBAL HALIFAX
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27166
+#EXTINF:-1,CA: GLOBAL TORONTO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27167
+#EXTINF:-1,CA: GLOBAL VANCOUVER
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27168
+#EXTINF:-1,CA: GOLF
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27169
+#EXTINF:-1,CA: GSN
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27170
+#EXTINF:-1,CA: GUSTO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27171
+#EXTINF:-1,CA: H2 CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27172
+#EXTINF:-1,CA: HBO 1
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27173
+#EXTINF:-1,CA: HBO 2
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27174
+#EXTINF:-1,CA: HGTV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27175
+#EXTINF:-1,CA: HLN
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27176
+#EXTINF:-1,CA: HOPE TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27177
+#EXTINF:-1,CA: ICI MONTREAL
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27178
+#EXTINF:-1,CA: ICI VANCOUVER
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27179
+#EXTINF:-1,CA: ID CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27180
+#EXTINF:-1,CA: IFC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27181
+#EXTINF:-1,CA: KNOWLEDGE KIDS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27182
+#EXTINF:-1,CA: KTLA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27183
+#EXTINF:-1,CA: LCN
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27184
+#EXTINF:-1,CA: LIFETIME
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27185
+#EXTINF:-1,CA: MAKEFUL
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27186
+#EXTINF:-1,CA: MAVTV CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27187
+#EXTINF:-1,CA: MAX
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27188
+#EXTINF:-1,CA: METEO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27189
+#EXTINF:-1,CA: MIRACLE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27190
+#EXTINF:-1,CA: MLB NETWORK
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27191
+#EXTINF:-1,CA: MOI CIE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27192
+#EXTINF:-1,CA: MTIME
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27193
+#EXTINF:-1,CA: NBA TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27194
+#EXTINF:-1,CA: NBC EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27195
+#EXTINF:-1,CA: NBC WEST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27196
+#EXTINF:-1,CA: NFL NETWORK
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27197
+#EXTINF:-1,CA: NICK
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27198
+#EXTINF:-1,CA: NTV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27199
+#EXTINF:-1,CA: OLN
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27200
+#EXTINF:-1,CA: OMNI 1
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27201
+#EXTINF:-1,CA: OMNI 2
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27202
+#EXTINF:-1,CA: ONE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27203
+#EXTINF:-1,CA: OUTTV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27204
+#EXTINF:-1,CA: OWN
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27205
+#EXTINF:-1,CA: PBS EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27206
+#EXTINF:-1,CA: PEACH TREE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27207
+#EXTINF:-1,CA: PRISE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27208
+#EXTINF:-1,CA: RDI
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27209
+#EXTINF:-1,CA: RDS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27210
+#EXTINF:-1,CA: RDS 2
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27211
+#EXTINF:-1,CA: RDS INFO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27212
+#EXTINF:-1,CA: SERIS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27213
+#EXTINF:-1,CA: SHOPPING
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27214
+#EXTINF:-1,CA: SHOWCASE EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27215
+#EXTINF:-1,CA: SILVER SCREEN CLASSICS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27216
+#EXTINF:-1,CA: SLICE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27217
+#EXTINF:-1,CA: SPACE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27218
+#EXTINF:-1,CA: SPIKE TV / PARAMOUNT CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27219
+#EXTINF:-1,CA: SUPER CHANNEL FUSE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27220
+#EXTINF:-1,CA: SUPER CHANNEL HEART & HOME
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27221
+#EXTINF:-1,CA: SUPER CHANNEL VAULT
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27222
+#EXTINF:-1,CA: SUPER ECRAN 1
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27223
+#EXTINF:-1,CA: SUPER ECRAN 2
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27224
+#EXTINF:-1,CA: SUPER ECRAN 3
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27225
+#EXTINF:-1,CA: SUPER ECRAN 4
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27226
+#EXTINF:-1,CA: TCM
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27227
+#EXTINF:-1,CA: TELE LATINO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27228
+#EXTINF:-1,CA: TELE QUEBEC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27229
+#EXTINF:-1,CA: TELEMAGINO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27230
+#EXTINF:-1,CA: TFO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27231
+#EXTINF:-1,CA: THE WEATHER NETWORK
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27232
+#EXTINF:-1,CA: TLC CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27233
+#EXTINF:-1,CA: TMN 1
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27234
+#EXTINF:-1,CA: TMN 2
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27235
+#EXTINF:-1,CA: TMN 3
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27236
+#EXTINF:-1,CA: TMN 4
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27237
+#EXTINF:-1,CA: TSN 1
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27238
+#EXTINF:-1,CA: TSN 2
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27239
+#EXTINF:-1,CA: TSN 3
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27240
+#EXTINF:-1,CA: TSN 4
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27241
+#EXTINF:-1,CA: TSN 5
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27242
+#EXTINF:-1,CA: TV5 QUEBEC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27243
+#EXTINF:-1,CA: TVA GATINEAU
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27244
+#EXTINF:-1,CA: TVA MONTREAL
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27245
+#EXTINF:-1,CA: TVA SPORTS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27246
+#EXTINF:-1,CA: TVO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27247
+#EXTINF:-1,CA: UNIS TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27248
+#EXTINF:-1,CA: VIE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27249
+#EXTINF:-1,CA: VISION
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27250
+#EXTINF:-1,CA: VRAK TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27251
+#EXTINF:-1,CA: W NETWORK
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27252
+#EXTINF:-1,CA: WFN
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27253
+#EXTINF:-1,CA: WGN
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27254
+#EXTINF:-1,CA: WILD TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27255
+#EXTINF:-1,CA: WSBK
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27256
+#EXTINF:-1,CA: YES TV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27257
+#EXTINF:-1,CA: YOOPA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27258
+#EXTINF:-1,CA: Z TELE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27259
+#EXTINF:-1,CA: ZESTE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27260
+#EXTINF:-1,CA: MEDIASET ITALIA CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27261
+#EXTINF:-1,CA: ABC SPARK CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27262
+#EXTINF:-1,CA: DISNEY CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27264
+#EXTINF:-1,CA: DISNEY FRENCH
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27265
+#EXTINF:-1,CA: DISNEY JR
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27266
+#EXTINF:-1,CA: FAMILY JR
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27267
+#EXTINF:-1,CA: TELE TOON EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27268
+#EXTINF:-1,CA: TELE TOON FRENCH
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27269
+#EXTINF:-1,CA: TREEHOUSE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27270
+#EXTINF:-1,CA: YTV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27271
+#EXTINF:-1,CA: YTV WEST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27272
+#EXTINF:-1,CA: TRAVEL + ESCAPE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27273
+#EXTINF:-1,CA: BBC WORLD NEWS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27274
+#EXTINF:-1,CA: CNBC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27275
+#EXTINF:-1,CA: CNN
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27276
+#EXTINF:-1,CA: CNN INTERNATIONAL
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27277
+#EXTINF:-1,CA: CBC NEWS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27278
+#EXTINF:-1,CA: FOX NEWS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27279
+#EXTINF:-1,CA: SPORTSNET 360
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27280
+#EXTINF:-1,CA: SPORTSNET EAST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27281
+#EXTINF:-1,CA: SPORTSNET ONE
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27282
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27283
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27284
+#EXTINF:-1,CA: SPORTSNET WEST
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27285
+#EXTINF:-1,CA: BET
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27286
+#EXTINF:-1,CA: MUSIQUE PLUS
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27287
+#EXTINF:-1,CA: MTV
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27288
+#EXTINF:-1,CA: MTV 2
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27289
+#EXTINF:-1,CA: FOOD NETWORK
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27290
+#EXTINF:-1,CA: COOKING CHANNEL
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27291
+#EXTINF:-1,CA: MUCH MUSIC
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27292
+#EXTINF:-1,CA: ANIMAL PLANET
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27293
+#EXTINF:-1,CA: CRIME + INVESTIGATION
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27294
+#EXTINF:-1,CA: DISCOVERY CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27295
+#EXTINF:-1,CA: DISCOVERY SCIENCE CANADA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27296
+#EXTINF:-1,CA: DOCUMENTARY
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27297
+#EXTINF:-1,CA: HISTORIO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27298
+#EXTINF:-1,CA: HISTORY
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27299
+#EXTINF:-1,CA: NAT GEO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27300
+#EXTINF:-1,CA: CTV 2 VANCOUVER
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27301
+#EXTINF:-1,CA: CTV HALIFAX
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27302
+#EXTINF:-1,CA: CTV MONTREAL
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27303
+#EXTINF:-1,CA: CTV OTTAWA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27304
+#EXTINF:-1,CA: CTV TORONTO
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27305
+#EXTINF:-1,CA: CTV VANCOUVER
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27306
+#EXTINF:-1,CA: CTV2 OTTAWA
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27307
+#EXTINF:-1,CA: CTV NEWS NETWORK
+http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27308
+
