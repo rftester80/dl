@@ -317,10 +317,6 @@ http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176991&line=Silver-IPTV-
 http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176967&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
 #EXTINF:0, CA: Sportsnet World HD
 http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176988&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
-#EXTINF:0, CA : Sportsnet One HD
-http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176992&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
-#EXTINF:0, CA : sportsnet world hd
-http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176990&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
 #EXTINF:0, CA: Super Channel Heart & Home
 http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176853&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
 #EXTINF:0, CA: SUPER ECRAN 1
