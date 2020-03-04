@@ -1,391 +1,464 @@
 #EXTM3U
-#EXTINF:-1,CA: A&E
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27113
-#EXTINF:-1,CA: ABC EAST
-#EXTVLCOPT:network-caching=1000
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27114
-#EXTINF:-1,CA: ABC WEST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27115
-#EXTINF:-1,CA: ACTION
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27116
-#EXTINF:-1,CA: ADDIK TV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27117
-#EXTINF:-1,CA: AHC
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27118
-#EXTINF:-1,CA: AMC
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27119
-#EXTINF:-1,CA: APTN
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27120
-#EXTINF:-1,CA: ARTV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27121
-#EXTINF:-1,CA: ASSEMBLEE NATIONALE QUEBEC
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27122
-#EXTINF:-1,CA: BBC CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27123
-#EXTINF:-1,CA: BNN
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27124
-#EXTINF:-1,CA: BOOK TV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27125
-#EXTINF:-1,CA: BRAVO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27126
-#EXTINF:-1,CA: CANAL D
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27127
-#EXTINF:-1,CA: CASA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27129
-#EXTINF:-1,CA: CBC MONTREAL
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27130
-#EXTINF:-1,CA: CBC OTTAWA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27131
-#EXTINF:-1,CA: CBC TORONTO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27132
-#EXTINF:-1,CA: CBC VANCOUVER
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27133
-#EXTINF:-1,CA: CBS EAST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27134
-#EXTINF:-1,CA: CBS WEST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27135
-#EXTINF:-1,CA: CHCH
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27136
-#EXTINF:-1,CA: CINEPOP
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27137
-#EXTINF:-1,CA: CITY MONTREAL
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27138
-#EXTINF:-1,CA: CITY TORONTO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27139
-#EXTINF:-1,CA: CITY VANCOUVER
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27140
-#EXTINF:-1,CA: CMT CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27141
-#EXTINF:-1,CA: COSMO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27142
-#EXTINF:-1,CA: COTTAGE LIFE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27143
-#EXTINF:-1,CA: CP24
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27144
-#EXTINF:-1,CA: CPAC
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27145
-#EXTINF:-1,CA: CPAC FRENCH
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27146
-#EXTINF:-1,CA: CRIME   INVEST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27147
-#EXTINF:-1,CA: CW 11
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27148
-#EXTINF:-1,CA: DAYSTAR TV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27149
-#EXTINF:-1,CA: DEJAVIEW
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27150
-#EXTINF:-1,CA: DIY
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27151
-#EXTINF:-1,CA: DTOUR
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27152
-#EXTINF:-1,CA: E! CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27153
-#EXTINF:-1,CA: ENCORE 1 EAST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27154
-#EXTINF:-1,CA: ENCORE 2 EAST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27155
-#EXTINF:-1,CA: EVASION
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27156
-#EXTINF:-1,CA: FAMILY CHRGD
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27157
-#EXTINF:-1,CA: FAMILY EAST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27158
-#EXTINF:-1,CA: FIGHT NETWORK
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27159
-#EXTINF:-1,CA: FOX EAST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27160
-#EXTINF:-1,CA: FOX WEST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27161
-#EXTINF:-1,CA: FRISSON
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27162
-#EXTINF:-1,CA: FTV CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27163
-#EXTINF:-1,CA: FYI
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27164
-#EXTINF:-1,CA: GAME TV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27165
-#EXTINF:-1,CA: GLOBAL HALIFAX
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27166
-#EXTINF:-1,CA: GLOBAL TORONTO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27167
-#EXTINF:-1,CA: GLOBAL VANCOUVER
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27168
-#EXTINF:-1,CA: GOLF
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27169
-#EXTINF:-1,CA: GSN
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27170
-#EXTINF:-1,CA: GUSTO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27171
-#EXTINF:-1,CA: H2 CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27172
-#EXTINF:-1,CA: HBO 1
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27173
-#EXTINF:-1,CA: HBO 2
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27174
-#EXTINF:-1,CA: HGTV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27175
-#EXTINF:-1,CA: HLN
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27176
-#EXTINF:-1,CA: HOPE TV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27177
-#EXTINF:-1,CA: ICI MONTREAL
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27178
-#EXTINF:-1,CA: ICI VANCOUVER
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27179
-#EXTINF:-1,CA: ID CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27180
-#EXTINF:-1,CA: IFC
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27181
-#EXTINF:-1,CA: KNOWLEDGE KIDS
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27182
-#EXTINF:-1,CA: KTLA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27183
-#EXTINF:-1,CA: LCN
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27184
-#EXTINF:-1,CA: LIFETIME
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27185
-#EXTINF:-1,CA: MAKEFUL
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27186
-#EXTINF:-1,CA: MAVTV CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27187
-#EXTINF:-1,CA: MAX
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27188
-#EXTINF:-1,CA: METEO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27189
-#EXTINF:-1,CA: MIRACLE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27190
-#EXTINF:-1,CA: MLB NETWORK
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27191
-#EXTINF:-1,CA: MOI CIE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27192
-#EXTINF:-1,CA: MTIME
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27193
-#EXTINF:-1,CA: NBA TV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27194
-#EXTINF:-1,CA: NBC EAST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27195
-#EXTINF:-1,CA: NBC WEST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27196
-#EXTINF:-1,CA: NFL NETWORK
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27197
-#EXTINF:-1,CA: NICK
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27198
-#EXTINF:-1,CA: NTV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27199
-#EXTINF:-1,CA: OLN
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27200
-#EXTINF:-1,CA: OMNI 1
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27201
-#EXTINF:-1,CA: OMNI 2
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27202
-#EXTINF:-1,CA: ONE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27203
-#EXTINF:-1,CA: OUTTV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27204
-#EXTINF:-1,CA: OWN
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27205
-#EXTINF:-1,CA: PBS EAST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27206
-#EXTINF:-1,CA: PEACH TREE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27207
-#EXTINF:-1,CA: PRISE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27208
-#EXTINF:-1,CA: RDI
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27209
-#EXTINF:-1,CA: RDS
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27210
-#EXTINF:-1,CA: RDS 2
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27211
-#EXTINF:-1,CA: RDS INFO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27212
-#EXTINF:-1,CA: SERIS
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27213
-#EXTINF:-1,CA: SHOPPING
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27214
-#EXTINF:-1,CA: SHOWCASE EAST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27215
-#EXTINF:-1,CA: SILVER SCREEN CLASSICS
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27216
-#EXTINF:-1,CA: SLICE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27217
-#EXTINF:-1,CA: SPACE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27218
-#EXTINF:-1,CA: SPIKE TV / PARAMOUNT CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27219
-#EXTINF:-1,CA: SUPER CHANNEL FUSE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27220
-#EXTINF:-1,CA: SUPER CHANNEL HEART & HOME
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27221
-#EXTINF:-1,CA: SUPER CHANNEL VAULT
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27222
-#EXTINF:-1,CA: SUPER ECRAN 1
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27223
-#EXTINF:-1,CA: SUPER ECRAN 2
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27224
-#EXTINF:-1,CA: SUPER ECRAN 3
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27225
-#EXTINF:-1,CA: SUPER ECRAN 4
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27226
-#EXTINF:-1,CA: TCM
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27227
-#EXTINF:-1,CA: TELE LATINO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27228
-#EXTINF:-1,CA: TELE QUEBEC
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27229
-#EXTINF:-1,CA: TELEMAGINO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27230
-#EXTINF:-1,CA: TFO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27231
-#EXTINF:-1,CA: THE WEATHER NETWORK
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27232
-#EXTINF:-1,CA: TLC CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27233
-#EXTINF:-1,CA: TMN 1
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27234
-#EXTINF:-1,CA: TMN 2
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27235
-#EXTINF:-1,CA: TMN 3
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27236
-#EXTINF:-1,CA: TMN 4
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27237
-#EXTINF:-1,CA: TSN 1
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27238
-#EXTINF:-1,CA: TSN 2
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27239
-#EXTINF:-1,CA: TSN 3
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27240
-#EXTINF:-1,CA: TSN 4
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27241
-#EXTINF:-1,CA: TSN 5
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27242
-#EXTINF:-1,CA: TV5 QUEBEC
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27243
-#EXTINF:-1,CA: TVA GATINEAU
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27244
-#EXTINF:-1,CA: TVA MONTREAL
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27245
-#EXTINF:-1,CA: TVA SPORTS
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27246
-#EXTINF:-1,CA: TVO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27247
-#EXTINF:-1,CA: UNIS TV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27248
-#EXTINF:-1,CA: VIE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27249
-#EXTINF:-1,CA: VISION
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27250
-#EXTINF:-1,CA: VRAK TV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27251
-#EXTINF:-1,CA: W NETWORK
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27252
-#EXTINF:-1,CA: WFN
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27253
-#EXTINF:-1,CA: WGN
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27254
-#EXTINF:-1,CA: WILD TV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27255
-#EXTINF:-1,CA: WSBK
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27256
-#EXTINF:-1,CA: YES TV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27257
-#EXTINF:-1,CA: YOOPA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27258
-#EXTINF:-1,CA: Z TELE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27259
-#EXTINF:-1,CA: ZESTE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27260
-#EXTINF:-1,CA: MEDIASET ITALIA CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27261
-#EXTINF:-1,CA: ABC SPARK CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27262
-#EXTINF:-1,CA: DISNEY CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27264
-#EXTINF:-1,CA: DISNEY FRENCH
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27265
-#EXTINF:-1,CA: DISNEY JR
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27266
-#EXTINF:-1,CA: FAMILY JR
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27267
-#EXTINF:-1,CA: TELE TOON EAST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27268
-#EXTINF:-1,CA: TELE TOON FRENCH
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27269
-#EXTINF:-1,CA: TREEHOUSE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27270
-#EXTINF:-1,CA: YTV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27271
-#EXTINF:-1,CA: YTV WEST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27272
-#EXTINF:-1,CA: TRAVEL + ESCAPE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27273
-#EXTINF:-1,CA: BBC WORLD NEWS
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27274
-#EXTINF:-1,CA: CNBC
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27275
-#EXTINF:-1,CA: CNN
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27276
-#EXTINF:-1,CA: CNN INTERNATIONAL
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27277
-#EXTINF:-1,CA: CBC NEWS
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27278
-#EXTINF:-1,CA: FOX NEWS
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27279
-#EXTINF:-1,CA: SPORTSNET 360
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27280
-#EXTINF:-1,CA: SPORTSNET EAST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27281
-#EXTINF:-1,CA: SPORTSNET ONE
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27282
-#EXTINF:-1,CA: SPORTSNET ONTARIO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27283
-#EXTINF:-1,CA: SPORTSNET PACIFIC
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27284
-#EXTINF:-1,CA: SPORTSNET WEST
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27285
-#EXTINF:-1,CA: BET
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27286
-#EXTINF:-1,CA: MUSIQUE PLUS
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27287
-#EXTINF:-1,CA: MTV
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27288
-#EXTINF:-1,CA: MTV 2
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27289
-#EXTINF:-1,CA: FOOD NETWORK
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27290
-#EXTINF:-1,CA: COOKING CHANNEL
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27291
-#EXTINF:-1,CA: MUCH MUSIC
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27292
-#EXTINF:-1,CA: ANIMAL PLANET
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27293
-#EXTINF:-1,CA: CRIME + INVESTIGATION
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27294
-#EXTINF:-1,CA: DISCOVERY CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27295
-#EXTINF:-1,CA: DISCOVERY SCIENCE CANADA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27296
-#EXTINF:-1,CA: DOCUMENTARY
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27297
-#EXTINF:-1,CA: HISTORIO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27298
-#EXTINF:-1,CA: HISTORY
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27299
-#EXTINF:-1,CA: NAT GEO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27300
-#EXTINF:-1,CA: CTV 2 VANCOUVER
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27301
-#EXTINF:-1,CA: CTV HALIFAX
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27302
-#EXTINF:-1,CA: CTV MONTREAL
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27303
-#EXTINF:-1,CA: CTV OTTAWA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27304
-#EXTINF:-1,CA: CTV TORONTO
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27305
-#EXTINF:-1,CA: CTV VANCOUVER
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27306
-#EXTINF:-1,CA: CTV2 OTTAWA
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27307
-#EXTINF:-1,CA: CTV NEWS NETWORK
-http://tvpremiumhd.club/lista-gratuita/224502/tv/live.php?id=27308
-
+#EXTM3U
+#EXTINF:0, CA: A&E
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176862&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: ABC
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176873&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: ABC SPARK
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176868&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Addik TV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176880&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: ADULT SWIM
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176884&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: AHC
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176891&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: AMC
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176895&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: BBC WORLD NEWS
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176918&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: BEIN SPORTS
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176977&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: BNN Bloomberg
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176920&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CablePulse 24
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176900&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Canal D
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176827&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Canal Savoir
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176832&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CANAL V
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176767&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CARTOON NETWORK  |  SD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176770&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CASA
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176837&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176877&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC CALGARY
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176786&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC Montreal
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176789&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC Montreal HD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176788&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC News Network
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176907&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC Oshawa
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176791&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC OTTAWA
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176793&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC St. John's
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176795&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC TORONTO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176799&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC Toronto
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176797&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC VANCOUVER
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176800&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBC3
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176803&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CBS
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176888&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CHCH
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176916&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CITY CALGARY
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176805&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CITY MONTREAL
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176807&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CITY TORONTO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176809&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: City Toronto
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176813&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CITY VANCOUVER
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176811&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CNBC
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176917&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CNN
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176922&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: COOKING CHANNEL
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176825&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: COTTAGE LIFE
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176830&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CP24
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176901&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CPAC EN
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176902&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CPAC FR
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176904&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Crave 1
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176836&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Crave 2
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176838&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Crave 3
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176840&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Crave 4
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176844&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Crime & Investigation
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176849&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CRIME + INVESTIGATION
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176854&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV 2 VANCOUVER
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176792&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV CALGARY
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176794&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV COMEDY EAST
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176864&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV Drama
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176870&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV HALIFAX
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176801&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV MONTREAL
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176802&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV News Channel
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176914&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV NEWS NETWORK
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176915&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV OTTAWA
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176804&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV SCI-FI Channel
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176897&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV TORONTO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176806&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV TORONTO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176808&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV Two Atlantic
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176810&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV VANCOUVER
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176812&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: CTV2 OTTAWA
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176817&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: DAZN 1
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176936&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: DAZN 2
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176939&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: DAZN 3
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176944&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: DAZN 4
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176947&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: DAZN 5
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176928&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: DAZN 6
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176932&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Disney Channel
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176780&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Disney Junior
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176771&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Disney Junior |SD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176769&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: DISNEY XD |HD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176772&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: DIY
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176839&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: DTOUR
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176842&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: E! Entertainment Television
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176843&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Evasion
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176848&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: FAMILY
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176852&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: FAMILY CHARGED
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176856&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: FAMILY JR
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176773&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: FIGHT NETWORK
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176957&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: FOOD NETWORK
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176869&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: FOX
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176892&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: FOX NEWS
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176912&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Fox news
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176996&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: FOX NEWS
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176913&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: FOX NEWS | UHD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176919&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Fox Sports Racing
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176958&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: FX
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176896&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: GINX ESPORTSTV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176850&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: GLOBAL HALIFAX
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176814&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: GLOBAL NEWBRUNSWICK
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176815&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: GLOBAL TORONTO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176818&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: GLOBAL TORONTO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176816&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: GLOBAL VANCOUVER
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176819&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: GOLF
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176979&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: H2
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176823&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: HBO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176833&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: HBO 2
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176828&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Headline News
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176903&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: HGTV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176841&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: HISTORIA
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176847&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: HISTORY
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176851&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: HLN
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176908&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: ICI Montreal
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176909&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: ICI Radio-Canada Télé
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176796&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: ICI RDI
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176867&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: ICI RDI
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176910&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: ICI Vancouver
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176911&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: ID
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176879&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: KNOWLEDGE KIDS
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176775&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: LCN
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176890&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: LIFETIME
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176894&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: MLB NETWORK
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176972&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: MovieTime
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176995&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: MovieTime
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176845&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: MOVIETIME HD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176997&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Much
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176821&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: MUSIC PLUS
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176826&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Musique Plus
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176831&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: NAT GEO WILD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176834&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: NATIONAL GEOGRAPHIC
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176835&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: NBA TV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176940&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: NEWS: ICI ARTV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176905&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: NEWS: ICI Radio-Canada Tele
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176906&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: NFL NETWORK
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176956&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: NICKELODEON
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176774&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: NTV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176865&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: OLN
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176871&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: OMNI 1
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176876&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: OMNI 2
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176882&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: ONE
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176886&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Optus Sport 1
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176971&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Optus Sport 2
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176976&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Optus Sport 3
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176981&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Optus Sport 4
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176984&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Optus Sport 5
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176986&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Optus Sport 6
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176925&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Optus Sport 7
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176926&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: OWN
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176887&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: PBS
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176893&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: PEACHTREE
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176898&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SLICE
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176824&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPIKE TV / PARAMOUNT
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176829&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Sportnet Ontario HD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176994&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Sportnet Pacific HD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176989&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPORTSNET 360
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176930&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: sportsnet 360 hd
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176993&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPORTSNET EAST
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176931&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPORTSNET ONE
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176935&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPORTSNET ONTARIO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176946&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPORTSNET ONTARIO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176938&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPORTSNET ONTARIO*
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176942&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPORTSNET PACIFIC
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176951&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPORTSNET PPPV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176943&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPORTSNET WEST
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176953&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Sportsnet West HD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176991&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SPORTSNET WORLD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176967&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Sportsnet World HD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176988&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA : Sportsnet One HD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176992&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA : sportsnet world hd
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176990&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Super Channel Heart & Home
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176853&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER ECRAN 1
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176857&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER ECRAN 2
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176875&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER ECRAN 3
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176881&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER ECRAN 4
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176885&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 368
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176959&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 432
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176960&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 436
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176961&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 436
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176962&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 437
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176963&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 438
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176964&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 439
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176965&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 440
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176966&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 441
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176968&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 442
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176970&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 443
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176975&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 444
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176980&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 450
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176983&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 461
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176985&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 462
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176924&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 473
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176927&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 475
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176929&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 476
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176934&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 477
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176937&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 478
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176941&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 479
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176945&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 480
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176949&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 481
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176950&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 482
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176952&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 483
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176954&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: SUPER SPORTS CH 484
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176955&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TCM |HD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176859&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TCTV2 |HD
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176863&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Tele-Quebec
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176798&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TELEMAGINO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176874&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Teletoon
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176777&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TREEHOUSE
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176779&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TSN 1
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176969&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TSN 2
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176973&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TSN 3
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176974&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TSN 4
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176978&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TSN 5
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176982&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TV Ontario
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176921&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TV Rogers
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176822&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TV5 Quebec
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176782&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TV5 Quebec
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176783&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TVA  Sports 2
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176933&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TVA Gatineau
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176784&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TVA Montreal
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176787&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TVA Montreal
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176785&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TVA Sports
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176948&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: TVO
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176846&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: T鬩 Qu颥c
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176790&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Unis TV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176855&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Vie
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176858&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: VISION
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176860&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: VRAK TV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176861&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: W NETWORK
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176866&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: WFN
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176872&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: WGN
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176878&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: Wild TV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176883&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: YES TV
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176889&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: YOOPA
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176776&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, CA: YTV East
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176778&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, jhgjhgjhg
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176781&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, jhgjhgjhg
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176923&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, jhgjhgjhg
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176899&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, jhgjhgjhg
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176987&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, jhgjhgjhg
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176768&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
+#EXTINF:0, jhgjhgjhg
+http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176820&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
