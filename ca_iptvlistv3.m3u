@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 #EXTINF:0, CA: A&E
 http://a-network.ca/iptv/stream-live.php/video.m3u8?url=176862&line=Silver-IPTV-Channels-Free.m3u&user=all&pass=all
 #EXTINF:0, CA: ABC
