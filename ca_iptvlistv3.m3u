@@ -58,3 +58,9 @@ http://ingrid.ltd:25461/Melon3175/Melon7531/67580?checkedby:hlscat.com
 http://ingrid.ltd:25461/Melon3175/Melon7531/67581?checkedby:hlscat.com
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN5 HD Blackout 2 (R)
 http://ingrid.ltd:25461/Melon3175/Melon7531/67582?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
+http://randomserver.site:2086/live/Bria/Bria/65840.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/41834?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV HD (R)
+http://ingrid.ltd:25461/Melon3175/Melon7531/67279?checkedby:hlscat.com
